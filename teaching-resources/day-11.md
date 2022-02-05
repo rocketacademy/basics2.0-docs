@@ -6,13 +6,13 @@ Today is the last course day before the final project presentation. Unlike other
 
 ## **Project Due**
 
-[Project 3: Blackjack](../projects/project-3-blackjack.md)
+[Project 3: Blackjack](../coursework/projects/project-3-blackjack.md)
 
 ## Pre-Class Material
 
 Total Video Watch Time: **\~18 mins**
 
-### [11.1: Advanced Debugging with Sources Tab](../10-advanced/11.1-advanced-debugging-with-sources-tab.md)
+### [11.1: Advanced Debugging with Sources Tab](../modules/6-advanced/11.1-advanced-debugging-with-sources-tab.md)
 
 We've already seen debugging with the simple tool of `console.log`. Sometimes this is not enough. If the code is behaving in a way that doesn't make sense or there is an error in a loop that runs many times and creates a hard to read console.log output, the next level of control and granularity is to use the debugger.
 
@@ -61,7 +61,7 @@ innerCounter == 0 // true
 innerCounter == sideLength - 1 // false
 ```
 
-### [12.3: Project Deployment](../8-github/12.3-deployment.md)
+### [12.3: Project Deployment](broken-reference)
 
 The starter code is setup in such a way that it can easily be put on the real internet. Encourage the students to share their game with their friends.
 
@@ -71,13 +71,13 @@ Another example of a deployed project is on the base blackjack repository: [http
 
 ## In-Class Material
 
-### [Day 11: Blackjack Redux and Debugger](../in-class-exercises/day-11-blackjack-redux-debugger.md)
+### [Day 11: Blackjack Redux and Debugger](../coursework/in-class-exercises/day-11-blackjack-redux-debugger/)
 
 This exercise should prioritize getting those students who are stuck without a basic working game to understand how to move forward with their project.
 
 ## Post-Class: Begin Project
 
-### [Project 3: Blackjack (More Comfortable)](../projects/project-3-blackjack.md#more-comfortable)
+### [Project 3: Blackjack (More Comfortable)](../coursework/projects/project-3-blackjack.md#more-comfortable)
 
 There is a bit more time to continue working on the project. It's not required to switch to working on the more comfortable tasks if the base version is not yet done.
 

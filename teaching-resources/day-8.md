@@ -12,13 +12,13 @@ Sometimes assignment into a given key can look confusing: `card.rank = newRank;`
 
 ## Project Due
 
-[Project 2: Beat That!](../projects/project-2-beat-that.md)
+[Project 2: Beat That!](../coursework/projects/project-2-beat-that.md)
 
 ## Pre-Class Material
 
 Total Video Watch Time: **\~15 mins**
 
-### [10.1: JavaScript Objects](../9-javascript-objects/10.1-javascript-objects.md)
+### [10.1: JavaScript Objects](../modules/1-data-structures-and-manipulations/10.1-javascript-objects.md)
 
 ```javascript
 var cardDeck = ['nine of hearts', 'ten of hearts', 'jack of hearts'];
@@ -397,11 +397,11 @@ A: Add each emoji to each card object. (This is inefficient but would make sense
 
 ## In-Class Material
 
-[Day 8: Beat That Redux](../in-class-exercises/day-8-beat-that-redux.md)
+[Day 8: Beat That Redux](../coursework/in-class-exercises/day-9-moar-cards/day-8-beat-that-redux.md)
 
 ## Post-Class: Begin Project
 
-### [Project 3: Blackjack](../projects/project-3-blackjack.md)
+### [Project 3: Blackjack](../coursework/projects/project-3-blackjack.md)
 
 This card game is the final project, the accumulation of everything we've learned. The core of this project is a card game that has some complexity to it, so we've given some instructions that should help break it down and make it easier.
 

@@ -25,7 +25,7 @@ As a shortcut, we can run the following command in the terminal to create all th
 {% endhint %}
 
 {% hint style="warning" %}
-When cloning the starter code, choose to [name the target folder](../../8-github/4.1-intro-to-github.md#git-clone) to the relevant exercise name. This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
+When cloning the starter code, choose to [name the target folder](broken-reference) to the relevant exercise name. This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
 {% endhint %}
 
 ![Sample basics folder in Finder on MacOS](<../../.gitbook/assets/截屏2021-03-02 15.50.36.png>)

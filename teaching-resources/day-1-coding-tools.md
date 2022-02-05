@@ -15,14 +15,14 @@ This day has a heavier section of content than the other days so be prepared for
 **Sorting out setup problems from students (with VSCode or the terminal or folders) will be an issue on the first meeting.** Unless you know for sure that it is a quick fix, don't spend any time in front of everyone to fix one person's problem. Either wait until the pairing or, even better, wait to meet with them after the session.
 
 {% hint style="warning" %}
-Before the meeting, ask the students to put their [4.2 Our First Program](../2-basic-data-manipulation/4.2-our-first-program.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
+Before the meeting, ask the students to put their [4.2 Our First Program](../modules/2-structuring-and-debugging-code/4.2-our-first-program.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
 {% endhint %}
 
 ## Pre-Class Material
 
 Total Video Watch Time: **\~48 mins**
 
-### [1.1: What is Coding?](../1-introduction/1.1-what-is-coding.md)
+### [1.1: What is Coding?](../modules/0-introduction/0.1-what-is-coding.md)
 
 #### Overview:
 
@@ -48,7 +48,7 @@ Car engine
 
 Input: Readings from engine sensors. Output: instructions to the engine parts (i.e., fuel injectors, etc.)
 
-### [1.2: Web Browsers](../1-introduction/1.2-web-browsers.md)
+### [1.2: Web Browsers](../modules/0-introduction/0.2-web-browsers.md)
 
 #### Overview
 
@@ -64,7 +64,7 @@ A: HTML is a file with words and characters in it. HTML specifies what appears i
 
 A: After HTML is loaded by the browser, if the HTML contains JavaScript or a reference to some JavaScript, that JavaScript code is run in the context of that page.
 
-### [2.1: Command Line](../1-introduction/2.1-command-line.md)
+### [2.1: Command Line](broken-reference)
 
 #### Overview
 
@@ -104,15 +104,15 @@ A: Git is a program you use \*inside\* the terminal. The terminal is the compute
 
 #### Q: How do I get a previous version back?
 
-A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section [7.2 on browsing GitHub](../8-github/7.2-github-repo-browsing.md) we'll see how we can navigate and copy and paste a previous version.
+A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section [7.2 on browsing GitHub](broken-reference) we'll see how we can navigate and copy and paste a previous version.
 
-### [3.1: Operations](../2-basic-data-manipulation/3.1-operations.md)
+### [3.1: Operations](../modules/1-data-structures-and-manipulations/3.1-operations.md)
 
 #### Overview
 
 This section is relatively intuitive. It is important to establish here that an **operation** is the smallest bit of computation we can start with. All other code we'll write stems from doing operations, though they may not all be with integers.
 
-### [3.2: Variables](../2-basic-data-manipulation/3.2-variables.md)
+### [3.2: Variables](../modules/1-data-structures-and-manipulations/3.2-variables.md)
 
 #### Overview
 
@@ -122,7 +122,7 @@ From operations we add in variables. Here it is important to re-emphasise the co
 
 A: Accurate representation is just as important as correct calculation.
 
-### [4.1: Intro to GitHub](../8-github/4.1-intro-to-github.md)
+### [4.1: Intro to GitHub](broken-reference)
 
 #### Overview
 
@@ -138,7 +138,7 @@ A: Git is a version control program. GitHub is a web application for keeping Git
 
 A: It copies a cloud (remote) repo from one GitHub account into your own account.
 
-### [4.2: Our First Program](../2-basic-data-manipulation/4.2-our-first-program.md)
+### [4.2: Our First Program](../modules/2-structuring-and-debugging-code/4.2-our-first-program.md)
 
 #### Overview
 
@@ -184,7 +184,7 @@ var main = function (input) {
 
 ## In-Class Material
 
-### [Day 1: Basic File and Data Manipulation](../in-class-exercises/day-1-basic-file-and-data-manipulation.md)
+### [Day 1: Basic File and Data Manipulation](../coursework/in-class-exercises/day-1-basic-file-and-data-manipulation/)
 
 #### Overview
 

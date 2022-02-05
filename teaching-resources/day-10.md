@@ -10,7 +10,7 @@ Reiterate to the students how important the process and approach to the code and
 
 Total Video Watch Time: **\~60 mins**
 
-### [10.3: War Card Game Sample Implementation](../9-javascript-objects/10.3-card-game-example-war.md)
+### [10.3: War Card Game Sample Implementation](broken-reference)
 
 #### Q: Why do we want to control which cards get dealt from the deck?
 
@@ -85,7 +85,7 @@ A: If, during a war, both players draw a six, the human player wins.
 
 ## In-Class Material
 
-### [Day 10: Chat Bot](../in-class-exercises/day-10-chat-bot.md)
+### [Day 10: Chat Bot](broken-reference)
 
 This exercise introduces one new object syntax that will be needed in order to complete it. Demonstrate this for the students.
 

@@ -4,7 +4,7 @@
 
 ### Intro to Git
 
-Command-line software is software primarily operated from the command line (we will explain this in a video) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. Command-line software is not stored in a computer's Applications folder. We'll cover [more about the command line in 1.3.](../../1-introduction/2.1-command-line.md)
+Command-line software is software primarily operated from the command line (we will explain this in a video) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. Command-line software is not stored in a computer's Applications folder. We'll cover [more about the command line in 1.3.](broken-reference)
 
 Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during Coding Basics to download and upload copies of projects. We'll cover more about Git in [Module 7](broken-reference).
 
@@ -242,7 +242,7 @@ _Once you have been added to a section in Slack_, send your first message to you
 
 ### Retrieve Your OS Version
 
-These commands are for the intro above. Don't worry about exactly what's happening in these commands yet. This exercise is just to get you started with typing in the Command Line interface and sending Slack messages. We'll learn more about the command line in [1.3 Command Line.](../../1-introduction/2.1-command-line.md)
+These commands are for the intro above. Don't worry about exactly what's happening in these commands yet. This exercise is just to get you started with typing in the Command Line interface and sending Slack messages. We'll learn more about the command line in [1.3 Command Line.](broken-reference)
 
 #### Windows
 

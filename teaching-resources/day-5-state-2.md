@@ -10,13 +10,13 @@ For this day, instead of an in-class exercise that explicitly deals with the pre
 
 ## Project Due
 
-[Project 1.5: Scissors Paper Stone 2](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
+[Project 1.5: Scissors Paper Stone 2](../coursework/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
 ## Pre-Class Material
 
 Total Video Watch Time: **\~17 mins**
 
-### [8.3: Input Validation](../4-conditional-logic/8.3-input-validation.md)
+### [8.3: Input Validation](../modules/3-logic-and-control-flow/8.3-input-validation.md)
 
 ### Number
 
@@ -74,7 +74,7 @@ A: This "early return" code might be easier to read because the logical flow of 
 
 In the version with the else you have to indent the main part of the program. In general it's easier to read code that is refactored to be less indented (for instance in an extreme example you might have to nest 10 times. one condition inside another, inside another, etc.)
 
-### [8.2: Program State for Game Modes](../5-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
+### [8.2: Program State for Game Modes](../modules/4-scope/8.2-program-state-for-game-modes.md)
 
 #### Example 1
 
@@ -208,7 +208,7 @@ A: Rearranging the code so that the mode conditions are more readable, abstracti
 
 ## In-Class Material
 
-### [Day 5: Scissors Paper Stone Redux](../in-class-exercises/day-5-scissors-paper-stone-redux.md)
+### [Day 5: Scissors Paper Stone Redux](../coursework/in-class-exercises/day-6-loops/day-5-scissors-paper-stone-redux.md)
 
 ## Code Review - Individual Review
 
@@ -248,7 +248,7 @@ Put the students in their breakout room pairs.
 
 ## Post-Class: Begin Project
 
-[Project 2: Beat That!](../projects/project-2-beat-that.md)
+[Project 2: Beat That!](../coursework/projects/project-2-beat-that.md)
 
 ## Look Ahead / Wrap Up
 

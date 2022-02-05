@@ -2,24 +2,22 @@
 description: What and when we will learn
 ---
 
-# 📅 Batch 13 Schedule
+# 📅 Basics 2.0 Schedule
 
 ## Course Dates
 
-| Week |                   Tuesday                   |                   Saturday                  |
-| :--: | :-----------------------------------------: | :-----------------------------------------: |
-|   0  |                      -                      | [22 Jan](batch-13-schedule.md#course-day-0) |
-|   1  | [25 Jan](batch-13-schedule.md#course-day-1) | [29 Jan](batch-13-schedule.md#course-day-2) |
-|   2  |             public holiday (SG)             |  [5 Feb](batch-13-schedule.md#course-day-3) |
-|   3  |  [8 Feb](batch-13-schedule.md#course-day-4) | [12 Feb](batch-13-schedule.md#course-day-5) |
-|   4  | [15 Feb](batch-13-schedule.md#course-day-6) | [19 Feb](batch-13-schedule.md#course-day-7) |
-|   5  | [22 Feb](batch-13-schedule.md#course-day-8) | [26 Feb](batch-13-schedule.md#course-day-9) |
-|   6  | [1 Mar](batch-13-schedule.md#course-day-10) | [5 Mar](batch-13-schedule.md#course-day-11) |
-|   7  | [8 Mar](batch-13-schedule.md#course-day-12) |                      -                      |
+| Week | Monday | Thursday |
+| :--: | :----: | :------: |
+|   0  |        |          |
+|   1  |        |          |
+|   2  |        |          |
+|   3  |        |          |
+|   4  |        |          |
+|   5  |        |          |
 
 ## &#x20;<a href="#course-day-0" id="course-day-0"></a>
 
-## Sat 22 Jan, Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
+## Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
 Meeting time: **1:00 PM SGT** (GMT+8)
 
@@ -40,7 +38,7 @@ Meeting time: **1:00 PM SGT** (GMT+8)
    2. [Pre-Class Material](batch-13-schedule.md#pre-class)
 4. Section Introductions and Icebreakers
 
-## Tue 25 Jan, Week 1, Course Day 1: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
+## Week 1, Course Day 1: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -72,7 +70,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 1: Basic Data Manipulation](../../in-class-exercises/day-1-basic-file-and-data-manipulation.md)
 
-## Sat 29 Jan, Week 1, Course Day 2: Functions <a href="#course-day-2" id="course-day-2"></a>
+## Week 1, Course Day 2: Functions <a href="#course-day-2" id="course-day-2"></a>
 
 Meeting time: 1:00 PM SGT (GMT+8)
 

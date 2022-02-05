@@ -12,7 +12,7 @@ The objective of live classes is to enable students to gain a better understandi
 
 **Live classes are mandatory.** They will be held over Zoom.
 
-There will be 1 pre-course briefing and 12 classes in total. Each section will have their own Zoom room to meet for live classes.
+There will be 1 pre-course briefing and 10 classes in total. Each section will have their own Zoom room to meet for live classes.
 
 Live classes will generally follow this outline:
 

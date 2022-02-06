@@ -62,8 +62,8 @@
   * [5.1: HTML](modules/5-html-and-css/5.1-html.md)
   * [5.2: CSS](modules/5-html-and-css/css.md)
 * [6: Document Object Model](modules/6-document-object-model/README.md)
-  * [10.1: HTML, CSS Referencing](modules/6-document-object-model/12.2-html-css-review.md)
-  * [10.2: Browser Applications with DOM](modules/6-document-object-model/12.1-browser-applications-with-dom.md)
+  * [6.1: HTML, CSS Referencing](modules/6-document-object-model/6.1-html-css-review.md)
+  * [6.2: Browser Applications with DOM](modules/6-document-object-model/6.2-browser-applications-with-dom.md)
   * [6.3: Advanced Debugger](modules/6-document-object-model/6.3-advanced-debugger.md)
 * [Further Readings](modules/further-readings.md)
 

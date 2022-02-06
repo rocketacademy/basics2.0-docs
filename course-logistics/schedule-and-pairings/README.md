@@ -164,8 +164,8 @@ Project 3: Blackjack
 
 Module 6: Document Object Model
 
-* 6.1 HTML / CSS Referencing
-* 6.2 Browser Application with DOM
+* [6.1 HTML / CSS Referencing](../../modules/6-document-object-model/6.1-html-css-review.md)
+* [6.2 Browser Application with DOM](../../modules/6-document-object-model/6.2-browser-applications-with-dom.md)
 
 ### In Class
 

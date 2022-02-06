@@ -216,7 +216,7 @@ In most casinos, all cards are face-up except the dealer's first card. This inje
 
 ### Additional HTML Elements
 
-Look ahead to [12.1 Browser Application with DOM](../../modules/6-document-object-model/12.1-browser-applications-with-dom.md) to see how additional HTML elements can be referenced and manipulated; add a button for 'Hit' and 'Stand'.
+Look ahead to [12.1 Browser Application with DOM](../../modules/6-document-object-model/6.2-browser-applications-with-dom.md) to see how additional HTML elements can be referenced and manipulated; add a button for 'Hit' and 'Stand'.
 
 ### Additional Game Logic
 

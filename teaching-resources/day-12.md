@@ -17,17 +17,17 @@ Mention to the students that this day isn't meant as a full review of the pre-cl
 
 #### [Project 3: Blackjack (More Comfortable)](../coursework/projects/project-3-blackjack.md#more-comfortable)
 
-Deploy Blackjack to the internet with instructions from [Module 12.3: Deployment](broken-reference)
+Deploy Blackjack to the internet with instructions from [Module 12.3: Deployment](broken-reference/)
 
 ## Pre-Class Material
 
 Total Video Watch Time: **\~22 mins**
 
-### [12.1: Browser Applications with DOM](../modules/6-document-object-model/12.1-browser-applications-with-dom.md)
+### [12.1: Browser Applications with DOM](../modules/6-document-object-model/6.2-browser-applications-with-dom.md)
 
 #### Q: What is the DOM?
 
-A: The DOM is two variables called `window` and `document`.  They are created by the browser and represent everything that's happening in the window and on the page.
+A: The DOM is two variables called `window` and `document`. They are created by the browser and represent everything that's happening in the window and on the page.
 
 #### Q: What can you use the DOM for?
 
@@ -120,7 +120,6 @@ Google sheets uses the DOM in combination with all of the data in Google's Sheet
     </script>
   </body>
 </html>
-
 ```
 
 #### script.js
@@ -167,7 +166,7 @@ button.addEventListener("click", handleSubmitClick);
 
 #### Q: How does the above code work?
 
-### [12.2: HTML, CSS Review](../modules/6-document-object-model/12.2-html-css-review.md)
+### [12.2: HTML, CSS Review](../modules/6-document-object-model/6.1-html-css-review.md)
 
 ## In-Class Material
 
@@ -192,12 +191,10 @@ Invite the RACert Bot into your Slack Channel by mentioning it for the first tim
 
 Generate certificates for each student by mentioning @RACertBot followed by each student's @username in Slack
 
-
-
 Share with students how they can add Rocket Academy's Coding Basics Certificate badge to their LinkedIns. [Instructions here](../course-logistics/post-course/linkedin-certificates.md).
 
 ### **Class Photo 🥳**
 
-Please take a screenshot in Zoom gallery view that we can use as the profile photo for the section alumni group chat in Telegram!&#x20;
+Please take a screenshot in Zoom gallery view that we can use as the profile photo for the section alumni group chat in Telegram!
 
 After the photo, class is officially over, but please encourage students to use the remaining class time to help RA by sharing feedback and public reviews of our course.

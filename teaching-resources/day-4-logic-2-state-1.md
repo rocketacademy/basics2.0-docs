@@ -123,7 +123,7 @@ A: This does change the behaviour. The original version of this code adds a papa
 
 ## In-Class Material
 
-1. [Day 4: Boolean And, GitHub, Program State](../coursework/in-class-exercises/day-4-boolean-and-program-state.md)
+1. [Day 4: Boolean And, GitHub, Program State](../coursework/in-class-exercises/day-3-boolean-and-program-state.md)
 
 ## **Wrap-up / Look Ahead**
 

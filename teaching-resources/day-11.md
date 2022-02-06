@@ -12,7 +12,7 @@ Today is the last course day before the final project presentation. Unlike other
 
 Total Video Watch Time: **\~18 mins**
 
-### [11.1: Advanced Debugging with Sources Tab](../modules/6-document-object-model/6.3-advanced-debugger.md)
+### [11.1: Advanced Debugging with Sources Tab](../modules/2-structuring-and-debugging-code/2.5-advanced-debugger.md)
 
 We've already seen debugging with the simple tool of `console.log`. Sometimes this is not enough. If the code is behaving in a way that doesn't make sense or there is an error in a loop that runs many times and creates a hard to read console.log output, the next level of control and granularity is to use the debugger.
 
@@ -46,13 +46,13 @@ var main = function (input) {
 
 #### Q: At a high level, how does this code work?
 
-A: Two loops create a square emoji figure. The condition evaluates if the loops are at an edge. An edge is defined as: Beginning of either loop. End of either loop.&#x20;
+A: Two loops create a square emoji figure. The condition evaluates if the loops are at an edge. An edge is defined as: Beginning of either loop. End of either loop.
 
 #### Q: (_Enter the number 3_) What is the value of `outerCounter` and `innerCounter` when the program draws the top middle fist? Use the debugger to find that value.
 
 #### Q: (_Enter the number 5_) What is the result of each conditional statement the first time the loop runs? (_Use the debugger to find the value._)
 
-A:&#x20;
+A:
 
 ```javascript
 outerCounter == 0 // true
@@ -61,7 +61,7 @@ innerCounter == 0 // true
 innerCounter == sideLength - 1 // false
 ```
 
-### [12.3: Project Deployment](broken-reference)
+### [12.3: Project Deployment](broken-reference/)
 
 The starter code is setup in such a way that it can easily be put on the real internet. Encourage the students to share their game with their friends.
 

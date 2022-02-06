@@ -1,4 +1,4 @@
-# Day 7: Arrays and Loops
+# Day 5: Arrays and Loops
 
 ## Introduction
 
@@ -16,8 +16,6 @@ Mad Libs is a word game where players fill in the blanks with random words, such
 ## Getting Started
 
 For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code). For subsequent exercises, feel free to comment out your previous code and create a new `main` function for the current exercise. Please switch driver and navigator each app.
-
-
 
 See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day7/index.html).
 
@@ -74,7 +72,7 @@ When the user inputs "create", change the game mode to create mode. In create mo
 When the Basics Starter Code app loads, the user can input 1 or more adjectives to store in the app with each Submit. To input more than 1 word for each Submit, the user would give each word separated by a space, e.g., "_green nice silly_". We can use JavaScript's string `split` method to split the input string into an array of substrings. See W3Schools docs [here](https://www.w3schools.com/jsref/jsref\_split.asp) for details.
 
 {% hint style="info" %}
-Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to work on Project 2: _Beat That!_ as a pair, or go back and solve / refactor previous _More Comfortable_ exercises like [_Hawker Food Omakase_](day-3-if-statements-boolean-or.md#hawker-food-omakase) with your newly learnt skills.
+Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to work on Project 2: _Beat That!_ as a pair, or go back and solve / refactor previous _More Comfortable_ exercises like [_Hawker Food Omakase_](day-2-if-statements-boolean-operations.md#hawker-food-omakase) with your newly learnt skills.
 {% endhint %}
 
 ## More Comfortable

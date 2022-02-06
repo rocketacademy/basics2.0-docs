@@ -195,7 +195,7 @@ A: Hard code `rollDice` to return 1.
 
 ## In-Class Material
 
-[Day 3: If Statements, Boolean Or, And](../coursework/in-class-exercises/day-3-if-statements-boolean-or.md)
+[Day 3: If Statements, Boolean Or, And](../coursework/in-class-exercises/day-2-if-statements-boolean-operations.md)
 
 ## Look Ahead / Wrap-up
 

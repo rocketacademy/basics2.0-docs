@@ -8,7 +8,7 @@ On days when projects are due, we will review each others' code in groups of 2 o
 
 #### 0) Push Your Own Code
 
-Refer to the [push section](broken-reference) for the commands needed for this.&#x20;
+Refer to the [push section](../day-9-moar-cards/broken-reference/) for the commands needed for this.
 
 #### 1) Clone Partner's Code
 
@@ -35,7 +35,7 @@ Read the code:
 
 While you are reading, note down the answers to the following questions: No need to be comprehensive, but pick out parts of the code you found notable.
 
-1. Note a line of code (or multiple lines) that you think works well. This could be the logic of the code, or just a well-named variable. Explain why it works well.&#x20;
+1. Note a line of code (or multiple lines) that you think works well. This could be the logic of the code, or just a well-named variable. Explain why it works well.
 2. Note a line of code (or multiple lines) that you thought was unclear or you can't figure out. How would you explain why is it unclear or hard to figure out?
 3. Note a line of code (or multiple lines) where you found a bug. Why is it a bug? Do you have a solution?
 
@@ -49,7 +49,7 @@ Once both partners are done with #1-4, discuss what you saw. Read out and review
 
 ### Peer Review
 
-You'll be pair programming on one person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.**&#x20;
+You'll be pair programming on one person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.**
 
 Once done with one person's code, send the code to your pair (it's their project) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code.
 
@@ -65,4 +65,4 @@ Implement [More Comfortable exercises](../../projects/project-2-beat-that.md#mor
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/basics-beat-that/pull/10/files) is a reference solution for Beat That. Please review the reference solution to see how we can improve our solutions!&#x20;
+[Here](https://github.com/rocketacademy/basics-beat-that/pull/10/files) is a reference solution for Beat That. Please review the reference solution to see how we can improve our solutions!

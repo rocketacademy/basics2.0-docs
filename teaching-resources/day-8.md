@@ -18,7 +18,7 @@ Sometimes assignment into a given key can look confusing: `card.rank = newRank;`
 
 Total Video Watch Time: **\~15 mins**
 
-### [10.1: JavaScript Objects](../modules/1-data-structures-and-manipulations/10.1-javascript-objects.md)
+### [10.1: JavaScript Objects](../modules/1-data-structures-and-manipulations/1.4-objects.md)
 
 ```javascript
 var cardDeck = ['nine of hearts', 'ten of hearts', 'jack of hearts'];
@@ -397,7 +397,7 @@ A: Add each emoji to each card object. (This is inefficient but would make sense
 
 ## In-Class Material
 
-[Day 8: Beat That Redux](../coursework/in-class-exercises/day-9-moar-cards/day-8-beat-that-redux.md)
+[Day 8: Beat That Redux](../coursework/in-class-exercises/day-7-moar-cards/day-8-beat-that-redux.md)
 
 ## Post-Class: Begin Project
 

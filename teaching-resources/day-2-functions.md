@@ -12,7 +12,7 @@ Before the meeting, ask the students to put their [5.1 Functions](../modules/2-s
 
 Total Video Watch Time: **\~25 mins**
 
-## Review[ Social Rules](../course-logistics/course-methodology/social-rules.md)
+## Review[ ](broken-reference)Pair Programming
 
 In the previous session the students were introduced to the idea of pairing and got to experience it for themselves. Now that they have some context for the experience we want to talk about the optimal pairing experience, and to emphasize how their behaviour is key to the experience for themselves and others.
 
@@ -22,16 +22,6 @@ In the previous session the students were introduced to the idea of pairing and 
 * The best way to fully know something is to have to explain it.
 * Pairing is a collaborative experience that should involve a lot of communicating and talking.
 * Both people are focused on the same task. Not one person typing, another person Googling.
-
-Then, introduce the social rules. Briefly mention each one. No need to read the whole thing. Ask them to read it if they haven't already. Remind students that these are just some pitfalls when working closely with others and are not actually rules, and that they mostly boil down to, be considerate.
-
-The rules are just a reminder because they are behaviors that commonly arise when discussing technical topics.
-
-### Discussion Questions
-
-#### Q: Have you ever felt dumb or uncomfortable or unknowledgeable when speaking with someone who is an "expert" in a topic? Give an example you feel comfortable sharing.
-
-A: In a lot of situations in everyday life people can inadvertently (or sometimes even purposefully) make you feel bad for not understanding something. We hope the social rules can help everyone avoid these kinds of situations by being more kind and thoughtful.
 
 ## [5.1: Functions](../modules/2-structuring-and-debugging-code/5.1-functions.md)
 

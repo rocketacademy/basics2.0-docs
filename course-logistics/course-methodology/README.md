@@ -12,10 +12,6 @@ Each cohort will be split into sections of no more than 20 students. Each sectio
 [slack.md](slack.md)
 {% endcontent-ref %}
 
-{% content-ref url="social-rules.md" %}
-[social-rules.md](social-rules.md)
-{% endcontent-ref %}
-
 {% content-ref url="projects.md" %}
 [projects.md](projects.md)
 {% endcontent-ref %}

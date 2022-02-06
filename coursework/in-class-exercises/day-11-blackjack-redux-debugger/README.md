@@ -10,23 +10,13 @@ On days when projects are due, we will review each others' code in groups of 2 o
 
 ### Individual Review
 
-#### 0) Push Your Own Code
+#### 0. Ensure Your Code Is Ready For Review
 
-Refer to the [push section](broken-reference) for the commands needed for this.&#x20;
+Save and commit any code changes you have and share the updated CodeSandbox link with your pair.
 
-#### 1) Clone Partner's Code
+#### 1. Review Partner's Code
 
-You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's. If you have forked the repo but haven't pushed your latest code to GitHub, take a moment now to `git push`. Let your partner know you're updating the repo. Run a `git clone <REPO_URL> <NEW_FOLDER_NAME>` to get a copy of your partner's code.
-
-{% hint style="info" %}
-Note: You need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone.
-{% endhint %}
-
-#### 2) Run Partner's Code
-
-Open the code in the browser and test it. What does it do? If you're not sure what it does look inside `script.js` to see.
-
-#### 3) Read Partner's Code
+You will be paired up so that you can exchange the links for CodeSandbox via Slack. Look through the JS code in the sandbox.
 
 Read the code:
 
@@ -35,25 +25,31 @@ Read the code:
 3. Does it implement something that you were trying to do?
 4. Does it implement a feature that you haven't started yet? How does the code work?
 
-**Code Review Reflection Questions**
+**2. Code Review Reflection Questions**
 
 While you are reading, note down the answers to the following questions: No need to be comprehensive, but pick out parts of the code you found notable.
 
-1. Note a line of code (or multiple lines) that you think works well. This could be the logic of the code, or just a well-named variable. Explain why it works well.&#x20;
+1. Note a line of code (or multiple lines) that you think works well. This could be the logic of the code, or just a well-named variable. Explain why it works well.
 2. Note a line of code (or multiple lines) that you thought was unclear or you can't figure out. How would you explain why is it unclear or hard to figure out?
 3. Note a line of code (or multiple lines) where you found a bug. Why is it a bug? Do you have a solution?
 
-#### 4) Play with Partner's Code
+#### 3. Play with Partner's Code
 
 It may be helpful to make changes to the code to help you understand it better. Write some `console.log` that would help you figure out what the code does. Break the code in a certain way to prove how it works or doesn't work.
 
-#### 5) Discuss
+#### 4. Discuss
 
 Once both partners are done with #1-4, discuss what you saw. Read out and review together the answers to the 3 questions you wrote down from above.
 
 ### Peer Review
 
-You'll be pair programming on one person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.**&#x20;
+You'll be pair programming on one person's project at a time.&#x20;
+
+
+
+
+
+The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.**
 
 Once done with one person's code, send the code to your pair (it's their project) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code.
 
@@ -61,10 +57,6 @@ Once done with one person's code, send the code to your pair (it's their project
 Note: If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
 {% endhint %}
 
-If you both have working versions, implement a new feature in one of the projects together.
-
-
-
 ## More Comfortable
 
-Implement [More Comfortable exercises](../../projects/project-3-blackjack.md#more-comfortable) in the project writeup. Once done, push your code to update your pull request in GitHub.
+Implement [More Comfortable exercises](../../projects/project-3-blackjack.md#more-comfortable) in the project write-up. Once done, commit your code to update your pull request in GitHub.

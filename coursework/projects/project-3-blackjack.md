@@ -46,7 +46,7 @@ Take a look at some past project as references, and student-voted most-creative 
 
 ## Setup
 
-Begin by forking the [Coding Basics Blackjack repo](https://github.com/rocketacademy/basics-blackjack). Once forked, clone your fork of the repo and work on that copy.
+<mark style="background-color:orange;">Begin by forking the CodeSandbox repo, and linking it to your Github Account.</mark>
 
 ## Base
 
@@ -80,6 +80,8 @@ Given the above \*final\* action sequence to play a full game, how do we break t
 
 If you already have an effective strategy for creating your game, you can skip ahead. If you're not sure how to approach the game, try applying the following strategies to get started. The following are strategies for breaking down larger projects into smaller tasks to keep up progress, momentum, and motivation on the project. Please read to the end before starting.
 
+{% tabs %}
+{% tab title="First Version" %}
 #### First Version: Compare Initial Hands to Determine Winner
 
 1. Aim for a playable game. The essence of blackjack requires:
@@ -98,7 +100,9 @@ If you already have an effective strategy for creating your game, you can skip a
     Player wins by black jack! 
     ```
 3. Test your code.
+{% endtab %}
 
+{% tab title="Second Version" %}
 #### Second Version: Add Player Hit or Stand
 
 1. The player hitting or standing is different from the dealer hitting or standing. The rules state that the dealer hits or stands after all players are done, so let's work on the players hitting or standing first.
@@ -106,12 +110,16 @@ If you already have an effective strategy for creating your game, you can skip a
 3. Refactor your logic to wait until the player is done to evaluate the game-winning condition.
    * The player should not immediately lose if he busts - there is a possibility he will tie with the dealer if the dealer also busts.
 4. Test your code.
+{% endtab %}
 
+{% tab title="Third Version" %}
 #### Third Version: Add Dealer Hit or Stand
 
 1. The rules state that the dealer hits after the player is done. After the player confirms they are done, add the logic for the dealer adding cards to their hand. This should happen before the winning condition.
 2. Test your code.
+{% endtab %}
 
+{% tab title="Fourth Version" %}
 #### Fourth Version: Add Variable Ace Values
 
 1. Add logic to determine whether Aces should have value of 1 or 11 for a given hand.
@@ -123,6 +131,8 @@ If you already have an effective strategy for creating your game, you can skip a
 
        The total hand value should be 18, as only ONE of the aces will be counted as 11.
 2. Test your code.
+{% endtab %}
+{% endtabs %}
 
 ## Walkthrough
 
@@ -140,10 +150,14 @@ The completed base version as per the walkthrough can be viewed [here](https://g
 
 Improve the look and feel of your game - if you did not attempt the Comfortable version of _Beat That!,_ you can use the[ instructions there](project-2-beat-that.md#comfortable) as a quick-start guide. If you have, feel free to move on, and add your own creative touches.
 
+{% tabs %}
+{% tab title="User Instructions" %}
 #### User Instructions
 
 Make the game intuitive and fun to use by adding explicit instructions for each step of the game. "_Wow, you're at 14 right now! Do you want to hit or stand? Type h for hit or s for stand._"
+{% endtab %}
 
+{% tab title="Starting Instructions" %}
 #### Starting Instructions
 
 Add instructions on how to start the game by editing the `index.html`.\
@@ -154,10 +168,24 @@ Simply add your instructions into [line 134](https://github.com/rocketacademy/ba
 <div id="output-div">Welcome to Kai's Cards! Click the submit button to get started!</div>
 ```
 
+####
+{% endtab %}
+
+{% tab title="Emoji" %}
 #### Emoji
 
 Use emoji for the card suits ♣️♠️♦️♥️and for the card names 2️⃣. Use more emoji in your game instructions and results. Get creative!
+{% endtab %}
 
+{% tab title="Colors" %}
+#### Colors
+
+Set your own custom colors in the CSS. Find the color values in `index.html` and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors\_picker.asp](https://www.w3schools.com/colors/colors\_picker.asp)
+
+Find matching color sets using this design tool: [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
+{% endtab %}
+
+{% tab title="Images" %}
 #### Images
 
 You can add images to your game by including an HTML image tag in `myOutputValue`.
@@ -198,26 +226,32 @@ Image variable template: Fill in the `COPIED_RELATIVE_IMAGE_PATH` with the image
 var myImage = '<img src="/COPIED_RELATIVE_IMAGE_PATH"/>';
 ```
 
-#### Colors
+####
+{% endtab %}
 
-Set your own custom colors in the CSS. Find the color values in `index.html` and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors\_picker.asp](https://www.w3schools.com/colors/colors\_picker.asp)
-
-Find matching color sets using this design tool: [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
-
+{% tab title="Fonts" %}
 #### Fonts
 
 Set your own custom fonts: [https://www.w3schools.com/css/css\_font\_google.asp](https://www.w3schools.com/css/css\_font\_google.asp)
+{% endtab %}
+{% endtabs %}
 
 ## More Comfortable
 
+{% tabs %}
+{% tab title="Hide First Card" %}
 ### Hide Dealer's First Card
 
 In most casinos, all cards are face-up except the dealer's first card. This injects a dimension of strategy into the game, as the player does not have perfect information to begin with. Edit your game logic such that the player is only told one of the dealer's first two cards.
+{% endtab %}
 
+{% tab title="HTML Elements" %}
 ### Additional HTML Elements
 
 Look ahead to [12.1 Browser Application with DOM](../../modules/6-document-object-model/6.3-browser-applications-with-dom.md) to see how additional HTML elements can be referenced and manipulated; add a button for 'Hit' and 'Stand'.
+{% endtab %}
 
+{% tab title="Game Logic" %}
 ### Additional Game Logic
 
 Try adding one or more additional game features _(you can also have different versions with different features if implementing all features in one version is too complicated)_:
@@ -233,6 +267,8 @@ Enable multiple players to play against the dealer, where players can take turns
 #### Splits
 
 Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces\_and\_eights\_\(blackjack\)#Splitting). Dealer is not allowed to split.
+{% endtab %}
+{% endtabs %}
 
 ## Submit
 

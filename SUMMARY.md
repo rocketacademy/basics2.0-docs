@@ -37,7 +37,7 @@
 * [2: Structuring and Debugging Code](modules/2-structuring-and-debugging-code/README.md)
   * [2.1: Pseudocoding](modules/2-structuring-and-debugging-code/2.1-pseudo-coding.md)
   * [2.2: Functions](modules/2-structuring-and-debugging-code/5.1-functions.md)
-  * [2.3: Example: Our First Program](modules/2-structuring-and-debugging-code/2.3-our-first-program.md)
+  * [2.3: Example: Our First Program](modules/2-structuring-and-debugging-code/4.2-our-first-program.md)
   * [2.4: Errors](modules/2-structuring-and-debugging-code/2.4-errors.md)
   * [2.5: Advanced Debugger](modules/2-structuring-and-debugging-code/2.5-advanced-debugger.md)
   * [Additional Resources 2](modules/2-structuring-and-debugging-code/additional-resources-2.md)

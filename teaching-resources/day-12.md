@@ -23,7 +23,7 @@ Deploy Blackjack to the internet with instructions from [Module 12.3: Deployment
 
 Total Video Watch Time: **\~22 mins**
 
-### [12.1: Browser Applications with DOM](../modules/6-document-object-model/6.3-browser-applications-with-dom.md)
+### [12.1: Browser Applications with DOM](../modules/6-document-object-model/6.2-browser-applications-with-dom.md)
 
 #### Q: What is the DOM?
 

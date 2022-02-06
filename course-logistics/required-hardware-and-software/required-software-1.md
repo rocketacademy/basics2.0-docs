@@ -34,6 +34,4 @@ Chrome is the most popular web browser for software engineers because of its mat
 
 1. Download Chrome for your OS [here](https://www.google.com/intl/en\_sg/chrome/).
 
-### VSCode
-
-VSCode is the most popular code editor in the world. We will write all code for Coding Basics inside of VSCode. Download VSCode for your OS [here](https://code.visualstudio.com/download).
+###

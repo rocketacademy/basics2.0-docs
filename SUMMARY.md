@@ -36,7 +36,7 @@
   * [Additional Resources 1](modules/1-data-types-structures-and-manipulations/additional-resources-1.md)
 * [2: Structuring and Debugging Code](modules/2-structuring-and-debugging-code/README.md)
   * [2.1: Pseudocoding](modules/2-structuring-and-debugging-code/2.1-pseudo-coding.md)
-  * [2.2: Functions](modules/2-structuring-and-debugging-code/5.1-functions.md)
+  * [2.2: Functions](modules/2-structuring-and-debugging-code/2.2-functions.md)
   * [2.3: Example: Our First Program](modules/2-structuring-and-debugging-code/4.2-our-first-program.md)
   * [2.4: Errors](modules/2-structuring-and-debugging-code/2.4-errors.md)
   * [2.5: Advanced Debugger](modules/2-structuring-and-debugging-code/2.5-advanced-debugger.md)
@@ -72,7 +72,8 @@
 ## coursework
 
 * [In-Class Exercises](coursework/in-class-exercises/README.md)
-  * [Day 1: Data Manipulation and Functions](coursework/in-class-exercises/day-1-data-manipulation-and-functions/README.md)
+  * [Day 1: Data Manipulation and Functions (NEW)](coursework/in-class-exercises/day-1-data-manipulation-and-functions-new.md)
+  * [Day 1: Data Manipulation and Functions (OLD)](coursework/in-class-exercises/day-1-data-manipulation-and-functions/README.md)
     * [Day 2: Functions](coursework/in-class-exercises/day-1-basic-file-and-data-manipulation/day-2-functions.md)
   * [Day 2: If Statements, Boolean Operators](coursework/in-class-exercises/day-2-if-statements-boolean-operations.md)
   * [Day 3: Program State](coursework/in-class-exercises/day-3-boolean-and-program-state.md)

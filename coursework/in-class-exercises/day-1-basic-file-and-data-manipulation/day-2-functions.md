@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will write functions to perform data transformations, similar to examples in [3.1: Functions](../../../modules/2-structuring-and-debugging-code/5.1-functions.md). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](broken-reference). For some exercises you may need to google for information.
+Today we will write functions to perform data transformations, similar to examples in [3.1: Functions](../../../modules/2-structuring-and-debugging-code/2.2-functions.md). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](broken-reference). For some exercises you may need to google for information.
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 

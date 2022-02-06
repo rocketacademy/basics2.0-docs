@@ -2,7 +2,7 @@
 description: For the curious and the hungry
 ---
 
-# Additional Resources 2
+# Additional Resources 1
 
 ## Introduction <a href="#introduction" id="introduction"></a>
 
@@ -15,7 +15,7 @@ If you'd like to learn more, this page contains a non-exhaustive, unordered list
 ## Operations and Variables
 
 1. [MDN: Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First\_steps/Math)
-2. ****[JavaSript.info: Operators](https://javascript.info/operators)
+2. [JavaSript.info: Operators](https://javascript.info/operators)
 3. [JavaScript.info: Variables](https://javascript.info/variables)
 
 ## Data Types
@@ -30,6 +30,3 @@ If you'd like to learn more, this page contains a non-exhaustive, unordered list
 1. [W3S: Arrays](https://www.w3schools.com/js/js\_arrays.asp)
 2. [W3S: Array Methods](https://www.w3schools.com/js/js\_array\_methods.asp)
 3. [FreeCodeCamp: Array Exercises](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays)
-
-
-

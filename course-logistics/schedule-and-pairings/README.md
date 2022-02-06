@@ -13,8 +13,8 @@
 ### Pre Class
 
 1. [Course Overview](../../)
-2. [Course Methodology](../course-methodology/)****
-3. ****[**Module 0: Introduction**](../../modules/0-introduction/)**:**
+2. [Course Methodology](../course-methodology/)\*\*\*\*
+3. \*\*\*\*[**Module 0: Introduction**](../../modules/0-introduction/)**:**
    1. [0.1: What is coding?](../../modules/0-introduction/0.1-what-is-coding.md)
    2. [0.2: Web Browsers](../../modules/0-introduction/0.2-web-browsers.md)
 
@@ -32,7 +32,7 @@
 
 **Module 1: Data Structures and Manipulation:**
 
-* [1.1 Operations](../../modules/1-data-structures-and-manipulations/3.1-operations.md)
+* [1.1 Operations](broken-reference)
 * 1.2 Variables
 
 **Module 2: Structuring and Debugging Code:**
@@ -79,8 +79,8 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 4: Scope**
 
-* 4.1 Intro to Scope&#x20;
-* 4.2 Program Lifecycle and State&#x20;
+* 4.1 Intro to Scope
+* 4.2 Program Lifecycle and State
 * 4.3 Example: Program State for Game Modes
 
 ### In Class
@@ -120,7 +120,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### Project Start: _Beat That!_
 
-[Project 2: _Beat That!_](https://basics.rocketacademy.co/projects/project-2-beat-that)__
+[Project 2: _Beat That!_](https://basics.rocketacademy.co/projects/project-2-beat-that)\_\_
 
 ## Course Day 6 <a href="#course-day-6" id="course-day-6"></a>
 
@@ -202,4 +202,3 @@ Module 6: Document Object Model
 * LinkedIn certificate presentations
 * Class Photo 🥳
 * Closing Ceremony 🎓
-

@@ -31,7 +31,6 @@
   * [Additional Resources 1](modules/0-introduction/additional-resources-1.md)
 * [1: Data Structures and Manipulation](modules/1-data-structures-and-manipulations/README.md)
   * [1.1: Operations](modules/1-data-structures-and-manipulations/1.1-operations.md)
-  * [1.1: Operations](modules/1-data-structures-and-manipulations/3.1-operations.md)
   * [1.2: Variables](modules/1-data-structures-and-manipulations/3.2-variables.md)
   * [1.3: Arrays](modules/1-data-structures-and-manipulations/9.1-arrays.md)
   * [1.4: JavaScript Objects](modules/1-data-structures-and-manipulations/10.1-javascript-objects.md)

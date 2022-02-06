@@ -12,8 +12,8 @@
 
 ## What will Basics cover?
 
-1. Variables, data types and data structures
-2. Functions and errors
+1. Variables, Data types and Data Structures
+2. Functions and Errors
 3. Conditionals and loops
 4. Variable scope
 5. HTML and CSS
@@ -25,4 +25,4 @@ The following topics are covered in depth in Rocket's Software Engineering Bootc
 
 1. Production-level app-building and software architecture
 2. Algorithms such as those used for coding interviews
-3. Command line, Git, GitHub, desktop-based code editors like VSCode
+3. Command-line, Git, GitHub, desktop-based code editors like VSCode

@@ -21,7 +21,7 @@ Go to [**https://codesandbox.io/signin**](https://codesandbox.io/signin), click 
 
 Key in your username and password that you have sign up from Github and press Sign In.
 
-![Enter your GitHub Username and password](<../../.gitbook/assets/image (6).png>)
+![Enter your GitHub Username and password](<../../.gitbook/assets/image (6) (1).png>)
 
 Click on Authorize codesandbox
 
@@ -29,6 +29,6 @@ Click on Authorize codesandbox
 
 Select your username and enter your display name and click Finish Sign up
 
-![Select username and Finish Sign up](<../../.gitbook/assets/image (8).png>)
+![Select username and Finish Sign up](<../../.gitbook/assets/image (8) (1).png>)
 
 Head over to Course Setup for the next set of instructions. You're almost done! :relaxed:

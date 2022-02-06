@@ -16,7 +16,7 @@ Next, copy and paste [https://github.com/rocketacademy/basics-starter-code-2.0](
 
 Next, click on the name and enter Rocket Academy Course Materials and press enter
 
-![Changing the name of the sandbox](<../../.gitbook/assets/image (10).png>)
+![Changing the name of the sandbox](<../../.gitbook/assets/image (10) (1).png>)
 
 Following that, Click on the Cat Icon on the left sidebar and click on 'Sign in'
 

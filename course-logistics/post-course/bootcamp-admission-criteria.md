@@ -10,7 +10,7 @@ In general, the criteria to pass Basics and join Bootcamp are the following.
 
 Typically we look for the following attributes in evaluating projects.
 
-1. Proficiency with technical syntax (variables, functions, conditionals, loops, data structures) and tools (VSCode, Git, GitHub, Chrome DevTools)
+1. Proficiency with technical syntax (variables, functions, conditionals, loops, data structures)
 2. Code quality (naming, code comments)
 3. Computational thinking (i.e. ability to translate application requirements to code)
    1. Decomposition: Each function performs 1 conceptual operation
@@ -18,4 +18,4 @@ Typically we look for the following attributes in evaluating projects.
    3. Abstraction: Re-use helper functions with varying parameter values when possible
    4. Algorithms: Construct stepwise logic to accomplish tasks
 
-Through the above criteria, Rocket is essentially asking the question: Would I hire this person as a software engineer if I had their attention for 6 months full time or 12 months part time to teach them coding. If the answer is yes, welcome to Bootcamp! If the answer is currently no, let's have a conversation and see how we can help you get where you want to be!&#x20;
+Through the above criteria, Rocket is essentially asking the question: Would I hire this person as a software engineer if I had their attention for 6 months full time or 12 months part time to teach them coding. If the answer is yes, welcome to Bootcamp! If the answer is currently no, let's have a conversation and see how we can help you get where you want to be!

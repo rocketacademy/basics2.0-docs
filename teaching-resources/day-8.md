@@ -397,7 +397,7 @@ A: Add each emoji to each card object. (This is inefficient but would make sense
 
 ## In-Class Material
 
-[Day 8: Beat That Redux](../coursework/in-class-exercises/day-7-moar-cards/day-8-beat-that-redux.md)
+[Day 8: Beat That Redux](../coursework/in-class-exercises/day-9-moar-cards/day-8-beat-that-redux.md)
 
 ## Post-Class: Begin Project
 

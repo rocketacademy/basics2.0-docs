@@ -43,7 +43,7 @@ We define "round" as all gameplay until a player wins. The number of times the p
 
 When the player wins, the computer updates the number of times the player needs to guess correctly in a row for the next round.&#x20;
 
-Consider using [input control from Module 6.3](../../modules/3-logic-and-control-flow/6.3-boolean-and-not.md#code-control) to test your logic.
+Consider using [input control from Module 6.3](../../modules/3-logic-and-control-flow/3.2-boolean-operators/6.3-boolean-and-not.md#code-control) to test your logic.
 
 ## More Comfortable
 
@@ -63,7 +63,7 @@ Update our dice game to include an additional dice. With each player guess, the 
 
 ### Dice 4D
 
-Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control from Module 4.3](../../modules/3-logic-and-control-flow/6.3-boolean-and-not.md#code-control) to verify our 4D game logic, that it is possible to win this 4D game.
+Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control from Module 4.3](../../modules/3-logic-and-control-flow/3.2-boolean-operators/6.3-boolean-and-not.md#code-control) to verify our 4D game logic, that it is possible to win this 4D game.
 
 ### Secret Word Twice in a Row 2
 

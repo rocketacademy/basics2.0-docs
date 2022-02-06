@@ -1,4 +1,4 @@
-# Day 1: Basic File and Data Manipulation
+# Day 1: Data Manipulation and Functions
 
 ## Introduction
 
@@ -10,27 +10,27 @@ We will now put to use what we have learned so far. Before you attempt a problem
    2. How it can be implemented.
 3. Write or type, in plain English, the instructions you and your partner want your program to follow.
 
-For some problems you may need to google for information. Remember that as pairs, you are also googling together. **Please switch driver and navigator for each problem statement.**&#x20;
+For some problems you may need to google for information. Remember that as pairs, you are also googling together. **Please switch driver and navigator for each problem statement.**
 
-When you run into a bug, talk out loud with your partner what you _expected_ to happen, and what happened instead, before attempting to find a solution.&#x20;
+When you run into a bug, talk out loud with your partner what you _expected_ to happen, and what happened instead, before attempting to find a solution.
 
 If needed, use the **'ask host for help'** function in Zoom. You may also find the **"annotate" feature** in Zoom useful when pair programming.
 
 ## Base
 
-For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](../../../course-logistics/required-hardware-and-software/recommended-set-up.md#folder-structure-for-coding-basics). For some exercises you may need to google for information.&#x20;
+For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](broken-reference). For some exercises you may need to google for information.
 
 See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day1/index.html).
 
 ### **Minutes in Weeks**
 
-The user will enter a number of weeks. The program should output the number of minutes in those weeks in the output box.&#x20;
+The user will enter a number of weeks. The program should output the number of minutes in those weeks in the output box.
 
 Format the output nicely. Like: `In 3 weeks there are 30240 minutes! Wow!`
 
 ### **Fahrenheit to Celsius**
 
-The user enters a temperature in Fahrenheit. The program should output the conversion to Celsius in the output box.&#x20;
+The user enters a temperature in Fahrenheit. The program should output the conversion to Celsius in the output box.
 
 Format the output nicely.
 
@@ -50,7 +50,7 @@ The user will enter a number of trips to the ice cream station (picking up **1 c
 
 ### **Time to Type Sonnets**
 
-The user will enter their words-per-minute typing speed. The app will calculate how long it will take them to type all of Shakespeare's sonnets in hours.&#x20;
+The user will enter their words-per-minute typing speed. The app will calculate how long it will take them to type all of Shakespeare's sonnets in hours.
 
 For simplicity, assume 17,677 words in all of Shakespeare's sonnets.
 
@@ -60,15 +60,15 @@ See an example of all problems [here](https://rocketacademy.github.io/basics-sta
 
 ### Cost of Air Con
 
-The user enters the number of hours of air-con use, and the app tells them the cost.&#x20;
+The user enters the number of hours of air-con use, and the app tells them the cost.
 
-An aircon machine uses 2 kilowatts of electricity.&#x20;
+An aircon machine uses 2 kilowatts of electricity.
 
 Electricity costs $0.20 per kilowatt-hour.
 
 ### Screen Time
 
-The user will enter the number of hours spent per day on their favourite app, and the program renders how many days you will spend in your lifetime on this app.&#x20;
+The user will enter the number of hours spent per day on their favourite app, and the program renders how many days you will spend in your lifetime on this app.
 
 Assume an average life expectancy of 82 years.
 
@@ -82,13 +82,13 @@ For example, if I spend 2 hours per day on WhatsApp and I live an average lifeti
 
 A hotel uses an ice machine to prepare ice for guests. They want to start the ice machine as close to each event as possible, so that the ice doesn't melt. In order to do this, they need to estimate how long they will need to run the ice machine.
 
-Create a program that estimates the duration the ice machine needs to run. The user will input the number of guests for the event.&#x20;
+Create a program that estimates the duration the ice machine needs to run. The user will input the number of guests for the event.
 
-Assume each guest needs 2 drinks. Each drink has 4 ice cubes. Each cube weights 1.5 grams. The hotel's American-made ice machine produces 5 pounds of ice per hour.&#x20;
+Assume each guest needs 2 drinks. Each drink has 4 ice cubes. Each cube weights 1.5 grams. The hotel's American-made ice machine produces 5 pounds of ice per hour.
 
 ### Beer Order
 
-Create a program for a bar to calculate how many kegs of beer they will need every day. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter.&#x20;
+Create a program for a bar to calculate how many kegs of beer they will need every day. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter.
 
 Assume an average customer drinks 2 pints per visit. There are 124 pints of beer in a half-barrel keg.
 

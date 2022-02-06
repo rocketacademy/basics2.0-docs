@@ -112,7 +112,7 @@ A: There are specific Git commands for that, but it is out of the scope of the c
 
 This section is relatively intuitive. It is important to establish here that an **operation** is the smallest bit of computation we can start with. All other code we'll write stems from doing operations, though they may not all be with integers.
 
-### [3.2: Variables](../modules/1-data-structures-and-manipulations/1.2-variables.md)
+### [3.2: Variables](../modules/1-data-types-structures-and-manipulations/1.2-variables.md)
 
 #### Overview
 

@@ -8,7 +8,7 @@ Today we will practise JavaScript Objects. Choose one of the two exercises, _Moa
 {% tab title="Moar Cards" %}
 ### Base
 
-Feel free to copy the card deck generation function from [9.2: Card Deck Generation](../../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md#card-deck-generation-code) and the card shuffling functions from [9.1: JavaScript Objects](../../../modules/1-data-structures-and-manipulations/1.4-objects.md#card-shuffling) into your `script.js` file.
+Feel free to copy the card deck generation function from [9.2: Card Deck Generation](../../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md#card-deck-generation-code) and the card shuffling functions from [9.1: JavaScript Objects](../../../modules/1-data-types-structures-and-manipulations/1.4-objects.md#card-shuffling) into your `script.js` file.
 
 #### Display Single Card
 
@@ -16,7 +16,7 @@ Build an app using the Basics Starter Code and the pre-class deck functions such
 
 #### Low Card
 
-Implement the High Card game from [9.1: Objects](../../../modules/1-data-structures-and-manipulations/1.4-objects.md#high-card) with 1 difference: the winner is the person with the _lowest_ card.
+Implement the High Card game from [9.1: Objects](../../../modules/1-data-types-structures-and-manipulations/1.4-objects.md#high-card) with 1 difference: the winner is the person with the _lowest_ card.
 
 #### Low Card with Queen Winner
 

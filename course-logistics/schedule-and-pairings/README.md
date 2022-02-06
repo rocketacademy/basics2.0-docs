@@ -34,8 +34,8 @@
 
 **Module 1: Data Structures and Manipulation:**
 
-* [1.1 Operations](../../modules/1-data-structures-and-manipulations/1.1-operations.md)
-* [1.2 Variables](../../modules/1-data-structures-and-manipulations/1.2-variables.md)
+* [1.1 Operations](../../modules/1-data-types-structures-and-manipulations/1.1-operations.md)
+* [1.2 Variables](../../modules/1-data-types-structures-and-manipulations/1.2-variables.md)
 
 **Module 2: Structuring and Debugging Code:**
 
@@ -116,7 +116,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 1: Data Structures and Manipulation**
 
-* [1.3 Arrays](../../modules/1-data-structures-and-manipulations/1.3-arrays.md)
+* [1.3 Arrays](../../modules/1-data-types-structures-and-manipulations/1.3-arrays.md)
 
 **Module 3: Control Flow**
 
@@ -149,7 +149,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 1: Data Structures and Manipulation**
 
-* [1.4 Objects](../../modules/1-data-structures-and-manipulations/1.4-objects.md)
+* [1.4 Objects](../../modules/1-data-types-structures-and-manipulations/1.4-objects.md)
 
 **Module 3: Logic and Control Flow**
 

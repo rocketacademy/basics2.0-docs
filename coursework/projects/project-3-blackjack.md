@@ -16,8 +16,6 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 
 Take a look at some past project as references, and student-voted most-creative projects from previous Batches for inspiration :)
 
-
-
 {% tabs %}
 {% tab title="General" %}
 * [Base](https://rocketacademy.github.io/basics-blackjack/)
@@ -35,12 +33,10 @@ Take a look at some past project as references, and student-voted most-creative 
 * [SouthPark Casino](https://ahshawngoh.github.io/basics-blackjack/)
 * [Edwin's Casino](https://edwinyxt.github.io/basics-blackjack/)
 * [Cheok's Lounge](https://cheoklate.github.io/basics-blackjack/)
-* ## [来玩·万辣](https://sherman168.github.io/basics-blackjack/)
+* ### [来玩·万辣](https://sherman168.github.io/basics-blackjack/)
 {% endtab %}
 
 {% tab title="Basics 10" %}
-
-
 * [SouthPark Casino](https://averygan.github.io/basics-blackjack/)
 * [Cat-sino](https://thereselyr.github.io/basics-blackjack/)
 * [Simple and Green](https://liangtcode.github.io/basics-blackjack/)
@@ -86,17 +82,14 @@ If you already have an effective strategy for creating your game, you can skip a
 
 #### First Version: Compare Initial Hands to Determine Winner
 
-1.  Aim for a playable game. The essence of blackjack requires:
-
-    1. Two players - a player and a dealer _(computer)._
-    2. A deck of cards.
-    3. A starting hand of 2 cards for each player.
-    4. Comparing both hands and determining a winner. The possible scenarios are:
-       * A tie. When both the player and dealer have the same total hand values - or if both draw Blackjack
-       * A Blackjack win. When either player or dealer draw Blackjack.
-       * A normal win. When neither draw Blackjack, the winner is decided by whomever has the higher hand total.
-
-
+1. Aim for a playable game. The essence of blackjack requires:
+   1. Two players - a player and a dealer _(computer)._
+   2. A deck of cards.
+   3. A starting hand of 2 cards for each player.
+   4. Comparing both hands and determining a winner. The possible scenarios are:
+      * A tie. When both the player and dealer have the same total hand values - or if both draw Blackjack
+      * A Blackjack win. When either player or dealer draw Blackjack.
+      * A normal win. When neither draw Blackjack, the winner is decided by whomever has the higher hand total.
 2.  Return appropriate messages. For example:
 
     ```markdown
@@ -124,9 +117,9 @@ If you already have an effective strategy for creating your game, you can skip a
 1. Add logic to determine whether Aces should have value of 1 or 11 for a given hand.
    *   For example, if a player draws cards in the following order:
 
-       1. "Ace" and "2"  _(total 13)_
-       2. "4"                   _(total 17)_
-       3. "Ace".              _(total 18)_
+       1. "Ace" and "2" _(total 13)_
+       2. "4" _(total 17)_
+       3. "Ace". _(total 18)_
 
        The total hand value should be 18, as only ONE of the aces will be counted as 11.
 2. Test your code.
@@ -145,7 +138,7 @@ The completed base version as per the walkthrough can be viewed [here](https://g
 
 ### Interface
 
-Improve the look and feel of your game - if you did not  attempt the Comfortable version of _Beat That!,_ you can use the[ instructions there](project-2-beat-that.md#comfortable) as a quick-start guide. If you have, feel free to move on, and add your own creative touches.
+Improve the look and feel of your game - if you did not attempt the Comfortable version of _Beat That!,_ you can use the[ instructions there](project-2-beat-that.md#comfortable) as a quick-start guide. If you have, feel free to move on, and add your own creative touches.
 
 #### User Instructions
 
@@ -241,12 +234,10 @@ Enable multiple players to play against the dealer, where players can take turns
 
 Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces\_and\_eights\_\(blackjack\)#Splitting). Dealer is not allowed to split.
 
-
-
 ## Submit
 
-1. [Push](broken-reference) the commits in your local repo to GitHub.
-2. [Create a pull request](broken-reference) to submit your assignment.
+1. [Push](broken-reference/) the commits in your local repo to GitHub.
+2. [Create a pull request](broken-reference/) to submit your assignment.
 3. Please leave your name and _**section number**_ in the _**title**_ of the pull request.
 4. Please fill in the questionnaire in the pull request comments when you submit.
 
@@ -299,7 +290,7 @@ For Twitter Shares: edit lines [38-42](https://github.com/rocketacademy/basics-b
 
 ## Reference Solution
 
-&#x20;Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
+Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
 1. [Base](https://github.com/rocketacademy/basics-blackjack/tree/base)
 2. [Multiplayer](https://github.com/rocketacademy/basics-blackjack/tree/moreComfortable-Multiplayer)

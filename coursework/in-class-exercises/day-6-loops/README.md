@@ -8,15 +8,13 @@ Pick either one of the Emoji Drawing or Multi-Dice Game exercise and work throug
 
 {% tabs %}
 {% tab title="Emoji Drawing" %}
-## Base
+### Base
 
 Use loops to create an app that draws emojis into the grey box. See [here](https://support.microsoft.com/en-us/windows/windows-10-keyboard-tips-and-tricks-588e0b72-0fff-6d3f-aeee-6e5116097942) for how to input Emoji on Windows and [here](https://support.apple.com/en-sg/guide/mac-help/mchlp1560/mac) for how to input emoji on Mac.
 
-
-
 See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day5/drawingemoji/index.html)**.**
 
-### Number of Characters
+#### Number of Characters
 
 The user will enter a number of characters to display on the screen.
 
@@ -24,7 +22,7 @@ For example, if the user enters 4 they will see this:
 
 ![](<../../../.gitbook/assets/Screen Shot 2020-08-26 at 12.35.32 AM (1).png>)
 
-### Square
+#### Square
 
 The user will enter the dimensions of a square to display on the screen.
 
@@ -34,9 +32,9 @@ For example, if the user enters 4 they will see this:
 
 ![](<../../../.gitbook/assets/Screen Shot 2020-08-26 at 12.35.12 AM.png>)
 
-## Comfortable&#x20;
+### Comfortable
 
-### Triangle
+#### Triangle
 
 The user will enter the dimensions of a triangle to display on the screen.‌
 
@@ -46,9 +44,9 @@ For example, if the user enters 4 they will see this:
 
 ![](<../../../.gitbook/assets/Screen Shot 2020-08-26 at 12.37.35 AM.png>)
 
-## More Comfortable
+### More Comfortable
 
-### Outline Square
+#### Outline Square
 
 The user will enter the dimensions of a square to display on the screen. The square is outlined by a different character.
 
@@ -56,7 +54,7 @@ For example, if the user enters 4 they will see this:
 
 ![](<../../../.gitbook/assets/Screen Shot 2020-08-26 at 12.54.56 AM.png>)
 
-### Center Square
+#### Center Square
 
 The user will enter the dimensions of a square to display on the screen. The square is outlined by a different character and there is another different character in the center. The app doesn't allow dimensions that will not allow the center character.
 
@@ -66,13 +64,9 @@ For example, if the user enters 5 they will see this:
 {% endtab %}
 
 {% tab title="Multi-Dice Game" %}
-## Base
-
-
+### Base
 
 More dice rolling and guessing! See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day5/dicegame/index.html).
-
-
 
 1. Create a dice-guessing game with a variable number of dice rolls determined by the user.
 2. The game will have 2 modes.
@@ -82,9 +76,9 @@ More dice rolling and guessing! See an example of all problems [**here**](https:
 6. If the user guesses correctly for any of the dice rolls, the user wins.
 7. The game keeps track of and outputs the overall win-loss record.
 
-## More Comfortable
+### More Comfortable
 
-### Multi-Round Multi-Dice Game
+#### Multi-Round Multi-Dice Game
 
 1. Alter the previous multi-dice game such that the user plays 4 rounds in the 2nd mode.
 2. After the user enters their guess in Mode 2, the program enters a loop that runs 4 rounds.
@@ -92,21 +86,17 @@ More dice rolling and guessing! See an example of all problems [**here**](https:
 4. If the user guessed correctly for any dice rolls in a round, they win that round.
 5. The game will continue to output overall win-loss record, where each of the 4 rounds count as wins or losses.
 
-### Two Player Multi-Round Multi-Dice Game
+#### Two Player Multi-Round Multi-Dice Game
 
 1. Change the game to support 2 players, starting with Player 1.
 2. The gameplay follows the multi-round multi-dice game above. After each player's turn, that player will have won between 0 and 4 rounds, because each player plays 4 rounds per turn.
 3. The game alternates between players indefinitely and outputs win-loss record for each player.
 
-### Multi-Player Multi-Round Multi-Dice Game
+#### Multi-Player Multi-Round Multi-Dice Game
 
 Change the game to ask how many players are playing the game. Players will take turns playing the game as above.
 {% endtab %}
 {% endtabs %}
-
-
-
-
 
 ## Reference Solution
 

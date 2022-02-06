@@ -5,7 +5,7 @@
 This day introduces two foundational topics: functions and errors.
 
 {% hint style="warning" %}
-Before the meeting, ask the students to put their [5.1 Functions](../modules/2-structuring-and-debugging-code/2.2-functions.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
+Before the meeting, ask the students to put their [5.1 Functions](../modules/2-structuring-and-debugging-code/5.1-functions.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
 {% endhint %}
 
 ## Pre-Class Material
@@ -31,9 +31,9 @@ The rules are just a reminder because they are behaviors that commonly arise whe
 
 #### Q: Have you ever felt dumb or uncomfortable or unknowledgeable when speaking with someone who is an "expert" in a topic? Give an example you feel comfortable sharing.
 
-A: In a lot of situations in everyday life people can  inadvertently (or sometimes even purposefully) make you feel bad for not understanding something. We hope the social rules can help everyone avoid these kinds of situations by being more kind and thoughtful.
+A: In a lot of situations in everyday life people can inadvertently (or sometimes even purposefully) make you feel bad for not understanding something. We hope the social rules can help everyone avoid these kinds of situations by being more kind and thoughtful.
 
-## [5.1: Functions](../modules/2-structuring-and-debugging-code/2.2-functions.md)
+## [5.1: Functions](../modules/2-structuring-and-debugging-code/5.1-functions.md)
 
 ### Overview
 
@@ -148,7 +148,7 @@ Q: Students think that in order to run more code, they copy the function and use
 
 A: Refactoring or recognizing a pattern that repeats itself within the code is something that the students should have in mind to practice.
 
-## [5.2: Errors](../modules/2-structuring-and-debugging-code/2.4-errors.md)
+## [5.2: Errors](../modules/2-structuring-and-debugging-code/5.2-errors.md)
 
 ### Overview
 

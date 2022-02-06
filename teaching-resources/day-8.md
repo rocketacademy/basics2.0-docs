@@ -18,7 +18,7 @@ Sometimes assignment into a given key can look confusing: `card.rank = newRank;`
 
 Total Video Watch Time: **\~15 mins**
 
-### [10.1: JavaScript Objects](../modules/1-data-structures-and-manipulation/1.4-javascript-objects.md)
+### [10.1: JavaScript Objects](../modules/1-data-structures-and-manipulations/10.1-javascript-objects.md)
 
 ```javascript
 var cardDeck = ['nine of hearts', 'ten of hearts', 'jack of hearts'];

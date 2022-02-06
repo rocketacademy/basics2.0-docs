@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will write functions to perform data transformations, similar to examples in [3.1: Functions](../../../modules/2-structuring-and-debugging-code/2.2-functions.md). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](../../../course-logistics/required-hardware-and-software/recommended-set-up.md#folder-structure-for-coding-basics). For some exercises you may need to google for information.&#x20;
+Today we will write functions to perform data transformations, similar to examples in [3.1: Functions](../../../modules/2-structuring-and-debugging-code/5.1-functions.md). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](../../../course-logistics/required-hardware-and-software/recommended-set-up.md#folder-structure-for-coding-basics). For some exercises you may need to google for information.
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
@@ -15,8 +15,6 @@ Before you begin, check that you and your partner can answer the following:
 * [ ] Where can you execute a function?
 * [ ] How many times can you use a function?
 * [ ] What is the purpose of the `return` keyword? What happens if we omit the `return` keyword from a function?
-
-
 
 ## Learning Outcomes
 
@@ -32,15 +30,15 @@ See an example of all problems [here](https://rocketacademy.github.io/basics-sta
 
 ### Cost of Air Con
 
-The user enters the number of hours of air-con use, and the app tells them the cost.&#x20;
+The user enters the number of hours of air-con use, and the app tells them the cost.
 
-An aircon machine uses 2 kilowatts of electricity.&#x20;
+An aircon machine uses 2 kilowatts of electricity.
 
 Electricity costs $0.20 per kilowatt-hour.
 
 ### Screen Time
 
-The user will enter the number of hours spent per day on their favourite app, and the program renders how many days you will spend in your lifetime on this app.&#x20;
+The user will enter the number of hours spent per day on their favourite app, and the program renders how many days you will spend in your lifetime on this app.
 
 Assume an average life expectancy of 82 years.
 
@@ -52,13 +50,13 @@ For example, if I spend 2 hours per day on WhatsApp and I live an average lifeti
 
 A hotel uses an ice machine to prepare ice for guests. They want to start the ice machine as close to each event as possible, so that the ice doesn't melt. In order to do this, they need to estimate how long they will need to run the ice machine.
 
-Create a program that estimates the duration the ice machine needs to run. The user will input the number of guests for the event.&#x20;
+Create a program that estimates the duration the ice machine needs to run. The user will input the number of guests for the event.
 
-Assume each guest needs 2 drinks. Each drink has 4 ice cubes. Each cube weights 1.5 grams. The hotel's American-made ice machine produces 5 pounds of ice per hour.&#x20;
+Assume each guest needs 2 drinks. Each drink has 4 ice cubes. Each cube weights 1.5 grams. The hotel's American-made ice machine produces 5 pounds of ice per hour.
 
 ### Beer Order
 
-Create a program for a bar to calculate how many kegs of beer they will need every day. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter.&#x20;
+Create a program for a bar to calculate how many kegs of beer they will need every day. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter.
 
 Assume an average customer drinks 2 pints per visit. There are 124 pints of beer in a half-barrel keg.
 
@@ -70,7 +68,7 @@ Create a program to calculate how much a user will pay for their the $19.99 50GB
 
 Assume that if the user exceeds 50GB, they will automatically purchase an additional 50GB plan. You may find the built-in function `Math.ceil` helpful for this _(you can google how to use it)_.
 
-For example, if the user only used 1GB this month, the app would calculate $19.99 per GB as the user paid $19.99 for the 50GB plan but only used 1GB. If the user used 2GB this month, the app would calculate $9.98 per GB. If the user used 51GB this month the user would have automatically been billed for 2 plans and the app would calculate $0.78 per GB.&#x20;
+For example, if the user only used 1GB this month, the app would calculate $19.99 per GB as the user paid $19.99 for the 50GB plan but only used 1GB. If the user used 2GB this month, the app would calculate $9.98 per GB. If the user used 51GB this month the user would have automatically been billed for 2 plans and the app would calculate $0.78 per GB.
 
 ### Mortgage Calculator
 
@@ -83,18 +81,18 @@ Output several values including:
 3. How much the customer's monthly payment will be.
 
 {% hint style="warning" %}
-#### Concatenating Strings and Numbers
+**Concatenating Strings and Numbers**
 
-Sometimes when trying to add 2 numbers you may find that your numbers concatenate instead of add. For example, when adding '1' + 1 in your code, the result may be '11' instead of 2. This is because one of your numbers may be represented in JS as a string, most commonly when the number comes from the `input` variable in our programs.&#x20;
+Sometimes when trying to add 2 numbers you may find that your numbers concatenate instead of add. For example, when adding '1' + 1 in your code, the result may be '11' instead of 2. This is because one of your numbers may be represented in JS as a string, most commonly when the number comes from the `input` variable in our programs.
 
 To resolve similar issues, try converting `input` to a number with [JS' built-in Number function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Number) before using it, e.g. `const loanAmt = Number(input)`.
 
 The following is a more detailed breakdown of JS behaviour when concatenating strings and numbers.
 
 1. String + String
-   1. 'hello' + 'hi'  will return 'hellohi'
+   1. 'hello' + 'hi' will return 'hellohi'
    2. '2' + '2' will return '22'
-2. Number + Number&#x20;
+2. Number + Number
    1. 2 + 2 will return 4
 3. Number + String
    1. 2 + '2' will return '22'

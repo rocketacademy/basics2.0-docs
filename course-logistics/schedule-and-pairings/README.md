@@ -94,12 +94,13 @@ Please **do not** attempt in-class material before class for all course days, so
 **Module 3: Control Flow**
 
 * 3.4 Loops
-* [Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
+
+#### Project Due: Scissors Paper Stone
 
 ### In Class
 
 * Loops
-* Scissors Paper Stone Redux (30 minutes)
+* Redux: Scissors Paper Stone
 
 ## Course Day 5 <a href="#course-day-5" id="course-day-5"></a>
 
@@ -146,93 +147,53 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * 3.6: Creating Objects with Loops
 
+### Project Due: _Beat That!_
+
 ### In Class
 
 * Moar Cards / Chat Bot
+* Redux: _Beat That!_
+
+### Project Start: Blackjack
+
+Project 3: Blackjack
 
 ## Course Day 8 <a href="#course-day-8" id="course-day-8"></a>
 
-### Project Due: Beat That!
-
-
-
 ### Pre Class
 
+Module 6: Document Object Model
 
+* 6.1 HTML / CSS Referencing
+* 6.2 Browser Application with DOM
 
 ### In Class
 
-* [Day 8: Beat That Redux](https://basics.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
+* DOM
 
-## Week 5, Course Day 9: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
-
-Meeting time: 7:30 PM SGT (GMT+8)
+## Course Day 9 <a href="#course-day-9" id="course-day-9"></a>
 
 ### Pre Class
 
-Total Video Watch Time: **\~16 mins**
+**Optional:**
 
-**Module 9: Objects**
-
-* [9.1: Objects](../../9-javascript-objects/10.1-javascript-objects.md)
-* [9.2: Card Deck Generation with Loops](https://basics.rocketacademy.co/10-javascript-objects/10.2-card-deck-generation-with-loops)
+* 3.7 Input Validation
+* 2.5: Advanced Debugger with Sources Tab
 
 ### In Class
 
-* [Day 9: Moar Cards / Chat Bot](../../in-class-exercises/day-9-moar-cards.md)
+* Redux: Blackjack
+* Pairwork: Blackjack (More Comfortable)
 
 ### Project Start: Blackjack
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Week 5, Course Day 10: Coding Strategies <a href="#course-day-10" id="course-day-10"></a>
-
-Meeting time: 7:30 PM SGT (GMT+8)
-
-### Pre Class
-
-Total Video Watch Time: **\~60 mins**
-
-**Module 9: Objects**
-
-* [9.3: War Card Game Sample Implementation](https://basics.rocketacademy.co/10-javascript-objects/10.3-card-game-example-war)
-
-### In Class
-
-* Pair Programming: [BlackJack](../../projects/project-3-blackjack.md)
-
-## Week 6, Course Day 11: Advanced <a href="#course-day-11" id="course-day-11"></a>
-
-Meeting time: 7:30 PM SGT (GMT+8)
+## Course Day 10 <a href="#course-day-10" id="course-day-10"></a>
 
 ### Project Due
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
-
-### Pre Class
-
-Total Video Watch Time: \~22 mins
-
-**Module 10: Advanced**
-
-* [10.1: HTML, CSS Review](../../10-advanced/12.2-html-css-review.md)
-* [10.2: Browser Applications with DOM](../../10-advanced/12.1-browser-applications-with-dom.md)
-
-### In Class
-
-* [Day 11: Blackjack Redux and Debugger](https://basics.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
-
-### Project Continuation
-
-[Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
-
-## Course Day 12: Project Presentations <a href="#course-day-12" id="course-day-12"></a>
-
-Meeting time: 7:30 PM SGT (GMT+8)
-
-### Project Due
-
-[Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
 ### In Class
 
@@ -241,3 +202,4 @@ Meeting time: 7:30 PM SGT (GMT+8)
 * LinkedIn certificate presentations
 * Class Photo 🥳
 * Closing Ceremony 🎓
+

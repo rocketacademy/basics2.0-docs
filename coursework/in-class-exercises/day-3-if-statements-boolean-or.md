@@ -30,7 +30,7 @@ Create a dice game that allows a user to roll 2 dice and submit a guess when the
 Otherwise the user loses.
 
 {% hint style="info" %}
-To test your winning logic, consider using [code control logic from Module 4.3](../../modules/3-logic-and-control-flow/3.2-boolean-operators/6.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
+To test your winning logic, consider using [code control logic from Module 4.3](../../modules/3-logic-and-control-flow/6.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
 {% endhint %}
 
 ### Hawker Food Categorisation

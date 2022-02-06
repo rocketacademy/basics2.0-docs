@@ -12,7 +12,7 @@ Today is the last course day before the final project presentation. Unlike other
 
 Total Video Watch Time: **\~18 mins**
 
-### [11.1: Advanced Debugging with Sources Tab](../modules/6-advanced/11.1-advanced-debugging-with-sources-tab.md)
+### [11.1: Advanced Debugging with Sources Tab](../modules/2-structuring-and-debugging-code/11.1-advanced-debugging-with-sources-tab.md)
 
 We've already seen debugging with the simple tool of `console.log`. Sometimes this is not enough. If the code is behaving in a way that doesn't make sense or there is an error in a loop that runs many times and creates a hard to read console.log output, the next level of control and granularity is to use the debugger.
 

@@ -23,7 +23,7 @@ Deploy Blackjack to the internet with instructions from [Module 12.3: Deployment
 
 Total Video Watch Time: **\~22 mins**
 
-### [12.1: Browser Applications with DOM](../modules/6-advanced/12.1-browser-applications-with-dom.md)
+### [12.1: Browser Applications with DOM](../modules/6-document-object-model/12.1-browser-applications-with-dom.md)
 
 #### Q: What is the DOM?
 
@@ -167,7 +167,7 @@ button.addEventListener("click", handleSubmitClick);
 
 #### Q: How does the above code work?
 
-### [12.2: HTML, CSS Review](../modules/6-advanced/12.2-html-css-review.md)
+### [12.2: HTML, CSS Review](../modules/6-document-object-model/12.2-html-css-review.md)
 
 ## In-Class Material
 

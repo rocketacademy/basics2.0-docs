@@ -44,7 +44,7 @@ Once both partners are done with #1-4, discuss what you saw. Read out and review
 
 You'll be pair programming on one person's project at a time.
 
-**The driver will be the person who is **_**not**_** working on their own code.**
+**The driver will be the person who is \_not**\_\*\* working on their own code.\*\*
 
 Once done with one person's code, send the code to your pair (it's their project) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code.
 
@@ -62,13 +62,13 @@ If you have nothing else to add, here are some ideas:
 
 #### A) Multi Game - Guess the Word
 
-Your pair will turn the Scissors Paper Stone game into a Multi game app. Add a mode for a new "guess the secret word" game. The user will type in "word game" (or any secret phrase of your choice) to switch to this mode.&#x20;
+Your pair will turn the Scissors Paper Stone game into a Multi game app. Add a mode for a new "guess the secret word" game. The user will type in "word game" (or any secret phrase of your choice) to switch to this mode.
 
-The game itself will be the same as the game in the code example in [4.1](../../../modules/3-logic-and-control-flow/6.1-intro-to-logic.md#simple-conditional-example-secret-phrase)
+The game itself will be the same as the game in the code example in [4.1](../../../modules/3-logic-and-control-flow/3.2-conditionals/#simple-conditional-example-secret-phrase)
 
 #### B) Dice Game
 
-Add a third mode to the super game, a guess the dice roll game. The user will enter "dice game" to switch to this mode. (The dice game is the same dice game as the original basic version in [4.1](../../../modules/3-logic-and-control-flow/6.1-intro-to-logic.md#dice-game)).
+Add a third mode to the super game, a guess the dice roll game. The user will enter "dice game" to switch to this mode. (The dice game is the same dice game as the original basic version in [4.1](../../../modules/3-logic-and-control-flow/3.2-conditionals/#dice-game)).
 
 ### 3. Comfortable
 

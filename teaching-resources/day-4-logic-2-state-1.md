@@ -12,7 +12,7 @@ We are also introducing the idea that the code can deal with more dynamic values
 
 This day also introduces the GitHub project submission workflow.
 
-## [7.1: GitHub Fork and Pull Request](broken-reference)
+## [7.1: GitHub Fork and Pull Request](broken-reference/)
 
 ### Overview
 
@@ -72,7 +72,7 @@ A: 1) Fork the project repo. 2) Clone the project repo. 3) Make local changes to
 
 A: No. All the changes you pushed to your repo will appear in your original pull request.
 
-## [7.2: GitHub Navigation](broken-reference)
+## [7.2: GitHub Navigation](broken-reference/)
 
 ### Overview
 
@@ -84,7 +84,7 @@ There are Git command line commands that will get back any version from a commit
 
 **Q: Ask a student to share screen and navigate to a repo they have pushed changes to. They should have a least one if they followed the exercise in 7.1. Ask to see the list of commits. Ask to see the diff of a single commit by clicking into the single commit.**
 
-## [8.1: Program Lifecycle and Global State](../modules/4-scope/8.1-program-lifecycle-and-state.md)
+## [8.1: Program Lifecycle and Global State](../modules/4-scope/4.2-program-lifecycle-and-state.md)
 
 ### Overview
 

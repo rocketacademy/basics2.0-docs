@@ -86,7 +86,7 @@ var main = function (input) {
 
 A: `pop`
 
-### [9.2: Loops](../modules/3-logic-and-control-flow/9.2-loops.md)
+### [9.2: Loops](../modules/3-logic-and-control-flow/3.4-loops.md)
 
 ```javascript
 // Initialise a counter to 0.

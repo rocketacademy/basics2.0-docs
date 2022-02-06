@@ -10,7 +10,7 @@ Remember that just logic in and of itself is actually a huge topic. This first d
 
 Total Video Watch Time: **\~40 mins**
 
-### [6.1: Intro to Logic](../modules/3-logic-and-control-flow/6.1-intro-to-logic.md)
+### [6.1: Intro to Logic](../modules/3-logic-and-control-flow/3.2-conditionals/)
 
 #### Overview
 
@@ -81,7 +81,7 @@ var main = function (input) {
 
 #### Q: Make a change so that I win, unless I guessed the random number.
 
-### [6.2: Pseudo Code, Boolean Or](../modules/3-logic-and-control-flow/6.2-pseudo-code-boolean-or.md)
+### [6.2: Pseudo Code, Boolean Or](../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.2-boolean-or.md)
 
 #### Overview
 
@@ -107,7 +107,7 @@ if (
 
 A: With logical OR it does not matter. In english, \*any\* of the statements can be true in order for the condition block to run.
 
-### [6.3: Boolean And and Not](../modules/3-logic-and-control-flow/6.3-boolean-and-not.md)
+### [6.3: Boolean And and Not](../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.3-boolean-and-not.md)
 
 #### Overview
 

@@ -1,4 +1,4 @@
-# 3.3: Conditionals
+# 3.2: Conditionals
 
 ## Learning Objectives
 
@@ -20,7 +20,7 @@ To begin with logic we'll be using the most basic JavaScript logic syntax, the `
 
 ## If Statement
 
-An "**if statement**" is a control-flow "**code block**" that runs if a condition is `true`. A code block is a section of code surrounded by curly braces. We'll talk more about what `true` means when we introduce the boolean data type in [Module 4.3: Boolean And, Not](6.3-boolean-and-not.md#boolean-values).
+An "**if statement**" is a control-flow "**code block**" that runs if a condition is `true`. A code block is a section of code surrounded by curly braces. We'll talk more about what `true` means when we introduce the boolean data type in [Module 4.3: Boolean And, Not](../3.3-boolean-operators/3.3.3-boolean-and-not.md#boolean-values).
 
 ### Simple Conditional Example: Secret Phrase
 
@@ -41,7 +41,7 @@ var main = function (input) {
 
 Our if statement is on line 5. The conditional inside it tests if `input` is equal to `'palatable papaya'`, our secret phrase. If `input` is equal to `'palatable papaya'`, the code runs between the curly braces on lines 5 and 7, i.e. the "if block". If `input` is not equal to our phrase, the if block does not run.
 
-Code blocks may or may not run depending on "[**control flow**](https://en.wikipedia.org/wiki/Control\_flow)", i.e. the logic of our app. The 1st way we learned to use code blocks was with functions. If statements are a 2nd way. We'll learn a 3rd code block syntax later in [6.2: Loops](9.2-loops.md).
+Code blocks may or may not run depending on "[**control flow**](https://en.wikipedia.org/wiki/Control\_flow)", i.e. the logic of our app. The 1st way we learned to use code blocks was with functions. If statements are a 2nd way. We'll learn a 3rd code block syntax later in [6.2: Loops](../3.4-loops.md).
 
 Try inputting secret and non-secret phrases into the program. Enter the secret phrase and click the button to see the different output. Enter anything else and click the button to see the default output.
 

@@ -3,7 +3,7 @@
 ## Setup
 
 1. Clone the [DOM starter code](https://github.com/rocketacademy/basics-next-steps-dom).
-2. Please refer to [10.2: Browser Applications with DOM](../../../modules/6-document-object-model/6.2-browser-applications-with-dom.md) if you need a refresher.
+2. Please refer to [10.2: Browser Applications with DOM](../../../modules/6-document-object-model/6.3-browser-applications-with-dom.md) if you need a refresher.
 
 ## Base
 

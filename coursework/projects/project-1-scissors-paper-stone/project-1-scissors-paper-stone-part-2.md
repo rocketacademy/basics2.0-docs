@@ -6,7 +6,7 @@ description: ✂️📃💎🤩
 
 ## Introduction
 
-Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [global varaibles](../../../modules/4-scope/8.1-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game states](../../../modules/4-scope/8.2-program-state-for-game-modes.md#global-state-for-app-modes).
+Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [global varaibles](../../../modules/4-scope/4.2-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game states](../../../modules/4-scope/4.3-example-program-state-for-game-modes.md#global-state-for-app-modes).
 
 If you completed the [Base features of SPS Part 1](project-1-scissors-paper-stone-part-1.md#base) but didn't finish the More Comfortable section, please complete Base for SPS Part 2 before going back to attempting More Comfortable for both parts.
 
@@ -21,7 +21,7 @@ Take a look at past projects by previous Basics students to visualise how the fu
 
 ### Win-Loss Record
 
-Add [state](../../../modules/4-scope/8.1-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
+Add [state](../../../modules/4-scope/4.2-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
 
 ### User Name
 
@@ -46,7 +46,7 @@ There is no need to implement all the different features sequentially in one ver
 
 ### Reverse Game Mode
 
-You decide to prank your friends and create an SPS game mode where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create _**a game mode**_ where if a user types in "reverse", it reverses the SPS rules.&#x20;
+You decide to prank your friends and create an SPS game mode where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create _**a game mode**_ where if a user types in "reverse", it reverses the SPS rules.
 
 ### Korean Scissors Paper Stone
 

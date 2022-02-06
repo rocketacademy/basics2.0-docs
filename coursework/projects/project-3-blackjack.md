@@ -126,7 +126,7 @@ If you already have an effective strategy for creating your game, you can skip a
 
 ## Walkthrough
 
-If you are still unsure how to start, or find yourself stuck for too long, Bryan can walk you through how to get to the Base solution. Please try to attempt the project once yourself before referencing the walkthrough, and do note that the video uses template code straight from [10.2: Card Deck Generation](../../modules/3-logic-and-control-flow/10.2-card-deck-generation-with-loops.md). If you would like to follow along exactly, you can start with the [base code](https://github.com/rocketacademy/basics-blackjack/tree/walkthrough-base) used in the walkthrough.
+If you are still unsure how to start, or find yourself stuck for too long, Bryan can walk you through how to get to the Base solution. Please try to attempt the project once yourself before referencing the walkthrough, and do note that the video uses template code straight from [10.2: Card Deck Generation](../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md). If you would like to follow along exactly, you can start with the [base code](https://github.com/rocketacademy/basics-blackjack/tree/walkthrough-base) used in the walkthrough.
 
 {% embed url="https://www.youtube.com/watch?v=SccCe9_qU2Q" %}
 Blackjack Base Walkthrough
@@ -216,7 +216,7 @@ In most casinos, all cards are face-up except the dealer's first card. This inje
 
 ### Additional HTML Elements
 
-Look ahead to [12.1 Browser Application with DOM](../../modules/6-document-object-model/6.2-browser-applications-with-dom.md) to see how additional HTML elements can be referenced and manipulated; add a button for 'Hit' and 'Stand'.
+Look ahead to [12.1 Browser Application with DOM](../../modules/6-document-object-model/6.3-browser-applications-with-dom.md) to see how additional HTML elements can be referenced and manipulated; add a button for 'Hit' and 'Stand'.
 
 ### Additional Game Logic
 

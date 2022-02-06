@@ -8,7 +8,7 @@ On days when projects are due, we will review each others' code in groups of 2 o
 
 #### 0) Push Your Own Code
 
-Refer to the [push section](broken-reference/) for the commands needed for this.
+Refer to the [push section](../day-9-moar-cards/broken-reference/) for the commands needed for this.
 
 #### 1) Clone Partner's Code
 

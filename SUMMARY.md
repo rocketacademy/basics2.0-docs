@@ -57,6 +57,7 @@
   * [5.1: Program Lifecycle and State](modules/4-scope/8.1-program-lifecycle-and-state.md)
   * [5.2: Program State for Game Modes](modules/4-scope/8.2-program-state-for-game-modes.md)
   * [Additional Resources 5](modules/4-scope/additional-resources-5.md)
+  * [Page 1](modules/4-scope/page-1.md)
 * [5: HTML & CSS](modules/5-html-and-css/README.md)
   * [5.1: HTML](modules/5-html-and-css/5.1-html.md)
   * [5.2: CSS](modules/5-html-and-css/css.md)

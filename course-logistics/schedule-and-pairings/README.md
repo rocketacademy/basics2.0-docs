@@ -13,7 +13,7 @@
 ### Pre Class
 
 * [Course Overview](../../)
-* [Course Methodology](../course-methodology/)\*\*\*\*
+* [Course Methodology](../course-methodology/)
 
 #### Module 0: Introduction:
 
@@ -23,7 +23,7 @@
 ### In Class
 
 * Opening Brief
-* Look ahead: Deliverables for **Day 1:**
+* Look ahead: Deliverables for Day 1**:**
   * ****[Required Hardware and Software](../required-hardware-and-software/)
   * &#x20;[Pre-Class Material](./#pre-class)
 * Section Introductions and Icebreakers
@@ -126,9 +126,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Arrays and Loops](../../coursework/in-class-exercises/day-5-arrays-and-loops.md)
 
-### Project Start: _Beat That!_
+### Project Start: Beat That!
 
-* [Project 2: _Beat That!_](https://basics.rocketacademy.co/projects/project-2-beat-that)
+* [Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
 
 ## Course Day 6 <a href="#course-day-6" id="course-day-6"></a>
 
@@ -155,12 +155,12 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [3.6: Creating Objects with Loops](../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md)
 
-### Project Due: _Beat That!_
+### Project Due: Beat That!
 
 ### In Class
 
 * [Moar Cards / Chat Bot](../../coursework/in-class-exercises/day-7-moar-cards/)
-* [Redux: _Beat That!_](../../coursework/projects/project-2-beat-that.md)__
+* [Redux: Beat That!](../../coursework/projects/project-2-beat-that.md)
 
 ### Project Start: Blackjack
 
@@ -177,7 +177,7 @@ Module 6: Document Object Model
 
 ### In Class
 
-* [Pairwork: _Blackjack_](../../coursework/projects/project-3-blackjack.md)__
+* [Pairwork: Blackjack](../../coursework/projects/project-3-blackjack.md)
 
 
 

@@ -30,7 +30,7 @@
   * [0.2: Web Browsers](modules/0-introduction/0.2-web-browsers.md)
   * [Additional Resources 1](modules/0-introduction/additional-resources-1.md)
 * [1: Data Structures and Manipulation](modules/1-data-structures-and-manipulations/README.md)
-  * [2.1: Operations](modules/1-data-structures-and-manipulations/3.1-operations.md)
+  * [1.1: Operations](modules/1-data-structures-and-manipulation/1.1-operations.md)
   * [2.2: Variables](modules/1-data-structures-and-manipulations/3.2-variables.md)
   * [6.1: Arrays](modules/1-data-structures-and-manipulations/9.1-arrays.md)
   * [9.1: JavaScript Objects](modules/1-data-structures-and-manipulations/10.1-javascript-objects.md)

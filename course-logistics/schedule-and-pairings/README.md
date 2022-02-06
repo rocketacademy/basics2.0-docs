@@ -32,7 +32,7 @@
 
 **Module 1: Data Structures and Manipulation:**
 
-* 1.1 Operations
+* [1.1 Operations](../../modules/1-data-structures-and-manipulation/1.1-operations.md)
 * 1.2 Variables
 
 **Module 2: Structuring and Debugging Code:**

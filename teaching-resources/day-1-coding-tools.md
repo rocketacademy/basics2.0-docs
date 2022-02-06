@@ -106,7 +106,7 @@ A: Git is a program you use \*inside\* the terminal. The terminal is the compute
 
 A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section [7.2 on browsing GitHub](broken-reference) we'll see how we can navigate and copy and paste a previous version.
 
-### [3.1: Operations](../modules/1-data-structures-and-manipulations/3.1-operations.md)
+### [3.1: Operations](../modules/1-data-structures-and-manipulation/1.1-operations.md)
 
 #### Overview
 

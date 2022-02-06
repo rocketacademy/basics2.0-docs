@@ -36,7 +36,7 @@ Unsure how to start? Try these steps:
    * It's unwise to attempt to build the entire program in one go before testing.
    * Know that the final shape and form of your program will look different from when you are building it.
    * You can write new lines of code within main first, check that the code works as intended, and then "relocate" / refactor your code as a helper function.
-   * Utilise `console.log()` sensibly to check for the right [control flow](../../../modules/2-structuring-and-debugging-code/5.2-errors.md#control-flow-checking-is-our-code-running) and [values](../../../modules/2-structuring-and-debugging-code/5.2-errors.md#value-checking-are-the-values-correct).
+   * Utilise `console.log()` sensibly to check for the right [control flow](../../../modules/2-structuring-and-debugging-code/2.4-errors.md#control-flow-checking-is-our-code-running) and [values](../../../modules/2-structuring-and-debugging-code/2.4-errors.md#value-checking-are-the-values-correct).
    * Try to test as frequently as you can, and whenever you make a significant change. It builds confidence that things are working as they should and you will catch bugs as soon as they pop up.
 4. [Refactor ](https://en.wikipedia.org/wiki/Code\_refactoring)your code:
    1. Is all of your logic in `main()`? Can more lines of code be in helper functions?

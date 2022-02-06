@@ -184,7 +184,7 @@ var main = function (input) {
 
 ## In-Class Material
 
-### [Day 1: Basic File and Data Manipulation](../coursework/in-class-exercises/day-1-data-manipulation-and-functions/)
+### [Day 1: Basic File and Data Manipulation](broken-reference)
 
 #### Overview
 

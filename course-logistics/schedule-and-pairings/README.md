@@ -24,7 +24,7 @@
 
 * Opening Brief
 * Look ahead: Deliverables for Day 1**:**
-  * ****[Required Hardware and Software](../required-hardware-and-software/)
+  * ****[Required Hardware and Software](../required-hardware-software-and-accounts/)
   * &#x20;[Pre-Class Material](./#pre-class)
 * Section Introductions and Icebreakers
 

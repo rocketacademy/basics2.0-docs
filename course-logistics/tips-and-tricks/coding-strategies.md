@@ -1,3 +1,7 @@
+---
+description: How to break a problem down and build up mental models
+---
+
 # 📒 Coding Strategies
 
 ## Getting Started / How to Break a Problem Down
@@ -12,7 +16,7 @@ There are two main aspects to this process:
 
 * Do you understand the problem from a programatic perspective?
 * Do you understand what its purpose is?
-* Do you understand the logic of the application itself?&#x20;
+* Do you understand the logic of the application itself?
 
 ### 2) Strategize which part to concentrate on
 

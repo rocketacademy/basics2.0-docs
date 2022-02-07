@@ -4,7 +4,9 @@
 
 By the end of this lesson, you should be able to do the following:
 
-* Overview of `if, else, else if` statements.
+* [ ] Know how logic is used to make programs more complex
+* [ ] Understand and use the `if` statement.
+* [ ] Understand and use the equality operator: `==`
 
 ## Introduction
 

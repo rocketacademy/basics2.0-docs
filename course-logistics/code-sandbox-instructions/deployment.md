@@ -1,8 +1,12 @@
+---
+description: Deploying your code/portfolio onto the web.
+---
+
 # 📩 Deployment
 
 1. Login to CodeSandbox
 2. Select your Rocket Academy Course Material Sandbox
-3. Click the :rocket: looking icon and click  'Deploy to Github'
+3. Click the `Deployment` button (:rocket:)  and click  'Deploy to Github'
 
 ![Deploying to Github via CodeSandbox](../../.gitbook/assets/deploy.png)
 
@@ -14,13 +18,13 @@
 
 ![Expected Error Message](<../../.gitbook/assets/image (8).png>)
 
-6\. Copy the current URL in the address bar. It should look something like
+6\. Copy the current URL in the address bar. It should look something like:
 
 ```
-https://<YOUR_GITHUB_USERNAME>.github.io/<SOME_RANDOMTEXT>
+https://<YOUR_GITHUB_USERNAME>.github.io/<SOME_RANDOM_HASH>
 ```
 
-7\. Paste it into a word document or a notepad or notes or your code editor and add to the URL the following
+7\. Add the following endpoint to the rest of your URL. Assuming that the files were not renamed, this directs the user to the appropriate webpage in your directory.
 
 > For Project 1: Scissors Paper Stone
 >

@@ -1,3 +1,7 @@
+---
+description: Project instructions for Blackjack
+---
+
 # Project 3: Blackjack
 
 ## Introduction
@@ -11,6 +15,10 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 5. The dealer has to hit if their hand is below 17.
 6. Each players' score is the total of their card ranks. Jacks/Queen/Kings are 10. Aces can be 1 or 11.
 7. The player who is closer to, but not above 21 wins the hand.
+
+## Setup
+
+You can find the project folder under `project3-blackjack` in your CodeSandbox.
 
 ## Past Projects
 
@@ -43,10 +51,6 @@ Take a look at some past project as references, and student-voted most-creative 
 * [90's Night](https://yap83.github.io/basics-blackjack/)
 {% endtab %}
 {% endtabs %}
-
-## Setup
-
-<mark style="background-color:orange;">Begin by forking the CodeSandbox repo, and linking it to your Github Account.</mark>
 
 ## Base
 
@@ -151,12 +155,6 @@ The completed base version as per the walkthrough can be viewed [here](https://g
 Improve the look and feel of your game - if you did not attempt the Comfortable version of _Beat That!,_ you can use the[ instructions there](project-2-beat-that.md#comfortable) as a quick-start guide. If you have, feel free to move on, and add your own creative touches.
 
 {% tabs %}
-{% tab title="User Instructions" %}
-#### User Instructions
-
-Make the game intuitive and fun to use by adding explicit instructions for each step of the game. "_Wow, you're at 14 right now! Do you want to hit or stand? Type h for hit or s for stand._"
-{% endtab %}
-
 {% tab title="Starting Instructions" %}
 #### Starting Instructions
 
@@ -169,6 +167,12 @@ Simply add your instructions into [line 134](https://github.com/rocketacademy/ba
 ```
 
 ####
+{% endtab %}
+
+{% tab title="User Instructions" %}
+#### User Instructions
+
+Make the game intuitive and fun to use by adding explicit instructions for each step of the game. "_Wow, you're at 14 right now! Do you want to hit or stand? Type h for hit or s for stand._"
 {% endtab %}
 
 {% tab title="Emoji" %}

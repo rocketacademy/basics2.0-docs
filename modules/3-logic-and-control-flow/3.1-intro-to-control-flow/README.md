@@ -6,6 +6,7 @@ By the end of this lesson, you should be able to:
 
 * [ ] Understand that code does not always execute linearly and why
 * [ ] Identify statements and operators we can use to manipulate control flow
+* [ ] Know how logic is used to make programs more complex
 
 ## Introduction
 

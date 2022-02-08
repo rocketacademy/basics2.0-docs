@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Create a version of the Beat That dice game, where players create the largest number they can by concatenating random dice roll digits. Read the rules for Beat That [here](https://www.activityvillage.co.uk/beat-that).
+Create a version of the Beat That dice game in your CodeSandbox, where players create the largest number they can by concatenating random dice roll digits. Read the rules for Beat That [here](https://www.activityvillage.co.uk/beat-that).
 
 Have a look a some past student's project to visualise the game - and for inspiration :)
 
@@ -12,8 +12,7 @@ Have a look a some past student's project to visualise the game - and for inspir
 
 ## Setup
 
-1. Create a `project` directory in your `basics` code folder to host your projects if you haven't already.
-2. Make a copy of the [basics starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) for your _Beat That!_ project.
+You can find the project folder under `project2-beat-that` in your CodeSandbox.
 
 ## Base
 
@@ -140,6 +139,10 @@ Create a mode where if there are more than 2 players, the game can match players
 {% endtabs %}
 
 ## Submit
+
+{% content-ref url="../../course-logistics/code-sandbox-instructions/submitting-your-work.md" %}
+[submitting-your-work.md](../../course-logistics/code-sandbox-instructions/submitting-your-work.md)
+{% endcontent-ref %}
 
 1. [Push](broken-reference/) the commits in your local repo to GitHub.
 2. [Create a pull request](broken-reference/) to submit your assignment.

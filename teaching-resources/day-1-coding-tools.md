@@ -15,7 +15,7 @@ This day has a heavier section of content than the other days so be prepared for
 **Sorting out setup problems from students (with VSCode or the terminal or folders) will be an issue on the first meeting.** Unless you know for sure that it is a quick fix, don't spend any time in front of everyone to fix one person's problem. Either wait until the pairing or, even better, wait to meet with them after the session.
 
 {% hint style="warning" %}
-Before the meeting, ask the students to put their [4.2 Our First Program](../modules/2-structuring-and-debugging-code/4.2-our-first-program.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
+Before the meeting, ask the students to put their [4.2 Our First Program](../modules/2-structuring-and-debugging-code/2.3-our-first-program.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
 {% endhint %}
 
 ## Pre-Class Material
@@ -138,7 +138,7 @@ A: Git is a version control program. GitHub is a web application for keeping Git
 
 A: It copies a cloud (remote) repo from one GitHub account into your own account.
 
-### [4.2: Our First Program](../modules/2-structuring-and-debugging-code/4.2-our-first-program.md)
+### [4.2: Our First Program](../modules/2-structuring-and-debugging-code/2.3-our-first-program.md)
 
 #### Overview
 

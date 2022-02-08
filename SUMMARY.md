@@ -46,7 +46,7 @@
   * [Additional Resources 2](modules/2-structuring-and-debugging-code/additional-resources-2.md)
 * [3: Logic and Control Flow](modules/3-logic-and-control-flow/README.md)
   * [3.1: Intro to Control Flow](modules/3-logic-and-control-flow/3.1-intro-to-control-flow/README.md)
-    * [3.1.1: Control Flow diagrams](modules/3-logic-and-control-flow/3.1-intro-to-control-flow/3.1.1-control-flow-diagrams.md)
+    * [3.1.1: Control Flow Diagrams](modules/3-logic-and-control-flow/3.1-intro-to-control-flow/3.1.1-control-flow-diagrams.md)
   * [3.2: Conditionals](modules/3-logic-and-control-flow/3.2-conditionals/README.md)
     * [3.2.1: If, Else, Else If](modules/3-logic-and-control-flow/3.2-conditionals/3.2.1-if-else-else-if.md)
     * [3.2.2: Strict Equality ===](modules/3-logic-and-control-flow/3.2-conditionals/3.2.2-strict-equality.md)

@@ -1,4 +1,4 @@
-# 3.1: Intro to Control Flow
+# 3.1: Intro to Logic and Control Flow
 
 ## Learning Objectives
 
@@ -25,8 +25,6 @@ We'll be using the JavaScript logic syntax, the `if, else if, else` conditions. 
 This allows us selectively run different blocks of logic under different conditions.
 
 This can be used to test values that the users are typing in. Depending on what the user types, we can program different outputs to be displayed in the grey box.
-
-
 
 ## Comments
 
@@ -91,5 +89,20 @@ var rollDice = function () {
 Let's put this together with our `main` function, and personalise our output. Whenever the Submit button is clicked, we will print the most recent dice roll number.
 
 ```
-// Some code
+var main = function (input) {
+  // Generate a random dice number
+  var randomDiceNumber = rollDice();
+
+  // Personalise the output
+  var myOutputValue = 'You just rolled a ' + randomDiceNumber + '!';
+
+  // Return and print output.
+  return myOutputValue;
+};
 ```
+
+## Exercises
+
+### **Follow Along**
+
+Duplicate and run the code above.

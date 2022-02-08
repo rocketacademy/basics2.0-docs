@@ -32,17 +32,17 @@ On days when projects are due, we will review each others' code in groups of 2 o
 
 ### Individual Review
 
-#### 1) Clone Partner's Code
+#### 1) Exchange CodeSandbox links
 
-You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's. If you have forked the repo but haven't pushed your latest code to GitHub, take a moment now to `git push`. Let your partner know you're updating the repo. Run a `git clone <REPO_URL> <NEW_FOLDER_NAME>` to get a copy of your partner's code.
+You may follow the instructions here:
 
-{% hint style="info" %}
-Note: You need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone.
-{% endhint %}
+{% content-ref url="../code-sandbox-instructions/pair-programming-instructions.md" %}
+[pair-programming-instructions.md](../code-sandbox-instructions/pair-programming-instructions.md)
+{% endcontent-ref %}
 
 #### 2) Run Partner's Code
 
-Open the code in the browser and test it. What does it do? If you're not sure what it does look inside `script.js` to see.
+Test the code in the sandboxed browser. What does it do? If you're not sure what it does look inside `script.js` to see.
 
 #### 3) Read Partner's Code
 

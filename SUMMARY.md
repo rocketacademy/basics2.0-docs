@@ -63,7 +63,7 @@
 * [4: Scope](modules/4-scope/README.md)
   * [4.1: Intro to Scope](modules/4-scope/4.1-intro-to-scope.md)
   * [4.2: Program Lifecycle and State](modules/4-scope/4.2-program-lifecycle-and-state.md)
-  * [4.3: Example: Program State for Game Modes](modules/4-scope/4.3-example-program-state-for-game-modes.md)
+  * [4.3: Program State for Game Modes](modules/4-scope/4.3-example-program-state-for-game-modes.md)
   * [Additional Resources 4](modules/4-scope/additional-resources-4.md)
 * [5: HTML & CSS](modules/5-html-and-css/README.md)
   * [5.1: HTML](modules/5-html-and-css/5.1-html.md)

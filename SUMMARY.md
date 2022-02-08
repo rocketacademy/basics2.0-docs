@@ -68,6 +68,7 @@
 * [5: HTML & CSS](modules/5-html-and-css/README.md)
   * [5.1: HTML](modules/5-html-and-css/5.1-html.md)
   * [5.2: Cascading Style Sheets (CSS)](modules/5-html-and-css/css.md)
+  * [Additional Resources 5](modules/5-html-and-css/additional-resources-5.md)
 * [6: Document Object Model](modules/6-document-object-model/README.md)
   * [6.1: HTML, CSS Referencing](modules/6-document-object-model/6.1-html-css-referencing.md)
   * [6.2: Browser Applications with DOM](modules/6-document-object-model/6.3-browser-applications-with-dom.md)

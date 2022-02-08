@@ -30,3 +30,8 @@ If you'd like to learn more, this page contains a non-exhaustive, unordered list
 1. [W3S: Arrays](https://www.w3schools.com/js/js\_arrays.asp)
 2. [W3S: Array Methods](https://www.w3schools.com/js/js\_array\_methods.asp)
 3. [FreeCodeCamp: Array Exercises](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays)
+
+## Objects
+
+1. [JavaScript.info: Objects](https://javascript.info/object)
+2. [MDN: JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)

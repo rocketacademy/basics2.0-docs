@@ -14,7 +14,7 @@ By the end of this lesson, you should be able to:
 
 In programming, "[control flow](https://en.wikipedia.org/wiki/Control\_flow)" refers to the order functions and statements are executed in a computer program.
 
-Code is usually run sequentially from the first line in the file to the last line. However, certain structures such as [functions](../../2-structuring-and-debugging-code/2.3-functions.md), [conditionals](../3.2-conditionals/) and [loops](../3.4-loops.md) may alter this sequential flow, affecting the order of execution.
+Code is usually run sequentially from the first line in the file to the last line. However, certain structures such as [functions](../../2-structuring-and-debugging-code/2.3-functions/2.3.1-functions.md), [conditionals](../3.2-conditionals/) and [loops](../3.4-loops.md) may alter this sequential flow, affecting the order of execution.
 
 ### What is Logic?
 

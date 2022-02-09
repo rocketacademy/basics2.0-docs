@@ -40,9 +40,11 @@ Before you begin, check that you and your partner can answer the following:
 
 The user enters a temperature in Fahrenheit. The program should output the conversion to Celsius in the output box.
 
-Write the code inside the main function first, then extract the code into a [helper function](../../modules/2-structuring-and-debugging-code/2.3-functions.md#define-a-function) that accepts Fahrenheit as the input and outputs Celcius.
+Write the code inside the main function first, then extract the code into a [helper function](../../modules/2-structuring-and-debugging-code/2.3-functions/2.3.1-functions.md#define-a-function) that accepts Fahrenheit as the input and outputs Celcius.
 
-Formula for Fahrenheit to Celcius: Celcius = (Fahrenheit-32) x 5/9
+{% hint style="info" %}
+Formula for Fahrenheit to Celcius: `Celcius = (Fahrenheit-32) x 5/9`
+{% endhint %}
 
 ### **Road Trip Cost (Base)**
 

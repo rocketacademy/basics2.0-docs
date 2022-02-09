@@ -40,8 +40,8 @@
 **Module 2: Structuring and Debugging Code:**
 
 * [2.1 Pseudo Coding](../../modules/2-structuring-and-debugging-code/2.1-pseudo-coding.md)
-* [2.2 Functions](../../modules/2-structuring-and-debugging-code/2.3-functions.md)
-* [2.3 Our First Program](../../modules/2-structuring-and-debugging-code/2.2-our-first-program.md)
+* [2.2 Our First Program](../../modules/2-structuring-and-debugging-code/4.2-our-first-program.md)
+* [2.3.1 Functions I](../../modules/2-structuring-and-debugging-code/2.3-functions/2.3.1-functions.md)
 
 ### In Class
 
@@ -57,6 +57,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 2: Structuring and Debugging Code**
 
+* [2.3.2 Functions II](../../modules/2-structuring-and-debugging-code/2.3-functions/2.3.2-functions-ii.md)
 * [2.4 Errors](../../modules/2-structuring-and-debugging-code/2.4-errors.md)
 
 **Module 3: Logic and Control Flow**

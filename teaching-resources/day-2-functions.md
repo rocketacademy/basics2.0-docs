@@ -5,7 +5,7 @@
 This day introduces two foundational topics: functions and errors.
 
 {% hint style="warning" %}
-Before the meeting, ask the students to put their [5.1 Functions](../modules/2-structuring-and-debugging-code/2.2-functions.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
+Before the meeting, ask the students to put their [5.1 Functions](../modules/2-structuring-and-debugging-code/2.3-functions.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
 {% endhint %}
 
 ## Pre-Class Material
@@ -23,7 +23,7 @@ In the previous session the students were introduced to the idea of pairing and 
 * Pairing is a collaborative experience that should involve a lot of communicating and talking.
 * Both people are focused on the same task. Not one person typing, another person Googling.
 
-## [5.1: Functions](../modules/2-structuring-and-debugging-code/2.2-functions.md)
+## [5.1: Functions](../modules/2-structuring-and-debugging-code/2.3-functions.md)
 
 ### Overview
 

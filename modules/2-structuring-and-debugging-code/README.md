@@ -4,12 +4,12 @@
 [2.1-pseudo-coding.md](2.1-pseudo-coding.md)
 {% endcontent-ref %}
 
-{% content-ref url="2.2-functions.md" %}
-[2.2-functions.md](2.2-functions.md)
+{% content-ref url="2.3-functions.md" %}
+[2.3-functions.md](2.3-functions.md)
 {% endcontent-ref %}
 
-{% content-ref url="4.2-our-first-program.md" %}
-[4.2-our-first-program.md](4.2-our-first-program.md)
+{% content-ref url="2.2-our-first-program.md" %}
+[2.2-our-first-program.md](2.2-our-first-program.md)
 {% endcontent-ref %}
 
 {% content-ref url="2.4-errors.md" %}

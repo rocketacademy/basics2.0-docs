@@ -1,4 +1,4 @@
-# Day 3: If Statements, Boolean Or, Boolean And
+# Day 2: If Statements, Boolean Operators
 
 ## Introduction
 
@@ -22,7 +22,7 @@ Before you begin, check that you and your partner can answer the following:
 
 ### Lucky 11
 
-Create a dice game that allows a user to roll 2 dice and submit a guess when the Submit button is clicked. The user wins if either
+Create a dice game that allows a user input a guess number and roll 2 dice when the Submit button is clicked. The user wins if:
 
 1. One of the dice roll matches their guess, or
 2. If the total dice roll is 11.

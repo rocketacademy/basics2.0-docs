@@ -116,7 +116,15 @@ var main = function (input) {
 
 ## More Comfortable
 
-This section contains optional questions for you to attempt. Try creating functions like how we did in the previous questions to make our main function contain as little code as possible. &#x20;
+This section contains optional questions for you to attempt. You can practice what you have learnt in Modules 1 and 2 by:
+
+1. First writing pseudocode for the problem, and your proposed solution.
+2. Writing all the logic and operations within `main()`, without any helper functions. This helps you
+   1. test that you understand the problem.
+   2. test the logic of your proposed solution.
+3. Now that we know the solution works, we can abstract away the logic into _helper functions_ that are executed by `main()`. This keeps our code neat and clean.
+
+This build-test-abstract cycle is common when approaching complex problems. The final step of cleaning up our code is known as **refactoring**.
 
 ### Ice Machine
 

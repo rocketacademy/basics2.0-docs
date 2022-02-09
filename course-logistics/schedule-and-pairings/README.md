@@ -49,7 +49,7 @@
 Please **do not** attempt in-class material before class for all course days, so that you and your partner can both attempt the problems for the first time during class. If you are looking for more material to work on, we suggest attempting the More Comfortable sections of previous days' exercises. If that is not enough, please message your section leader for more exercises.
 {% endhint %}
 
-* [Data Manipulation and Functions](../../coursework/in-class-exercises/day-1-data-manipulation-and-functions/)
+* [Data Manipulation and Functions](../../coursework/in-class-exercises/day-1-data-manipulation-and-functions.md)
 
 ## Course Day 2 <a href="#course-day-2" id="course-day-2"></a>
 

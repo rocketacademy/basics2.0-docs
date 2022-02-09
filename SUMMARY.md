@@ -77,8 +77,7 @@
 ## coursework
 
 * [In-Class Exercises](coursework/in-class-exercises/README.md)
-  * [Day 1: Data Manipulation and Functions](coursework/in-class-exercises/day-1-data-manipulation-and-functions/README.md)
-    * [Day 2: Functions](coursework/in-class-exercises/day-1-basic-file-and-data-manipulation/day-2-functions.md)
+  * [Day 1: Data Manipulation and Functions](coursework/in-class-exercises/day-1-data-manipulation-and-functions.md)
   * [Day 2: If Statements, Boolean Operators](coursework/in-class-exercises/day-2-if-statements-boolean-operations.md)
   * [Day 3: Program State](coursework/in-class-exercises/day-3-boolean-and-program-state.md)
   * [Day 4: Loops](coursework/in-class-exercises/day-4-loops/README.md)

@@ -180,7 +180,7 @@ A: Related to above, if you don't catch errors one at a time it is impossible to
 
 ## In-Class Material
 
-### [Day 2: Functions](../coursework/in-class-exercises/day-1-basic-file-and-data-manipulation/day-2-functions.md)
+### [Day 2: Functions](../coursework/in-class-exercises/day-1-data-manipulation-and-functions.md)
 
 The topic of these exercises are very similar to the previous exercises, except they are in the context of functions. Try to encourage the students to break the calculations down into separate helper functions.
 

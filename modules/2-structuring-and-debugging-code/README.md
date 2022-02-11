@@ -4,8 +4,8 @@
 [2.1-pseudo-coding.md](2.1-pseudo-coding.md)
 {% endcontent-ref %}
 
-{% content-ref url="2.3-functions/2.3.1-functions.md" %}
-[2.3.1-functions.md](2.3-functions/2.3.1-functions.md)
+{% content-ref url="2.2-functions.md" %}
+[2.2-functions.md](2.2-functions.md)
 {% endcontent-ref %}
 
 {% content-ref url="4.2-our-first-program.md" %}

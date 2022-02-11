@@ -16,6 +16,7 @@
   * [📅 Batch xx Schedule](course-logistics/schedule-and-pairings/batch-13-schedule.md)
 * [📓 Code Sandbox Instructions](course-logistics/code-sandbox-instructions/README.md)
   * [🧑🤝🧑 Pair Programming Instructions](course-logistics/code-sandbox-instructions/pair-programming-instructions.md)
+  * [📤 Submitting Code Commits](course-logistics/code-sandbox-instructions/submitting-code-commits.md)
   * [💼 Submitting Your Work](course-logistics/code-sandbox-instructions/submitting-your-work.md)
   * [📩 Deployment](course-logistics/code-sandbox-instructions/deployment.md)
 * [💡 Tips and Tricks](course-logistics/tips-and-tricks/README.md)

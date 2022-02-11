@@ -135,6 +135,10 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### Pre Class
 
+**Module 3: Control Flow**
+
+* [3.7 Input Validation](../../modules/3-logic-and-control-flow/3.7-input-validation.md)
+
 **Module 5: HTML & CSS**
 
 * [5.1 HTML](../../modules/5-html-and-css/5.1-html.md)
@@ -171,7 +175,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### Pre Class
 
-Module 6: Document Object Model
+**Module 6: Document Object Model**
 
 * [6.1 HTML / CSS Referencing](../../modules/6-document-object-model/6.1-html-css-referencing.md)
 * [6.2 Browser Application with DOM](../../modules/6-document-object-model/6.3-browser-applications-with-dom.md)
@@ -186,9 +190,8 @@ Module 6: Document Object Model
 
 ### Pre Class
 
-**Optional:**
+**Module 2: Structuring and Debugging Code**
 
-* [3.7 Input Validation](../../modules/3-logic-and-control-flow/3.7-input-validation.md)
 * [2.5: Advanced Debugger with Sources Tab](../../modules/2-structuring-and-debugging-code/2.5-advanced-debugger.md)
 
 ### Project Due : Blackjack (Base)

@@ -72,8 +72,8 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### Project Start: Scissors Paper Stone&#x20;
 
-* [Project Planning: Scissors Paper Stone](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
 * [Coding Strategies: Getting Started](../tips-and-tricks/coding-strategies.md#getting-started-how-to-break-a-problem-down)
+* [Project Planning: Scissors Paper Stone](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
 * [Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
 
 

@@ -37,7 +37,7 @@ As our apps get more complicated, we can and should leave notes to ourselves and
 
 ## Random Dice Rolls
 
-Let's build a program that generates random dice numbers.
+Let's recap Module 2: Functions by building a program that generates random dice numbers. We will be using this Dice Rolling function as a base to explore Logic and Control Flow for the rest of this Module.
 
 ### Random Number Generation
 
@@ -47,7 +47,7 @@ To simulate dice rolls, we first need random number generation. JavaScript can p
 var myRandomValue = Math.random();
 ```
 
-Calling `Math.random` returns a random decimal number between 0 and 1, inclusive of 0 and exclusive of 1. Since we wish to simulate dice with numbers between 1 to 6 inclusive, we have to manipulate the randomly-generated number to get what we want.
+Calling `Math.random` returns a random decimal number between 0 and 1, inclusive of 0 and exclusive of 1. Note that `Math.random()` is a function that does not take in any input. Since we wish to simulate dice with numbers between 1 to 6 inclusive, we have to manipulate the randomly-generated number to get what we want.
 
 To convert our random number to a valid dice roll value, we'll use another `Math` function: `Math.floor`. We will follow the random integer generation example [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Math/random) to use `Math.floor` to convert decimals to integers.
 
@@ -102,8 +102,4 @@ var main = function (input) {
 };
 ```
 
-## Exercises
-
-### **Follow Along**
-
-Duplicate and run the code above.
+### ****

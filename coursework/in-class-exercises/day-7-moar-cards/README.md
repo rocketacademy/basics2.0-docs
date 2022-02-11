@@ -65,12 +65,10 @@ Allow the player to wager points on each round. Add a new mode for the beginning
 
 Update the previous game logic such that if any player gets a pair in their hand, they win.
 
-### Reference Solutions
-
-[Here](https://github.com/rocketacademy/basics-starter-code/blob/day9/script.js) is a reference solution for Day 9 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+###
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Chat Bot" %}
 ### Introduction
 
 Today we will practice more complex code logic with nested objects and arrays.
@@ -308,10 +306,14 @@ Add questions to our chat bot that are purportedly for fortune telling, but wher
 
 Such statements that people might feel are individualised but can apply to everyone are known as Barnum statements. Read more about the Barnum effect and statements [here](https://en.wikipedia.org/wiki/Barnum\_effect#Early\_research).
 
-### Reference Solutions
 
-[Here](https://github.com/rocketacademy/basics-starter-code/blob/day10/script.js) is a reference solution for Day 10 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
 {% endtab %}
 {% endtabs %}
 
-##
+### Reference Solutions
+
+[Moar Cards](https://github.com/rocketacademy/basics-starter-code/blob/day9/script.js)&#x20;
+
+[Chat Bot](https://github.com/rocketacademy/basics-starter-code/blob/day10/script.js)
+
+Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.

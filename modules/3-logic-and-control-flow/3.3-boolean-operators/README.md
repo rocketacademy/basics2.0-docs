@@ -23,11 +23,16 @@ They are often used in `if` and `else if` statements to cover more conditions.&#
 
 
 
-There are three types of boolean operators
+There are several different boolean operators:
 
-1. Or  `||`
-2. And `&&`
-3. Not `!`
+1. Equality `==`
+2. Inequality `!=`
+3. Or  `||`
+4. And `&&`
+5. Not `!`
+6. Greater than or Less Than `>` or `<`
+7. Greater or Equals to `>=`
+8. Less or Equals to `<=`
 
 ## Exercise
 

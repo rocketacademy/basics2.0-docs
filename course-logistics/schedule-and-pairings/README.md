@@ -125,7 +125,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### In Class
 
-* [Arrays and Loops](../../coursework/in-class-exercises/day-5-arrays-and-loops.md)
+* [Mad Libs](../../coursework/in-class-exercises/day-5-arrays-and-loops.md)
 
 ### Project Start: Beat That!
 

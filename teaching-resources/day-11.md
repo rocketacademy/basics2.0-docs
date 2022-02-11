@@ -71,7 +71,7 @@ Another example of a deployed project is on the base blackjack repository: [http
 
 ## In-Class Material
 
-### [Day 11: Blackjack Redux and Debugger](../coursework/in-class-exercises/day-11-blackjack-redux-debugger/)
+### [Day 11: Blackjack Redux and Debugger](../coursework/in-class-exercises/day-10-blackjack-redux-debugger/)
 
 This exercise should prioritize getting those students who are stuck without a basic working game to understand how to move forward with their project.
 

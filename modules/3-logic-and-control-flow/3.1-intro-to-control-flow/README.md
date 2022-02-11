@@ -71,7 +71,7 @@ var getRandomInteger = function (max) {
 
 Since we wish to build a program that generates random dice numbers, we can customise `getRandomInteger` to always return an integer from 1 to 6. We call the new function `rollDice`.
 
-```
+```javascript
 var rollDice = function () {
   // Generate a decimal from 0 through 6, inclusive of 0 and exclusive of 6.
   var randomDecimal = Math.random() * 6;
@@ -89,7 +89,7 @@ var rollDice = function () {
 
 Let's put this together with our `main` function, and personalise our output. Whenever the Submit button is clicked, we will print the most recent dice roll number.
 
-```
+```javascript
 var main = function (input) {
   // Generate a random dice number
   var randomDiceNumber = rollDice();

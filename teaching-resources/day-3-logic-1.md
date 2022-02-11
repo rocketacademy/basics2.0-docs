@@ -81,7 +81,7 @@ var main = function (input) {
 
 #### Q: Make a change so that I win, unless I guessed the random number.
 
-### [6.2: Pseudo Code, Boolean Or](../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.1-pseudo-code-boolean-or.md)
+### [6.2: Pseudo Code, Boolean Or](../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.2-boolean-or.md)
 
 #### Overview
 

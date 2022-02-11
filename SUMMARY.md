@@ -85,7 +85,7 @@
   * [Day 3: Program State](coursework/in-class-exercises/day-3-boolean-and-program-state.md)
   * [Day 4: Loops](coursework/in-class-exercises/day-4-loops/README.md)
     * [Scissors Paper Stone Redux](coursework/in-class-exercises/day-6-loops/day-5-scissors-paper-stone-redux.md)
-  * [Day 5: Arrays and Loops](coursework/in-class-exercises/day-5-arrays-and-loops.md)
+  * [Day 5: Mad Libs](coursework/in-class-exercises/day-5-arrays-and-loops.md)
   * [Day 7: Moar Cards](coursework/in-class-exercises/day-7-moar-cards/README.md)
     * [Beat That Redux](coursework/in-class-exercises/day-9-moar-cards/day-8-beat-that-redux.md)
   * [Day 11: Blackjack Redux, DOM](coursework/in-class-exercises/day-11-blackjack-redux-debugger/README.md)

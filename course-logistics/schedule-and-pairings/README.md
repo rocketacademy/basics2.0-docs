@@ -109,7 +109,7 @@ Please **do not** attempt in-class material before class for all course days, so
 ### In Class
 
 * [Loops](../../coursework/in-class-exercises/day-4-loops/)
-* [Redux: Scissors Paper Stone](../../coursework/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
+* [Redux: Scissors Paper Stone](../../coursework/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md) (30min)
 
 ## Course Day 5 <a href="#course-day-5" id="course-day-5"></a>
 
@@ -134,10 +134,6 @@ Please **do not** attempt in-class material before class for all course days, so
 ## Course Day 6 <a href="#course-day-6" id="course-day-6"></a>
 
 ### Pre Class
-
-**Module 3: Control Flow**
-
-* [3.7 Input Validation](../../modules/3-logic-and-control-flow/3.7-input-validation.md)
 
 **Module 5: HTML & CSS**
 
@@ -164,8 +160,8 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### In Class
 
+* [Redux: Beat That!](../../coursework/projects/project-2-beat-that.md) (30min)
 * [Moar Cards / Chat Bot](../../coursework/in-class-exercises/day-7-moar-cards/)
-* [Redux: Beat That!](../../coursework/projects/project-2-beat-that.md)
 
 ### Project Start: Blackjack
 
@@ -184,8 +180,6 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Pairwork: Blackjack](../../coursework/projects/project-3-blackjack.md)
 
-
-
 ## Course Day 9 <a href="#course-day-9" id="course-day-9"></a>
 
 ### Pre Class
@@ -193,6 +187,7 @@ Please **do not** attempt in-class material before class for all course days, so
 **Module 2: Structuring and Debugging Code**
 
 * [2.5: Advanced Debugger with Sources Tab](../../modules/2-structuring-and-debugging-code/2.5-advanced-debugger.md)
+* [3.7: Input Validation](../../modules/3-logic-and-control-flow/3.7-input-validation.md)
 
 ### Project Due : Blackjack (Base)
 

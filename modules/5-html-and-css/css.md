@@ -36,12 +36,11 @@ selector {
 }
 ```
 
-In Basics, you will apply CSS styling in two ways:
+CSS styling can be applied in three ways:
 
-1. In-line styling
-2. Internal styling
-
-#### In-Line Styling
+1. In-line styling.
+2. Internal styling.
+3. External styling.
 
 **In-line styling** is written inside the HTML opening tag as an attribute-value pair. Like this:
 
@@ -54,8 +53,6 @@ If more than one style declaration is applied:
 ```html
 <p style = “color: red; font-weight: bold;”> This text is red and bold </p>
 ```
-
-#### Internal Styling
 
 **Internal styling** is placed inside the head tag of the page and is wrapped inside the style tag. In this example, the selector of p is chosen to style all the paragraph tags on the page.
 
@@ -77,3 +74,17 @@ If more than one style declaration is applied:
 
 You will be using internal styling in your exercises. **Don't forget to put your CSS declarations between style tags.**
 
+**External styling** is when the styles are defined in a _separate file_ and is referenced by index.html. In Basics, you would have noticed a file called `styles.css` where the styles for various HTML elements are defined. This allows for better neatness and organisation, and for a styles to be centrally defined in a single _stylesheet_ and applied across various HTML files, if necessary.
+
+When defining styles in a `.css` file, it is not necessary to have opening and closing `<style>` tags. Rather, the entire file is **linked** into the `.html` file using a link tag, in the `<head>` of the document:
+
+```
+<html>
+    <head>
+    ...
+    <link rel="stylesheet" href="styles.css>
+    ...
+<html>
+```
+
+`rel="stylesheet"` specifies the relationship of the file that we are linking, in this case the linked file defines the styles of the current HTML file, and it is known as the stylesheet. `href` stands for hyperlink reference, which defines the location of the file to be linked. If `styles.css` is in the same folder as the HTML file, we can simply provide the name as the location.

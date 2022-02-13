@@ -312,8 +312,4 @@ Such statements that people might feel are individualised but can apply to every
 
 ### Reference Solutions
 
-[Moar Cards](https://github.com/rocketacademy/basics-starter-code/blob/day9/script.js)&#x20;
-
-[Chat Bot](https://github.com/rocketacademy/basics-starter-code/blob/day10/script.js)
-
-Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/basics-starter-code-2.0/blob/day7/day07-moar-cards/in-class/script.js) is the reference solution to the Moar Cards and Chat Bot exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.

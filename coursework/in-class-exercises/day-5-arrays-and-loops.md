@@ -101,4 +101,4 @@ Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+e
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/basics-starter-code-2.0/blob/day5/day05-arrays-and-loops/in-class/script.js) is a reference solution for Day 5 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/basics-starter-code-2.0/blob/day5/day05-mad-libs/in-class/script.js) is a reference solution for Day 5 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.

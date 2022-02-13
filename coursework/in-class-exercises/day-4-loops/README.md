@@ -100,8 +100,4 @@ Change the game to ask how many players are playing the game. Players will take 
 
 ## Reference Solution
 
-[Here ](https://github.com/rocketacademy/basics-drawing/pull/9/files)is a reference solution to the Drawing exercises, and [here](https://github.com/rocketacademy/basics-starter-code/blob/day6/script.js) is a reference solution for Dice Game exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
-
 [Here](https://github.com/rocketacademy/basics-starter-code-2.0/blob/day4/day04-loops/in-class/script.js) is the reference solution to the Drawing and Dice Game exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
-
-[Here ](https://github.com/rocketacademy/basics-drawing/pull/9/files)is a reference solution to the Drawing exercises, and [here](https://github.com/rocketacademy/basics-starter-code/blob/day6/script.js) is a reference solution for Dice Game exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.

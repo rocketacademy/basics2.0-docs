@@ -19,6 +19,8 @@ Before you begin, check that you and your partner can answer the following:
 
 ## Base
 
+{% tabs %}
+{% tab title="Secret Word" %}
 ### Secret Word
 
 Create a game where a player must correctly guess secret words to win.
@@ -43,14 +45,19 @@ We define "round" as all gameplay until a player wins. The number of times the p
 
 When the player wins, the computer updates the number of times the player needs to guess correctly in a row for the next round.
 
-Consider using [input control from Module 6.3](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.3-boolean-and-not.md#code-control) to test your logic.
+Consider using [input control ](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.3-boolean-and-not.md#code-control)to test your logic.
 
 ## More Comfortable
 
-{% hint style="info" %}
-Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to move on to [Scissors Paper Stone: Part 2](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md) You can always come back and attempt the additional problems when you are feeling _more comfortable._
-{% endhint %}
+### Secret Word Twice in a Row 2
 
+Update Secret Word with the following additional rules.
+
+1. The player must guess correctly twice in a row to win
+2. Secret words cannot be repeated 2 guesses in a row. E.g. the secret word cannot be "banana" for 2 player guesses in a row. If the secret word for the 1st guess were "banana", the secret word for the 2nd guess would have to be either "chisel" or "faucet".
+{% endtab %}
+
+{% tab title="Dice" %}
 ### Dice Within
 
 Create a new version of our Coding Basics dice game (where the player guesses the dice roll) that randomly becomes easier or harder. At the beginning of the game and each time the player wins, the computer selects a random number from 1 to 3, which we call the "within number". If any of the player's guesses fall within the dice roll plus or minus the within number, the player wins.
@@ -63,14 +70,13 @@ Update our dice game to include an additional dice. With each player guess, the 
 
 ### Dice 4D
 
-Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control from Module 4.3](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.3-boolean-and-not.md#code-control) to verify our 4D game logic, that it is possible to win this 4D game.
+Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control ](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.3-boolean-and-not.md#code-control)to verify our 4D game logic, that it is possible to win this 4D game.
+{% endtab %}
+{% endtabs %}
 
-### Secret Word Twice in a Row 2
-
-Update Secret Word with the following additional rules.
-
-1. The player must guess correctly twice in a row to win
-2. Secret words cannot be repeated 2 guesses in a row. E.g. the secret word cannot be "banana" for 2 player guesses in a row. If the secret word for the 1st guess were "banana", the secret word for the 2nd guess would have to be either "chisel" or "faucet".
+{% hint style="info" %}
+Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to move on to [Scissors Paper Stone: Part 2](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md) You can always come back and attempt the additional problems when you are feeling _more comfortable._
+{% endhint %}
 
 ## Reference Solution
 

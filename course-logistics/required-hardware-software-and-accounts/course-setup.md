@@ -28,7 +28,7 @@ You should see a pop up and click on 'Authorize codesandbox' and the pop up shou
 
 Under 'Export to new GitHub repository' enter RocketAcademyBasics into the repository name and click 'Create new repository on GitHub'
 
-![Creating new repository on Github via CodeSandbox](<../../.gitbook/assets/image (11).png>)
+![Creating new repository on Github via CodeSandbox](<../../.gitbook/assets/image (11) (1).png>)
 
 Last step would be to confirm that you have successfully created the repository. Check to see if you have your GitHub username as shown below
 

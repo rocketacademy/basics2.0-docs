@@ -74,7 +74,8 @@
   * [Additional Resources 5](modules/5-html-and-css/additional-resources-5.md)
 * [6: Document Object Model](modules/6-document-object-model/README.md)
   * [6.1: HTML, CSS Referencing](modules/6-document-object-model/6.1-html-css-referencing.md)
-  * [6.2: Browser Applications with DOM](modules/6-document-object-model/6.3-browser-applications-with-dom.md)
+  * [6.2: The Document Object Model](modules/6-document-object-model/6.2-the-document-object-model.md)
+  * [6.3 DOM Manipulation](modules/6-document-object-model/6.3-dom-manipulation.md)
 * [Further Readings](modules/further-readings.md)
 
 ## coursework

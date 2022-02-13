@@ -174,7 +174,7 @@ Please **do not** attempt in-class material before class for all course days, so
 **Module 6: Document Object Model**
 
 * [6.1 HTML / CSS Referencing](../../modules/6-document-object-model/6.1-html-css-referencing.md)
-* [6.2 Browser Application with DOM](../../modules/6-document-object-model/6.3-browser-applications-with-dom.md)
+* [6.2 Browser Application with DOM](../../modules/6-document-object-model/6.2-the-document-object-model.md)
 
 ### In Class
 

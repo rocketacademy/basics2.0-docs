@@ -30,7 +30,7 @@ Create a dice game that allows a user input a guess number and roll 2 dice when 
 Otherwise the user loses.
 
 {% hint style="info" %}
-To test your winning logic, consider using code control logic from[ Module 3.3](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
+To test your winning logic, consider using [code control logic](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
 {% endhint %}
 
 ### Hawker Food Categorisation
@@ -43,6 +43,8 @@ Please use the `||` operator.
 
 ## Comfortable
 
+{% tabs %}
+{% tab title="4D" %}
 ### 4D with Single-Digit Comparison
 
 [4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. Rocket Academy does not endorse gambling.
@@ -51,21 +53,17 @@ Create a version of 4D where the player wins if their guess matches **any** of t
 
 In addition to the win/loss result, output the player guess and all randomly-generated digits so the player can see how close they were.
 
+### 4D with Winning Range
+
+Create a version of 4D where the player wins if they guess within 1000 (above or below) of the winning 4-digit number. Consider using comparison operators such as less than (`<`) and greater than (`>`).
+{% endtab %}
+
+{% tab title="Hawker Food" %}
 ### Hawker Food Randomness
 
 The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish to each customer. The dishes in his repertoire are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa". Customers that correctly guess Uncle's dish receive a free meal.
 
 Create an app that uses random numbers to help Uncle decide which dish to cook. The customer can only input dish names. If the customer correctly guesses Uncle's dish, let her know that she gets a free meal!
-
-{% hint style="info" %}
-Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to move on to [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone/). You can always come back and attempt the additional problems when you are feeling _more comfortable._
-{% endhint %}
-
-## More Comfortable
-
-### 4D with Winning Range
-
-Create a version of 4D where the player wins if they guess within 1000 (above or below) of the winning 4-digit number. Consider using comparison operators such as less than (`<`) and greater than (`>`).
 
 ### Hawker Food Omakase
 
@@ -93,6 +91,12 @@ This will be followed by Bak Kut Teh, a simmered pork rib broth with fatty pork 
 
 Chilli sambal will be included.
 ```
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to move on to [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone/). You can always come back and attempt the additional problems when you are feeling _more comfortable_
+{% endhint %}
 
 ## Reference Solution
 

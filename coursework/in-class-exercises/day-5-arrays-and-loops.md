@@ -55,10 +55,6 @@ var getRandomIndex = function (arrayLength) {
 
 ## Comfortable
 
-### Popular Mad Libs
-
-Keep track of which words are selected. Create and allow the user to switch to a new game mode that always shows a completed Mad Lib on Submit using the set of words (verb, adjective, etc.) that the app has (randomly) selected most often so far.
-
 ### Input and Create Mode
 
 When the Basics Starter Code app loads it starts in "input", or normal mode. In input mode, the user can add adjectives to their adjectives list with each Submit.
@@ -85,6 +81,10 @@ var madLib = `${randomExclamation}! he said ${randomAdverb} as he jumped into hi
 
 Create modes to input words from different word types, e.g. exclamation, adverb, noun, and adjective. For each type, prompt the user what type of word they should be entering. If it's too tedious to support 4 word types, considering starting with 2 word types.
 
+### Popular Mad Libs
+
+Keep track of which words are selected. Create and allow the user to switch to a new game mode that always shows a completed Mad Lib on Submit using the set of words (verb, adjective, etc.) that the app has (randomly) selected most often so far.
+
 ### Sets of Mad Libs
 
 Store an array of Mad Lib sentences in your app. For example, Mad Lib 1 might be:
@@ -101,4 +101,4 @@ Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+e
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/basics-starter-code/tree/day7) is a reference solution for Day 7 exercises. [Here](https://github.com/rocketacademy/basics-starter-code/tree/day7-moreComfortable) is a reference solution for Day 7 More Comfortable exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/basics-starter-code-2.0/blob/day5/day05-arrays-and-loops/in-class/script.js) is a reference solution for Day 5 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.

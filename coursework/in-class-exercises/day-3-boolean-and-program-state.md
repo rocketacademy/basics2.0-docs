@@ -1,4 +1,4 @@
-# Day 4: Program State
+# Day 3: Program State
 
 ## Introduction
 
@@ -74,4 +74,4 @@ Update Secret Word with the following additional rules.
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/basics-starter-code/blob/day4/script.js) is a reference solution for Day 4 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/basics-starter-code-2.0/blob/day3/day03-program-state/in-class/script.js) is a reference solution for Day 3 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.

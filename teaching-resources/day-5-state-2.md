@@ -16,7 +16,7 @@ For this day, instead of an in-class exercise that explicitly deals with the pre
 
 Total Video Watch Time: **\~17 mins**
 
-### [8.3: Input Validation](../modules/3-logic-and-control-flow/3.6-input-validation.md)
+### [8.3: Input Validation](../modules/3-logic-and-control-flow/3.7-input-validation.md)
 
 ### Number
 

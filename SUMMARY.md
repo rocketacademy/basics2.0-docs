@@ -76,7 +76,7 @@
   * [6.1: HTML, CSS Referencing](modules/6-document-object-model/6.1-html-css-referencing.md)
   * [6.2: The Document Object Model](modules/6-document-object-model/6.2-the-document-object-model.md)
   * [6.3 DOM Manipulation](modules/6-document-object-model/6.3-dom-manipulation.md)
-* [Additional Resources 6](modules/additional-resources-6.md)
+  * [Additional Resources 6](modules/6-document-object-model/additional-resources-6.md)
 * [Further Readings](modules/further-readings.md)
 
 ## coursework
@@ -98,20 +98,3 @@
     * [Project 1: Scissors Paper Stone (Part 2)](coursework/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
   * [Project 2: Beat That!](coursework/projects/project-2-beat-that.md)
   * [Project 3: Blackjack](coursework/projects/project-3-blackjack.md)
-
-## Teaching Resources
-
-* [Teacher's Guide Introduction](teaching-resources/teachers-guide-introduction.md)
-* [Code Review Guidelines](teaching-resources/code-review-guidelines.md)
-* [Day 1: Coding Tools](teaching-resources/day-1-coding-tools.md)
-* [Day 2: Functions](teaching-resources/day-2-functions.md)
-* [Day 3: Logic 1](teaching-resources/day-3-logic-1.md)
-* [Day 4: Logic 2, State 1](teaching-resources/day-4-logic-2-state-1.md)
-* [Day 5: State 2](teaching-resources/day-5-state-2.md)
-* [Day 6: Arrays, Loops 1](teaching-resources/day-6.md)
-* [Day 7: Loops 2](teaching-resources/day-7.md)
-* [Day 8: Objects](teaching-resources/day-8.md)
-* [Day 9: Card Logic](teaching-resources/day-9.md)
-* [Day 10: Coding Strategies](teaching-resources/day-10.md)
-* [Day 11: Debugger](teaching-resources/day-11.md)
-* [Day 12: DOM, Project Presentations](teaching-resources/day-12.md)

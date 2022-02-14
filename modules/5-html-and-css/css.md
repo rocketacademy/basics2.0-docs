@@ -85,8 +85,6 @@ All CSS rules are placed inside the `<head>` tag of the page and is wrapped insi
 </html>
 ```
 
-#### ****
-
 ### **External Styling**
 
 **External styling** is when the styles are defined in a _separate file_ and is referenced by index.html. In Basics, you would have noticed a file called `styles.css` where the styles for various HTML elements are defined. This allows for better neatness and organisation, and for a styles to be centrally defined in a single _stylesheet_ and applied across various HTML files, if necessary.

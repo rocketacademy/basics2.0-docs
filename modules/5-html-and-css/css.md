@@ -21,11 +21,11 @@ CSS helps us change visual properties of HTML elements, such as fonts, backgroun
 
 CSS can help us divide our UI into visual sections. This is one of the most tricky aspects of CSS, because CSS was not _originally_ intended for layout design. CSS content in Rocket's Bootcamp will focus on implementing UI layouts.
 
+## CSS Syntax
+
 CSS is a declarative language. It doesn't tell the browser what to do but rather describes the rules that the browser then uses to render the page. CSS became popular because it was predictable and forgiving in its syntax. It was also easy to learn.
 
 The concept of cascading styles is unique to CSS. To cascade means that styles can inherit and overwrite styles through its hierarchy called _specificity_.&#x20;
-
-## CSS Syntax
 
 CSS styling can be applied in three ways:
 
@@ -103,3 +103,41 @@ When defining styles in a `.css` file, it is not necessary to have opening and c
 ```
 
 `rel="stylesheet"` specifies the relationship of the file that we are linking, in this case the linked file defines the styles of the current HTML file, and it is known as the stylesheet. `href` stands for hyperlink reference, which defines the location of the file to be linked. If `styles.css` is in the same folder as the HTML file, we can simply provide the name of the file as the location.
+
+### Cascade
+
+Why _Cascading_ Style Sheets? With so many different ways to define CSS rules, it is not difficult to imagine a situation where there are conflicting rules applying to a single HTML element. The cascade is what determines which rules actually get applied to our HTML. There are 3 main factors in determining the cascade:
+
+1. Specificity,
+2. Inheritance, and
+3. Rule order.
+
+For Coding Basics, we will only focus on 3. Rule Order. You are free to read up on the rest. Rule order simply means that all the rules are applied sequentially, and in order. So if there 2 or more rules that governed the colour of a `<p>` element, the rule that is applied last will be the one that is preferred.&#x20;
+
+```javascript
+<html>
+    <head>
+    ...
+    <link rel="stylesheet" href="styles.css">
+      <title> Page Title </title>
+         <style>
+            p{			
+               color: white;
+            }
+         </style>
+   </head>
+   <body>
+	<p> This text is white </p>
+	<p style="color: red;"> This text is RED! </p>
+	<p> This text is back to white :) </p>
+   </body>
+<html>
+```
+
+### Common CSS properties
+
+[Here is a list](http://web.simmons.edu/\~grabiner/comm244/weekthree/css-basic-properties.html) of basic CSS properties you can start experimenting with.
+
+## Exercise
+
+1. <mark style="color:red;background-color:yellow;">Be creative!</mark> <mark style="color:blue;">Explore!</mark> <mark style="color:blue;background-color:red;">Express yourself!</mark>

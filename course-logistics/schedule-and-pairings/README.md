@@ -62,7 +62,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 3: Logic and Control Flow**
 
-* [3.1 Intro to Control Flow](../../modules/3-logic-and-control-flow/3.1-intro-to-control-flow/)
+* [3.1 Intro to Logic and Control Flow](../../modules/3-logic-and-control-flow/3.1-intro-to-control-flow/)
 * [3.2 Conditionals](../../modules/3-logic-and-control-flow/3.2-conditionals/)
 * [3.3 Boolean Operators](../../modules/3-logic-and-control-flow/3.3-boolean-operators/)
 

@@ -102,7 +102,55 @@ When defining styles in a `.css` file, it is not necessary to have opening and c
 
 `rel="stylesheet"` specifies the relationship of the file that we are linking, in this case the linked file defines the styles of the current HTML file, and it is known as the stylesheet. `href` stands for hyperlink reference, which defines the location of the file to be linked. If `styles.css` is in the same folder as the HTML file, we can simply provide the name of the file as the location.
 
-### Cascade
+## CSS Selectors: Classes and IDs
+
+### Classes
+
+Previously, we used HTML elements as selectors when defining CSS rules, either internally or externally. This makes things neater and easier to manage, but does not provide a lot of flexibility. Perhaps we want to apply a certain styling to a group of elements in our web page, but not all `<p>` elements. This can be achieved by using CSS classes, and assigning the relevant HTML element that class as an attribute.&#x20;
+
+A class in a CSS file comprises several characteristics that can be applied to any HTML element to define its visual identity. More than one class can be applied to an element and more than one element can be assigned a class. When defining a set of rules for a class, the selector is prefixed with a period, followed by the user-defined class name, as so:
+
+```css
+.card {
+  background-color: pink;
+}
+
+.face-up {
+  font-size: 20px;
+}
+.face-down {
+  font-size: 0px;
+}
+
+.page-link {
+  font: 'comic-sans';
+}
+```
+
+```markup
+// This is the HTML File
+
+<p class="card face-down">ace of spades</p>
+<p class="card face-up">ace of clubs</p>
+```
+
+### IDs
+
+We can also define CSS rules for IDs. In this case, the prefix is #. As IDs should be unique, these CSS rules should only be applying to a single HTML element:
+
+```css
+#player-card-one {
+  border: 3px solid red;
+}
+
+#save-button {
+  color: green;
+}
+```
+
+When defining HTML elements in `index.html`, we can initially assign them an ID or a class. IDs are unique, and should not be applied to multiple elements (just like your ID number), but multiple HTML elements can share classes, and HTML elements can belong to multiple classes. Not all HTML elements need to have an ID or a class.
+
+## Cascade
 
 Why _Cascading_ Style Sheets? With so many different ways to define CSS rules, it is not difficult to imagine a situation where there are conflicting rules applying to a single HTML element. The cascade is what determines which rules actually get applied to our HTML. There are 3 main factors in determining the cascade:
 
@@ -135,6 +183,52 @@ For Coding Basics, we will only focus on 3. Rule Order. You are free to read up 
 ### Common CSS properties
 
 [Here is a list](http://web.simmons.edu/\~grabiner/comm244/weekthree/css-basic-properties.html) of basic CSS properties you can start experimenting with.
+
+## Basics Starter Code
+
+Take a look at `index.html` from the `basics-starter-code`.&#x20;
+
+Look for the code from `<body>` onwards, and notice that some HTML elements have IDs associated with them.
+
+```html
+<h1 id="header">🚀 Basics Day 1: In-Class Exercises 🚀</h1>
+
+<!-- 
+  The <div> tag defines a division or a section in an HTML document, 
+  and is commonly use as a "container" for nested HTML elements. 
+-->
+
+<div class="container">
+
+  <!-- The <p> tag defines a paragraph element. -->
+  <p>Input:</p>
+  
+  <!-- 
+    The self-closing <input /> tag represents a field for a user 
+    to enter input. 
+  -->
+  
+  <input id="input-field" />
+  
+  <!-- 
+    The self-closing <br /> tag represents a line break - 
+    a line's worth of spacing before displaying the next element. 
+  -->
+  
+  <br />
+  
+  <!-- The <button> tag represents.. you guessed it! a button. -->
+  
+  <button id="submit-button">Submit</button>
+  
+  <p>Output:</p>
+  
+  <div class="output-div" id="output-div"></div>
+  
+</div>
+```
+
+The code within `<script>` tags reference some of these HTML elements, and define the logic that has been associating the Submit button and input/output fields to the main function. We will soon take a closer look at the syntax and concepts that make this work.
 
 ## Exercise
 

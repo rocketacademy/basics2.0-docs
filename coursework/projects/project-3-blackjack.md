@@ -269,7 +269,7 @@ Add hand-splitting functionality to the game. If the player has two of the same 
 {% tab title="HTML Elements" %}
 ### Additional HTML Elements
 
-Add additional buttons via editing the HTML, and use [DOM manipulation](../../modules/6-document-object-model/6.3-dom-manipulation.md) to link your program logic to the buttons. You can consider:
+Add additional buttons via editing the HTML, and use [DOM manipulation](../../modules/6-document-object-model/6.2-dom-manipulation.md) to link your program logic to the buttons. You can consider:
 
 * a 'Hit' button
 * a 'Stand' button

@@ -177,8 +177,8 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 6: Document Object Model**
 
-* [6.1 HTML / CSS Referencing](../../modules/6-document-object-model/6.1-html-css-referencing.md)
-* [6.2 Browser Application with DOM](../../modules/6-document-object-model/6.2-the-document-object-model.md)
+* [6.1 Browser Application with DOM](../../modules/6-document-object-model/6.1-the-document-object-model.md)
+* [6.2 DOM Manipulation](../../modules/6-document-object-model/6.2-dom-manipulation.md#complete-applications-with-dom)
 
 ### In Class
 
@@ -191,10 +191,6 @@ Please **do not** attempt in-class material before class for all course days, so
 **Module 2: Structuring and Debugging Code**
 
 * [2.5: Advanced Debugger with Sources Tab](../../modules/2-structuring-and-debugging-code/2.5-advanced-debugger.md)
-
-**Module 6: Document Object Model**
-
-* [6.3 DOM Manipulation](../../modules/6-document-object-model/6.3-dom-manipulation.md#complete-applications-with-dom)
 
 ### Project Due : Blackjack (Base)
 

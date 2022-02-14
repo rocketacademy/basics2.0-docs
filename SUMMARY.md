@@ -73,9 +73,8 @@
   * [5.2: Cascading Style Sheets (CSS)](modules/5-html-and-css/css.md)
   * [Additional Resources 5](modules/5-html-and-css/additional-resources-5.md)
 * [6: Document Object Model](modules/6-document-object-model/README.md)
-  * [6.1: HTML, CSS Referencing](modules/6-document-object-model/6.1-html-css-referencing.md)
-  * [6.2: The Document Object Model](modules/6-document-object-model/6.2-the-document-object-model.md)
-  * [6.3 DOM Manipulation](modules/6-document-object-model/6.3-dom-manipulation.md)
+  * [6.1: The Document Object Model](modules/6-document-object-model/6.1-the-document-object-model.md)
+  * [6.2 DOM Manipulation](modules/6-document-object-model/6.2-dom-manipulation.md)
   * [Additional Resources 6](modules/6-document-object-model/additional-resources-6.md)
 * [Further Readings](modules/further-readings.md)
 

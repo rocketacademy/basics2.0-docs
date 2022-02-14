@@ -135,6 +135,10 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### Pre Class
 
+**Module 3: Logic and Control Flow**
+
+* [3.6: Input Validation](../../modules/3-logic-and-control-flow/3.7-input-validation.md)
+
 **Module 5: HTML & CSS**
 
 * [5.1 HTML](../../modules/5-html-and-css/5.1-html.md)
@@ -154,7 +158,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 3: Logic and Control Flow**
 
-* [3.6: Creating Objects with Loops](../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md)
+* [3.7: Creating Objects with Loops](../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md)
 
 ### Project Due: Beat That!
 
@@ -187,7 +191,10 @@ Please **do not** attempt in-class material before class for all course days, so
 **Module 2: Structuring and Debugging Code**
 
 * [2.5: Advanced Debugger with Sources Tab](../../modules/2-structuring-and-debugging-code/2.5-advanced-debugger.md)
-* [3.7: Input Validation](../../modules/3-logic-and-control-flow/3.7-input-validation.md)
+
+**Module 6: Document Object Model**
+
+* [6.3 DOM Manipulation](../../modules/6-document-object-model/6.3-dom-manipulation.md#complete-applications-with-dom)
 
 ### Project Due : Blackjack (Base)
 

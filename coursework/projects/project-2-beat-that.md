@@ -53,9 +53,9 @@ If you get stuck, or are unsure on how to start, Bryan will walk you through how
 
 ### Add some polish!
 
-Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game. If needed, review [1.2 Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers) on how to edit HTML.
+Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game.
 
-At line 29 of index.html, try changing `background-color: pink;` to `background-color: lightblue;` or any [colour ](https://www.w3schools.com/colors/colors\_names.asp)of your choice!
+At line 29 of index.html, try changing `background-color` to any [colour ](https://www.w3schools.com/colors/colors\_names.asp)of your choice!
 
 ```
       #container {
@@ -143,11 +143,6 @@ Create a mode where if there are more than 2 players, the game can match players
 {% content-ref url="../../course-logistics/code-sandbox-instructions/submitting-your-work.md" %}
 [submitting-your-work.md](../../course-logistics/code-sandbox-instructions/submitting-your-work.md)
 {% endcontent-ref %}
-
-1. [Push](broken-reference/) the commits in your local repo to GitHub.
-2. [Create a pull request](broken-reference/) to submit your assignment.
-3. Please leave your name and _**section number \_in the \_title**_ of the pull request.
-4. Please fill in the questionnaire in the pull request comments when you submit.
 
 ## Reference Solution
 

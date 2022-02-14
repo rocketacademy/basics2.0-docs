@@ -51,7 +51,7 @@ However, applying, tracking, and managing styles of individual HTML elements in 
 
 ### **Internal Styling**
 
-**Internal styling** allows us to define the style for elements, or groups of elements centrally.&#x20;
+**Internal styling** allows us to define the style for elements, or groups of elements centrally. These rules are defined within the HTML document, hence internal styling.
 
 #### Sample Syntax
 

@@ -75,8 +75,7 @@ Note that for the `main` function to perform different logic on user input, for 
 
 1. Creating helper functions can be a powerful way to refactor your code and keep it neat.
 2. Don't be afraid to throw away code, especially if you already know how you would write it better.
-3. Commit your code often, whenever you have a small working version. For example, each action listed above would be a commit. Make concise and precise commit messages so that you can reference your old changes later.
-4. Review [Coding Strategies](../../course-logistics/tips-and-tricks/coding-strategies.md)
+3. Review [Coding Strategies](../../course-logistics/tips-and-tricks/coding-strategies.md)
 
 ### How to Prioritise Work
 
@@ -249,12 +248,6 @@ Set your own custom fonts: [https://www.w3schools.com/css/css\_font\_google.asp]
 In most casinos, all cards are face-up except the dealer's first card. This injects a dimension of strategy into the game, as the player does not have perfect information to begin with. Edit your game logic such that the player is only told one of the dealer's first two cards.
 {% endtab %}
 
-{% tab title="HTML Elements" %}
-### Additional HTML Elements
-
-Look ahead to [12.1 Browser Application with DOM](../../modules/6-document-object-model/6.2-the-document-object-model.md) to see how additional HTML elements can be referenced and manipulated; add a button for 'Hit' and 'Stand'.
-{% endtab %}
-
 {% tab title="Game Logic" %}
 ### Additional Game Logic
 
@@ -272,14 +265,19 @@ Enable multiple players to play against the dealer, where players can take turns
 
 Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces\_and\_eights\_\(blackjack\)#Splitting). Dealer is not allowed to split.
 {% endtab %}
+
+{% tab title="HTML Elements" %}
+### Additional HTML Elements
+
+Add additional buttons via editing the HTML, and use [DOM manipulation](../../modules/6-document-object-model/6.3-dom-manipulation.md) to link your program logic to the buttons. You can consider:
+
+* a 'Hit' button
+* a 'Stand' button
+* Making elements appear / disappear based on the game state.
+{% endtab %}
 {% endtabs %}
 
 ## Submit
-
-1. [Push](broken-reference/) the commits in your local repo to GitHub.
-2. [Create a pull request](broken-reference/) to submit your assignment.
-3. Please leave your name and _**section number**_ in the _**title**_ of the pull request.
-4. Please fill in the questionnaire in the pull request comments when you submit.
 
 ## Sharing
 
@@ -290,10 +288,6 @@ The cloned BlackJack repo has built-in sharing code. When you share your project
 ### Setting the Share Link
 
 Edit the index.html to match the GitHub Pages URL you created in the instructions above.
-
-To have your share link properly link to your page, find your GitHub Pages URL:
-
-![](../../.gitbook/assets/github-pages-url.png)
 
 Replace the url in the URL section of the meta tags in index.html:
 

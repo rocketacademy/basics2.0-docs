@@ -4,6 +4,10 @@ description: Deploying your code/portfolio onto the web.
 
 # 📩 Deployment
 
+Like a real web application, code is useless if it's not deployed for people to use and enjoy! In Basics, we want our students to have something to show for when they graduate, as it is a testament to the effort and hard work put into learning programming!
+
+### Instructions
+
 1. Login to CodeSandbox
 2. Select your Rocket Academy Course Material Sandbox
 3. Click the `Deployment` button (:rocket:)  and click  'Deploy to Github'

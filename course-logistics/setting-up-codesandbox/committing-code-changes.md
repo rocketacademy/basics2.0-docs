@@ -37,8 +37,8 @@ Version Control is a way of managing code changes across time, and using a Versi
 
 * [ ] Once a PR is made, you can open up the PR on GitHub, which the code is stored on, and review any changes or feedback. At this juncture, you might want to submit this link to your SL on Slack and request a review.&#x20;
 
-{% content-ref url="submitting-your-work.md" %}
-[submitting-your-work.md](submitting-your-work.md)
+{% content-ref url="../code-sandbox-instructions/submitting-your-work.md" %}
+[submitting-your-work.md](../code-sandbox-instructions/submitting-your-work.md)
 {% endcontent-ref %}
 
 * [ ] Code Review is a back-and-forth process of `Commit` > `Feedback` > `Review`. After your SL completes the feedback, you can make code changes again in CodeSandbox, and repeat the cycle until there are no bugs or incomplete code.

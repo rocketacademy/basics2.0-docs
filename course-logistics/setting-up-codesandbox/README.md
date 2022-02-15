@@ -31,8 +31,8 @@ We use [CodeSandbox](https://codesandbox.io) in our Basics course for three reas
 [committing-code-changes.md](committing-code-changes.md)
 {% endcontent-ref %}
 
-{% content-ref url="submitting-your-work.md" %}
-[submitting-your-work.md](submitting-your-work.md)
+{% content-ref url="../code-sandbox-instructions/submitting-your-work.md" %}
+[submitting-your-work.md](../code-sandbox-instructions/submitting-your-work.md)
 {% endcontent-ref %}
 
 3\. **A Portal into your Portfolio** - Developing on CodeSandbox is a breeze as it enables Hot-Reloading - you will be able to see the changes instantly, inline, as you code.

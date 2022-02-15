@@ -17,7 +17,7 @@
   * [⏹ Initial Setup](course-logistics/setting-up-codesandbox/initial-setup.md)
   * [🧑🤝🧑 Pair Programming Instructions](course-logistics/setting-up-codesandbox/pair-programming-instructions.md)
   * [📤 Committing Code Changes](course-logistics/setting-up-codesandbox/committing-code-changes.md)
-  * [💼 Submitting Your Work](course-logistics/setting-up-codesandbox/submitting-your-work.md)
+  * [💼 Submitting Your Work](course-logistics/code-sandbox-instructions/submitting-your-work.md)
   * [📩 Deployment](course-logistics/code-sandbox-instructions/deployment.md)
 * [💡 Tips and Tricks](course-logistics/tips-and-tricks/README.md)
   * [📒 Coding Strategies](course-logistics/tips-and-tricks/coding-strategies.md)

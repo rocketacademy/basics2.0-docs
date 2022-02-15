@@ -18,8 +18,8 @@ description: To partake in RA's courses, we will need the following hardware and
 [required-software-accounts.md](required-software-accounts.md)
 {% endcontent-ref %}
 
-{% content-ref url="course-setup.md" %}
-[course-setup.md](course-setup.md)
+{% content-ref url="../setting-up-codesandbox/initial-setup.md" %}
+[initial-setup.md](../setting-up-codesandbox/initial-setup.md)
 {% endcontent-ref %}
 
 If you have any difficulty in preparing the required software, do ask for help in Slack! Your coursemates, peers and Section Leaders will be happy to help.

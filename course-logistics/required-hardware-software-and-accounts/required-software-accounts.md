@@ -29,6 +29,6 @@ Click on Authorize codesandbox
 
 Select your username and enter your display name and click Finish Sign up
 
-![Select username and Finish Sign up](<../../.gitbook/assets/image (8) (1).png>)
+![Select username and Finish Sign up](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 Head over to Course Setup for the next set of instructions. You're almost done! :relaxed:

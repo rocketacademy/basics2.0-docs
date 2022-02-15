@@ -7,7 +7,7 @@ description: >-
 
 # 📓 Setting up CodeSandbox
 
-![With CodeSandbox, you can create web apps, experiment with code, test ideas, and share creations easily.](<../../.gitbook/assets/image (10).png>)
+![With CodeSandbox, you can create web apps, experiment with code, test ideas, and share creations easily.](<../../.gitbook/assets/image (10) (1).png>)
 
 In order for teams to collaborate and develop code in the same environment, teams can choose to develop asynchronously (using Github as a central repository and a code editor like VSCode) or synchronously using sandboxes.
 
@@ -27,8 +27,8 @@ We use [CodeSandbox](https://codesandbox.io) in our Basics course for three reas
 
 2\. **Allows for Code Review** - Our Section Leaders (SL) will review your code commits on Github and give you feedback on your code quality and organisation of thought. Using CodeSandbox abstracts away the complexity of committing and pushing code onto GitHub via a Command-line Interface (CLI), thus reducing friction to learn!
 
-{% content-ref url="submitting-code-commits.md" %}
-[submitting-code-commits.md](submitting-code-commits.md)
+{% content-ref url="committing-code-changes.md" %}
+[committing-code-changes.md](committing-code-changes.md)
 {% endcontent-ref %}
 
 {% content-ref url="submitting-your-work.md" %}
@@ -39,6 +39,6 @@ We use [CodeSandbox](https://codesandbox.io) in our Basics course for three reas
 
 At the end of Basics, you will be able to showcase a ready-made portfolio to your friends and family through simple deployment steps within CodeSandbox. It will also be easy for anyone to test your code and see your thinking process - a plus if you are applying for jobs!
 
-{% content-ref url="deployment.md" %}
-[deployment.md](deployment.md)
+{% content-ref url="../code-sandbox-instructions/deployment.md" %}
+[deployment.md](../code-sandbox-instructions/deployment.md)
 {% endcontent-ref %}

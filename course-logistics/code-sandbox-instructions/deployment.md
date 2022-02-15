@@ -16,7 +16,7 @@ description: Deploying your code/portfolio onto the web.
 
 5\. You should see an error page, but do not worry. We are about to fix that.&#x20;
 
-![Expected Error Message](<../../.gitbook/assets/image (8) (1).png>)
+![Expected Error Message](<../../.gitbook/assets/image (8) (2).png>)
 
 6\. Copy the current URL in the address bar. It should look something like:
 

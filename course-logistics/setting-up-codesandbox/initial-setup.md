@@ -6,15 +6,15 @@ description: Get started!
 
 * [ ] Head over to [Rocket Academy's Basics Starter Code](https://githubbox.com/rocketacademy/basics-starter-code-2.0). Confirm that the template that you've been directed to has the following headers.
 
-![The Starter Repository template](<../../.gitbook/assets/image (9).png>)
+![The Starter Repository template](<../../.gitbook/assets/image (9) (1).png>)
 
 * [ ] You should see a repository of multiple folders that detail the coursework over the Basics Programme. The entry point of the repository (which is rendered on the in-built browser panel on the right) is `index.html` as highlighted.
 
-![The lessons are organised according to the lesson days](<../../.gitbook/assets/image (8).png>)
+![The lessons are organised according to the lesson days](<../../.gitbook/assets/image (8) (1).png>)
 
 * [ ] What we need to do next is to make a copy of the Starter Code so that we do not edit the main repository that all other students rely on! (technically you can't). To do this, we will need to `Fork` this sandbox.&#x20;
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 * [ ] By `Forking`, you are taking a copy of the repository at that point in time. This will create a copy and store it in a temporary state within CodeSandbox.&#x20;
 
@@ -24,7 +24,7 @@ description: Get started!
 >
 > __[_CodeSandbox Documentation_](https://codesandbox.io/docs/importing#import-from-github)__
 
-![Complete the sign up to save your work](<../../.gitbook/assets/image (11).png>)
+![Complete the sign up to save your work](<../../.gitbook/assets/image (11) (1).png>)
 
 * [ ] Complete the sign-up flow in order to save the forked sandbox! You can sign in with the Github account&#x20;
 

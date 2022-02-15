@@ -1,11 +1,4 @@
----
-description: >-
-  CodeSandbox is an instantly ready, full-featured online IDE for web
-  development on any device with a browser, enabling you to start new projects
-  quickly and prototype rapidly.
----
-
-# 📓 Setting up CodeSandbox
+# 📓 Learning Environment
 
 ![With CodeSandbox, you can create web apps, experiment with code, test ideas, and share creations easily.](<../../.gitbook/assets/image (10) (1).png>)
 
@@ -31,14 +24,18 @@ We use [CodeSandbox](https://codesandbox.io) in our Basics course for three reas
 [committing-code-changes.md](committing-code-changes.md)
 {% endcontent-ref %}
 
-{% content-ref url="../code-sandbox-instructions/submitting-your-work.md" %}
-[submitting-your-work.md](../code-sandbox-instructions/submitting-your-work.md)
+{% content-ref url="code-review.md" %}
+[code-review.md](code-review.md)
+{% endcontent-ref %}
+
+{% content-ref url="submitting-your-work.md" %}
+[submitting-your-work.md](submitting-your-work.md)
 {% endcontent-ref %}
 
 3\. **A Portal into your Portfolio** - Developing on CodeSandbox is a breeze as it enables Hot-Reloading - you will be able to see the changes instantly, inline, as you code.
 
 At the end of Basics, you will be able to showcase a ready-made portfolio to your friends and family through simple deployment steps within CodeSandbox. It will also be easy for anyone to test your code and see your thinking process - a plus if you are applying for jobs!
 
-{% content-ref url="../code-sandbox-instructions/deployment.md" %}
-[deployment.md](../code-sandbox-instructions/deployment.md)
+{% content-ref url="deployment.md" %}
+[deployment.md](deployment.md)
 {% endcontent-ref %}

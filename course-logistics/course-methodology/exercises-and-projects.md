@@ -36,8 +36,8 @@ On days when projects are due, we will review each others' code in groups of 2 o
 
 You may follow the instructions here:
 
-{% content-ref url="../setting-up-codesandbox/pair-programming-instructions.md" %}
-[pair-programming-instructions.md](../setting-up-codesandbox/pair-programming-instructions.md)
+{% content-ref url="../learning-environment/pair-programming-instructions.md" %}
+[pair-programming-instructions.md](../learning-environment/pair-programming-instructions.md)
 {% endcontent-ref %}
 
 #### 2) Run Partner's Code

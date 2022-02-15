@@ -8,11 +8,19 @@ Like a real web application, code is useless if it's not deployed for people to 
 
 ### Instructions
 
-1. Login to CodeSandbox
-2. Select your Rocket Academy Course Material Sandbox
-3. Click the `Deployment` button (:rocket:)  and click  'Deploy to Github'
+1. Select your Rocket Academy Course Material Sandbox
+2. Click the `Deployment` button (:rocket:)  and click  'Deploy to Github'
 
 ![Deploying to Github via CodeSandbox](../../.gitbook/assets/deploy.png)
+
+{% hint style="info" %}
+**What are GitHub Pages?**\
+GitHub Pages are public web pages hosted and published through GitHub. You can use GitHub Pages to showcase some open source projects, host a blog, or even share your résumé. \
+\
+You can choose to deploy with other services, but since we already have a GitHub account, we can use the features made available to us.\
+\
+Read more [here](https://docs.github.com/en/pages/quickstart).
+{% endhint %}
 
 4\. You should see a pop-up, click on 'Open Github Site'
 

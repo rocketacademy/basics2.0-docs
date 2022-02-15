@@ -140,8 +140,8 @@ Create a mode where if there are more than 2 players, the game can match players
 
 ## Submit
 
-{% content-ref url="../../course-logistics/code-sandbox-instructions/submitting-your-work.md" %}
-[submitting-your-work.md](../../course-logistics/code-sandbox-instructions/submitting-your-work.md)
+{% content-ref url="../../../course-logistics/learning-environment/submitting-your-work.md" %}
+[submitting-your-work.md](../../../course-logistics/learning-environment/submitting-your-work.md)
 {% endcontent-ref %}
 
 ## Reference Solution

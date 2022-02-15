@@ -10,13 +10,15 @@ We will now put to use what we have learned so far. Before you attempt a problem
    2. How it can be implemented.
 3. Write or type, in plain English, the instructions you and your partner want your program to follow.
 
-For some problems you may need to google for information. Remember that as pairs, you are also googling together. **Please switch driver and navigator for each problem statement.**
+{% content-ref url="../../course-logistics/learning-environment/pair-programming-instructions.md" %}
+[pair-programming-instructions.md](../../course-logistics/learning-environment/pair-programming-instructions.md)
+{% endcontent-ref %}
+
+For some problems, you may need to search the web for information. Remember that as pairs, you are also brainstorming together. **Please switch driver and navigator for each problem statement.**
 
 When you run into a bug, talk out loud with your partner what you _expected_ to happen, and what happened instead, before attempting to find a solution.
 
-If needed, use the **'ask host for help'** function in Zoom. You may also find the **"annotate" feature** in Zoom useful when pair programming.
-
-### <mark style="color:red;">INSERT CODESANDBOX INSTRUCTIONS HERE ON HOW TO START ON THE EXERCISE (This is to replace the instructions that we ask students to fork the starter repo)\*\*\*</mark>
+If needed, use the **'ask Host for help'** function in Zoom. You may also find the **"annotate" feature** in Zoom useful when pair programming.
 
 ## Knowledge Check
 
@@ -56,7 +58,7 @@ A new Ferrari is able to travel 9 miles/litre of fuel. Fuel costs $2.20/litre. U
 
 1. Create a function that accepts distance (in km) as an input parameter and returns distance (in miles). Use the function in the `main` function to test if it works. (The answer is provided below)
 
-```
+```javascript
 var convertKmToMiles = function (distanceInKm) {
   var distanceInMiles = distanceInKm * 0.62;
   return distanceInMiles;
@@ -65,7 +67,7 @@ var convertKmToMiles = function (distanceInKm) {
 
 2\. Create a function that accepts a trip length(in miles) as an input parameter and returns the total fuel cost(in $). Use the function in the `roadTripCostBaseMain` function to test if it works. You can use this format below as a guide.
 
-```
+```javascript
 var calculateTotalFuelCost = function (tripLengthInMiles) {
   // Some code that calculates total fuel cost
   return fuelCost;
@@ -74,7 +76,7 @@ var calculateTotalFuelCost = function (tripLengthInMiles) {
 
 3\. Now using both functions above, execute them inside the `roadTripCostBaseMain` function to solve the problem.
 
-```
+```javascript
 var roadTripCostBaseMain = function (input) {
   // Some code that calculates total fuel cost from distance in km
   return totalCost;

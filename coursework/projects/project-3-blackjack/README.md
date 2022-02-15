@@ -75,7 +75,7 @@ Note that for the `main` function to perform different logic on user input, for 
 
 1. Creating helper functions can be a powerful way to refactor your code and keep it neat.
 2. Don't be afraid to throw away code, especially if you already know how you would write it better.
-3. Review [Coding Strategies](../../course-logistics/tips-and-tricks/coding-strategies.md)
+3. Review [Coding Strategies](../../../course-logistics/tips-and-tricks/coding-strategies.md)
 
 ### How to Prioritise Work
 
@@ -139,7 +139,7 @@ If you already have an effective strategy for creating your game, you can skip a
 
 ## Walkthrough
 
-If you are still unsure how to start, or find yourself stuck for too long, Bryan can walk you through how to get to the Base solution. Please try to attempt the project once yourself before referencing the walkthrough, and do note that the video uses template code straight from [10.2: Card Deck Generation](../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md). If you would like to follow along exactly, you can start with the [base code](https://github.com/rocketacademy/basics-blackjack/tree/walkthrough-base) used in the walkthrough.
+If you are still unsure how to start, or find yourself stuck for too long, Bryan can walk you through how to get to the Base solution. Please try to attempt the project once yourself before referencing the walkthrough, and do note that the video uses template code straight from [10.2: Card Deck Generation](../../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md). If you would like to follow along exactly, you can start with the [base code](https://github.com/rocketacademy/basics-blackjack/tree/walkthrough-base) used in the walkthrough.
 
 {% embed url="https://www.youtube.com/watch?v=SccCe9_qU2Q" %}
 Blackjack Base Walkthrough
@@ -151,7 +151,7 @@ The completed base version as per the walkthrough can be viewed [here](https://g
 
 ### Interface
 
-Improve the look and feel of your game - if you did not attempt the Comfortable version of _Beat That!,_ you can use the[ instructions there](project-2-beat-that.md#comfortable) as a quick-start guide. If you have, feel free to move on, and add your own creative touches.
+Improve the look and feel of your game - if you did not attempt the Comfortable version of _Beat That!,_ you can use the[ instructions there](../project-2-beat-that/#comfortable) as a quick-start guide. If you have, feel free to move on, and add your own creative touches.
 
 {% tabs %}
 {% tab title="Starting Instructions" %}
@@ -210,7 +210,7 @@ var myImage = '<img src="COPIED_URL_OF_IMAGE"/>';
 2. Right-click on an image and copy the url by selecting "Copy Image Address".
 3. Paste this value into your code as shown above.
 
-![How to Copy a website Image Address](../../.gitbook/assets/gif-url-copy.png)
+![How to Copy a website Image Address](../../../.gitbook/assets/gif-url-copy.png)
 
 #### Using your own images
 
@@ -269,7 +269,7 @@ Add hand-splitting functionality to the game. If the player has two of the same 
 {% tab title="HTML Elements" %}
 ### Additional HTML Elements
 
-Add additional buttons via editing the HTML, and use [DOM manipulation](../../modules/6-document-object-model/6.2-dom-manipulation.md) to link your program logic to the buttons. You can consider:
+Add additional buttons via editing the HTML, and use [DOM manipulation](../../../modules/6-document-object-model/6.2-dom-manipulation.md) to link your program logic to the buttons. You can consider:
 
 * a 'Hit' button
 * a 'Stand' button
@@ -283,7 +283,7 @@ Add additional buttons via editing the HTML, and use [DOM manipulation](../../mo
 
 The cloned BlackJack repo has built-in sharing code. When you share your project with friends on major platforms it will have a nice looking share image.
 
-![Twitter Sharing Example](../../.gitbook/assets/tweet-share.png)
+![Twitter Sharing Example](../../../.gitbook/assets/tweet-share.png)
 
 ### Setting the Share Link
 

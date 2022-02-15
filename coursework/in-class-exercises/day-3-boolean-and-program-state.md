@@ -8,6 +8,10 @@ See an example of all problems [**here**](https://rocketacademy.github.io/basics
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
+{% content-ref url="../../course-logistics/learning-environment/pair-programming-instructions.md" %}
+[pair-programming-instructions.md](../../course-logistics/learning-environment/pair-programming-instructions.md)
+{% endcontent-ref %}
+
 ## Knowledge Check
 
 Before you begin, check that you and your partner can answer the following:

@@ -108,7 +108,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### In Class
 
-* [Loops](../../coursework/in-class-exercises/day-4-loops/)
+* [Loops](../../coursework/in-class-exercises/day-4-loops.md)
 * [Redux: Scissors Paper Stone](../../coursework/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md) (30min)
 
 ## Course Day 5 <a href="#course-day-5" id="course-day-5"></a>
@@ -146,7 +146,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### In Class
 
-* [Pairwork: _Beat That!_](../../coursework/projects/project-2-beat-that.md)__
+* [Pairwork: _Beat That!_](../../coursework/projects/project-2-beat-that/)__
 
 ## Course Day 7 <a href="#course-day-7" id="course-day-7"></a>
 
@@ -164,12 +164,12 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### In Class
 
-* [Redux: Beat That!](../../coursework/projects/project-2-beat-that.md) (30min)
-* [Moar Cards / Chat Bot](../../coursework/in-class-exercises/day-7-moar-cards/)
+* [Redux: Beat That!](../../coursework/projects/project-2-beat-that/) (30min)
+* [Moar Cards / Chat Bot](../../coursework/in-class-exercises/day-7-moar-cards.md)
 
 ### Project Start: Blackjack
 
-* [Project 3: Blackjack](../../coursework/projects/project-3-blackjack.md)
+* [Project 3: Blackjack](../../coursework/projects/project-3-blackjack/)
 
 ## Course Day 8 <a href="#course-day-8" id="course-day-8"></a>
 
@@ -182,7 +182,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### In Class
 
-* [Pairwork: Blackjack](../../coursework/projects/project-3-blackjack.md)
+* [Pairwork: Blackjack](../../coursework/projects/project-3-blackjack/)
 
 ## Course Day 9 <a href="#course-day-9" id="course-day-9"></a>
 
@@ -198,8 +198,8 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### In Class
 
-* [Redux: Blackjack](../../coursework/projects/project-3-blackjack.md)
-* [Pairwork: Blackjack (More Comfortable)](../../coursework/projects/project-3-blackjack.md#more-comfortable)
+* [Redux: Blackjack](../../coursework/projects/project-3-blackjack/)
+* [Pairwork: Blackjack (More Comfortable)](../../coursework/projects/project-3-blackjack/#more-comfortable)
 
 ### &#x20;Project Continuation: Blackjack (More Comfortable)
 

@@ -6,7 +6,7 @@
 
 ## JavaScript with DOM
 
-Khan Academy has a good set of follow-on lessons that will dovetail with the DOM material we covered here in [10.2](6-document-object-model/6.1-the-document-object-model.md) and [11](../coursework/in-class-exercises/day-10-blackjack-redux-debugger/pce-dom.md).
+Khan Academy has a good set of follow-on lessons that will dovetail with the DOM material we covered here in [10.2](6-document-object-model/6.1-the-document-object-model.md) and [11](../coursework/in-class-exercises/pce-dom.md).
 
 {% embed url="https://www.khanacademy.org/computing/computer-programming/html-css-js" %}
 

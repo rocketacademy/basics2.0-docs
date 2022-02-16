@@ -96,7 +96,7 @@ The Ferrari and train are both able to travel 9 miles/litre of fuel. Fuel for th
 **Approach:**
 
 1. Make a copy of the `calculateTotalFuelCost` function in the **Road Trip Cost (Base)** section and rename it `calculateTotalFuelCostForComfortable` to use it for **Road Trip Cost (Comfortable)**.&#x20;
-2. Change the logic in the `calculateTotalFuelCostForComfortable` function to accept cost per litre of fuel as a 2nd input parameter. Together with the `convertKmToMiles` function in **Road Trip Cost (Base),** write a program that outputs the total fuel cost of travelling **via train** if the user inputs length (**in km**) of the road trip. Use the format below:
+2. Change the logic in the `calculateTotalFuelCostForComfortable` function to accept cost per litre of fuel as a [2nd input parameter](../../modules/2-structuring-and-debugging-code/2.3-functions/2.3.2-functions-ii.md#introduction). Together with the `convertKmToMiles` function in **Road Trip Cost (Base),** write a program that outputs the total fuel cost of travelling **via train** if the user inputs length (**in km**) of the road trip. Use the format below:
 
 ```
 var convertKmToMiles = function (distanceInKm) {

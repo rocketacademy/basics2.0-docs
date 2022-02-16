@@ -164,8 +164,8 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### In Class
 
-* [Redux: Beat That!](../../coursework/projects/project-2-beat-that/) (30min)
 * [Moar Cards / Chat Bot](../../coursework/in-class-exercises/day-7-moar-cards.md)
+* [Redux: Beat That!](../../coursework/projects/project-2-beat-that/) (30min)
 
 ### Project Start: Blackjack
 

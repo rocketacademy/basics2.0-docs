@@ -12,8 +12,8 @@
 [3.3-boolean-operators](3.3-boolean-operators/)
 {% endcontent-ref %}
 
-{% content-ref url="3.4-loops.md" %}
-[3.4-loops.md](3.4-loops.md)
+{% content-ref url="3.4-loops/3.4.1-while-loops.md" %}
+[3.4.1-while-loops.md](3.4-loops/3.4.1-while-loops.md)
 {% endcontent-ref %}
 
 {% content-ref url="3.5-looping-over-an-array.md" %}

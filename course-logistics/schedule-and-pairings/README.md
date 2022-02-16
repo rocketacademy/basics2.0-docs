@@ -102,7 +102,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 3: Control Flow**
 
-* [3.4 Loops](../../modules/3-logic-and-control-flow/3.4-loops.md)
+* [3.4 Loops](../../modules/3-logic-and-control-flow/3.4-loops/)
 
 ### Project Due: Scissors Paper Stone
 

@@ -195,7 +195,7 @@ Now that you are familiar with the general syntax:
 
 
 
-[here is a list](http://web.simmons.edu/\~grabiner/comm244/weekthree/css-basic-properties.html) of basic CSS properties you can start experimenting with.
+[Here is a list](http://web.simmons.edu/\~grabiner/comm244/weekthree/css-basic-properties.html) of basic CSS properties you can start experimenting with.
 
 ## Basics Starter Code
 

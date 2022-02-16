@@ -4,7 +4,7 @@
 
 Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. **Failure to take into consideration all aspects of the project might result in a lengthy refactor.**
 
-### Base, More Comfortable
+### Base, Comfortable, More Comfortable
 
 To accommodate different learning speeds and prior experience, exercises and projects may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
 
@@ -14,7 +14,7 @@ Everything in the Base section must be completed to minimally understand relevan
 
 #### More Comfortable
 
-The More Comfortable section is for students that wish to push their boundaries. Students can complete Coding Basics without touching More Comfortable, but students that complete More Comfortable exercises will gain more experience and may be more valuable in the job market.
+The More Comfortable section is for students that wish to push their boundaries. Students can complete Coding Basics without touching More Comfortable.&#x20;
 
 ## Project Presentations
 

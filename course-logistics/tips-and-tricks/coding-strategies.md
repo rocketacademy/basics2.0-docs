@@ -114,6 +114,8 @@ This also means that when you break something that you are not afraid you'll be 
 
 ### Practice googling.
 
+![](https://preview.redd.it/rlwzi9sjpt141.jpg?width=640\&crop=smart\&auto=webp\&s=c1db9c2b9d7b3a6dd1489166bdc11c2c50beacc9)
+
 The skill of finding contextually appropriate knowledge about something is a key skill in moving forward with programming. Some of these things are obvious but the subtleties of finding the correct information is a skill that takes some practice if you're no used to it.
 
 #### When searching you must learn:

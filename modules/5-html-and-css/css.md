@@ -180,9 +180,22 @@ For Coding Basics, we will only focus on 3. Rule Order. You are free to read up 
 <html>
 ```
 
-### Common CSS properties
+## Common CSS properties
 
-[Here is a list](http://web.simmons.edu/\~grabiner/comm244/weekthree/css-basic-properties.html) of basic CSS properties you can start experimenting with.
+Now that you are familiar with the general syntax:
+
+
+
+|                                 Property                                |                       Description                       |
+| :---------------------------------------------------------------------: | :-----------------------------------------------------: |
+|      [colo](https://www.w3schools.com/cssref/pr\_text\_color.asp)r      |                 Sets the color of a text                |
+|       [font](https://www.w3schools.com/cssref/pr\_font\_font.asp)       |     Sets all the font properties in one declaration     |
+|        [border](https://www.w3schools.com/cssref/pr\_border.asp)        |        Sets border properties in one declaration        |
+| [background](https://www.w3schools.com/cssref/css3\_pr\_background.asp) | Set different background properties in one declaration. |
+
+
+
+[here is a list](http://web.simmons.edu/\~grabiner/comm244/weekthree/css-basic-properties.html) of basic CSS properties you can start experimenting with.
 
 ## Basics Starter Code
 

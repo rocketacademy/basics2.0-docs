@@ -27,14 +27,6 @@ This allows us selectively run different blocks of logic under different conditi
 
 This can be used to test values that the users are typing in. Depending on what the user types, we can program different outputs to be displayed in the grey box.
 
-## Comments
-
-As our apps get more complicated, we can and should leave notes to ourselves and others to clarify what our code does. "**Comments**" let us write notes in our code files that are ignored on program execution. In JavaScript, comments are denoted by 2 slashes `//` at the start of the comment.&#x20;
-
-```javascript
-// This is an example comment. It won't actually "run".
-```
-
 ## Random Dice Rolls
 
 Let's recap Module 2: Functions by building a program that generates random dice numbers. We will be using this Dice Rolling function as a base to explore Logic and Control Flow for the rest of this Module.

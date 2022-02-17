@@ -4,9 +4,11 @@
 
 Coding Basics applies a flipped-classroom model that consists of 2 components: **self-learning** and **live classes**.
 
+![](https://www.researchgate.net/profile/Raul-Campion/publication/281800116/figure/fig7/AS:669680100454410@1536675586471/A-description-of-the-Flipped-classroom-model.png)
+
 ### Self-Learning
 
-The goal of self-learning is for students to learn concepts **before** class, such that class time can be spent discussing those concepts. **Self-learning is mandatory**, and will consist of videos and exercises listed under the Pre-Class header.
+The goal of self-learning is for students to learn concepts **before** class, such that class time can be spent discussing those concepts. **Self-learning is mandatory**, and will consist of videos and exercises listed under the Pre-Class header.&#x20;
 
 ### **Live Classes**
 
@@ -25,6 +27,8 @@ Live classes will generally follow this outline:
 ## Pair Programming
 
 Pair programming is a common software engineering activity that involves 2 engineers working on the same computer, on the same problem together. Typically, 1 engineer acts as the "driver", controlling the keyboard and writing the code. The other engineer acts as the "navigator", helping to guide the overall strategy and look up documentation (on a separate computer).
+
+![](http://www.redairship.com/wp-content/uploads/2016/10/Pair-Programming-driver-and-navigator-by-thoughtworks-.png)
 
 Pair programming is commonly used for the following purposes:
 

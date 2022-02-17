@@ -21,7 +21,7 @@
 
 ## What will Basics not cover?
 
-Basics does not cover entry-level Computer Science. Computer Science is to programming what organic chemistry is to cooking. At Rocket Academy, you will be learning in a middle-out approach, and you will learn by doing. This course will not deep dive into _how or why_ a computer operates. If this was a cooking course, we will be teaching you how to cook an omelette, not why the egg fries at a certain temperature.
+Basics does not cover entry-level Computer Science. At Rocket Academy, you will be learning in a middle-out approach, and you will learn by doing. This course will not deep dive into _how or why_ a computer operates. Computer Science is to programming what organic chemistry is to cooking. If this was a cooking course, we will be teaching you how to cook an omelette, not why the egg fries at a certain temperature.
 
 The following topics are covered in depth in Rocket's Software Engineering Bootcamp and not in Coding Basics. This helps keep Basics accessible to all learners.
 

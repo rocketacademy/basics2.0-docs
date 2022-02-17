@@ -2,13 +2,11 @@
 
 ![With CodeSandbox, you can create web apps, experiment with code, test ideas, and share creations easily.](<../../.gitbook/assets/image (10) (1).png>)
 
-In order for teams to collaborate and develop code in the same environment, teams can choose to develop asynchronously (using Github as a central repository and a code editor like VSCode) or synchronously using sandboxes.
-
 CodeSandbox is an online collaborative development environment with minimal set-up and zero cost. As long as you have a computer with an internet connection, you can write code and collaborate with anyone.
 
 We use [CodeSandbox](https://codesandbox.io) in our Basics course for three reasons:
 
-1\. **Collaborative Environment**- during in-class exercises, we practise pair programming in order to speed up learning and development and reduce cognitive load. CodeSandbox allows us to switch roles without the hassle of redeveloping the code on two separate computers.
+1\. **Collaborative Environment**- during in-class exercises, we practice pair programming in order to speed up learning and development and reduce cognitive load. CodeSandbox allows us to switch roles without the hassle of redeveloping the code on two separate computers.
 
 > Pair programming consists of two programmers sharing a single workstation (one screen, keyboard and mouse among the pair). The programmer at the keyboard is usually called the “driver”, the other, also actively involved in the programming task but focusing more on overall direction is the “navigator”; it is expected that the programmers swap roles every few minutes or so.
 >

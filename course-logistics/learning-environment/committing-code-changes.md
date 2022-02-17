@@ -1,7 +1,5 @@
 # 📤 Committing Code Changes
 
-Submit your&#x20;
-
 From time to time, you might have certain changes in your code you would want 'saved' in a safe storage space or repository. This allows for retrieval in the future, as well as version-controlling.
 
 Version Control is a way of managing code changes across time, and using a Version Control System (VCS) like Git enables a developer to avoid a problem like this:

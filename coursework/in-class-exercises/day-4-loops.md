@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will practice arrays and loops. For each exercise except Infinite Loop, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code).
+Today we will practice arrays and loops.
 
 Pick either one of the Emoji Drawing or Multi-Dice Game exercise and work through from Base to your preferred level of comfort, before attempting the other exercise.
 
@@ -20,7 +20,7 @@ The user will enter a number of characters to display on the screen.
 
 For example, if the user enters 4 they will see this:
 
-![](<../../../.gitbook/assets/Screen Shot 2020-08-26 at 12.35.32 AM (1).png>)
+![](<../../.gitbook/assets/Screen Shot 2020-08-26 at 12.35.32 AM (1).png>)
 
 #### Square
 
@@ -30,7 +30,7 @@ Use a loop within a loop and the `<br>` HTML tag in your output to create the sq
 
 For example, if the user enters 4 they will see this:
 
-![](<../../../.gitbook/assets/Screen Shot 2020-08-26 at 12.35.12 AM.png>)
+![](<../../.gitbook/assets/Screen Shot 2020-08-26 at 12.35.12 AM.png>)
 
 ### Comfortable
 
@@ -42,7 +42,7 @@ Use a loop within a loop, a conditional and the `<br>` HTML tag in your output t
 
 For example, if the user enters 4 they will see this:
 
-![](<../../../.gitbook/assets/Screen Shot 2020-08-26 at 12.37.35 AM.png>)
+![](<../../.gitbook/assets/Screen Shot 2020-08-26 at 12.37.35 AM.png>)
 
 ### More Comfortable
 
@@ -52,7 +52,7 @@ The user will enter the dimensions of a square to display on the screen. The squ
 
 For example, if the user enters 4 they will see this:
 
-![](<../../../.gitbook/assets/Screen Shot 2020-08-26 at 12.54.56 AM.png>)
+![](<../../.gitbook/assets/Screen Shot 2020-08-26 at 12.54.56 AM.png>)
 
 #### Center Square
 
@@ -60,7 +60,7 @@ The user will enter the dimensions of a square to display on the screen. The squ
 
 For example, if the user enters 5 they will see this:
 
-![](<../../../.gitbook/assets/Screen Shot 2020-08-26 at 12.58.34 AM.png>)
+![](<../../.gitbook/assets/Screen Shot 2020-08-26 at 12.58.34 AM.png>)
 {% endtab %}
 
 {% tab title="Multi-Dice Game" %}

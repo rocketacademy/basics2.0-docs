@@ -8,7 +8,7 @@ Today we will practise JavaScript Objects. Choose one of the two exercises, _Moa
 {% tab title="Moar Cards" %}
 ### Base
 
-Feel free to copy the card deck generation function from [9.2: Card Deck Generation](../../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md#card-deck-generation-code) and the card shuffling functions from [9.1: JavaScript Objects](../../../modules/1-data-types-structures-and-manipulations/1.4-objects.md#card-shuffling) into your `script.js` file.
+Feel free to copy the card deck generation function from [9.2: Card Deck Generation](../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md#card-deck-generation-code) and the card shuffling functions from [9.1: JavaScript Objects](../../modules/1-data-types-structures-and-manipulations/1.4-objects.md#card-shuffling) into your `script.js` file.
 
 #### Display Single Card
 
@@ -16,7 +16,7 @@ Build an app using the Basics Starter Code and the pre-class deck functions such
 
 #### Low Card
 
-Implement the High Card game from [9.1: Objects](../../../modules/1-data-types-structures-and-manipulations/1.4-objects.md#high-card) with 1 difference: the winner is the person with the _lowest_ card.
+Implement the High Card game from [9.1: Objects](../../modules/1-data-types-structures-and-manipulations/1.4-objects.md#high-card) with 1 difference: the winner is the person with the _lowest_ card.
 
 #### Low Card with Queen Winner
 
@@ -69,15 +69,13 @@ Update the previous game logic such that if any player gets a pair in their hand
 {% endtab %}
 
 {% tab title="Chat Bot" %}
-### Introduction
-
-Today we will practice more complex code logic with nested objects and arrays.
-
-We will make a chat bot that asks questions when the submit button is clicked. The user can respond by typing and submitting input and the bot can respond further. Please read all exercises before beginning to see how the chat bot can become more complex.
+This exercise involves more complex code logic with nested objects and arrays.
 
 {% hint style="info" %}
 **Please read** [**this**](https://bootcamp.rocketacademy.co/course-logistics/coding-tool-and-language-tips#objects) **primer on different ways to access elements in JavaScript Objects before starting.**
 {% endhint %}
+
+We will make a chat bot that asks questions when the submit button is clicked. The user can respond by typing and submitting input and the bot can respond further. Please read all exercises before beginning to see how the chat bot can become more complex.
 
 #### Sample Chat Bot Conversation
 

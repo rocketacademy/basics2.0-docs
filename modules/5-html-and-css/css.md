@@ -148,6 +148,13 @@ We can also define CSS rules for IDs. In this case, the prefix is #. As IDs shou
 }
 ```
 
+```
+// This is the HTML File
+
+<div id="player-card-one">ace of spades</div>
+<button id="save-button">Save!</button>
+```
+
 When defining HTML elements in `index.html`, we can initially assign them an ID or a class. IDs are unique, and should not be applied to multiple elements (just like your ID number), but multiple HTML elements can share classes, and HTML elements can belong to multiple classes. Not all HTML elements need to have an ID or a class.
 
 ## Cascade

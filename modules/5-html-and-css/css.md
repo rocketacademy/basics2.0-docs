@@ -15,17 +15,17 @@ Built on top of HTML to add more visual control and complexity, CSS specifies st
 
 #### Element Styling
 
-CSS helps us change visual properties of HTML elements, such as fonts, background images, or rounded corners on buttons. Together with JS DOM manipulation, which we will learn in Module 6, we can use CSS to implement visual logic within an application, such as hiding or showing cards and flipping elements 90 degrees.
+CSS helps us change visual properties of HTML elements, such as fonts, background images, or rounded corners on buttons. These properties can be defined statically, meaning that they are hard-coded and unchanging, and can be dynamically manipulated, e.g.  hiding or showing elements and flipping elements 90 degrees. We will learn how to implement visual logic by altering CSS properties in [Module 6.](../6-document-object-model/)
 
 #### Layout
 
-CSS can help us divide our UI into visual sections. This is one of the most tricky aspects of CSS, because CSS was not _originally_ intended for layout design. CSS content in Rocket's Bootcamp will focus on implementing UI layouts.
+CSS can help us divide our UI into visual sections. This is one of the most tricky aspects of CSS, because CSS was not _originally_ intended for layout design. We will **not** be covering layout extensively in Coding Basics, Rocket's Bootcamp will focus on implementing UI layouts.
+
+![CSS Layout](https://media3.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e47swzkw8loxavmvqrz317zbr7wnkc8l0m5t9s7ls85\&rid=giphy.gif\&ct=g)
 
 ## CSS Syntax
 
-CSS is a declarative language. It doesn't tell the browser what to do but rather describes the rules that the browser then uses to render the page. CSS became popular because it was predictable and forgiving in its syntax. It was also easy to learn.
-
-The concept of cascading styles is unique to CSS. To cascade means that styles can inherit and overwrite styles through its hierarchy called _specificity_.&#x20;
+CSS is a declarative language. It doesn't tell the browser what to do but rather describes the rules that the browser then uses to render the page.&#x20;
 
 CSS styling can be applied in three ways:
 

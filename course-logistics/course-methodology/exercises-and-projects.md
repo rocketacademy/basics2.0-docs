@@ -1,8 +1,16 @@
 # 🎲 Exercises and Projects
 
-## Exercise, Project Strategy
+## Overview
 
-Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. **Failure to take into consideration all aspects of the project might result in a lengthy refactor.**
+Coding Basics is conceptually designed to have a **"low floor, high ceiling".** The intent is to keep the course accessible to most students, while students with a strong background, aptitude or spare time are able and allowed to stretch their wings.
+
+Exercises and projects are designed with this in mind, and the core curriculum is seeded with links to auxiliary reading or material that will be covered later in the course. Every module is also accompanied by a list of Additional Resources.&#x20;
+
+Students are not expected to read every resource, complete every exercise, or perfect every project in Coding Basics.
+
+Students who are comfortable with the core curriculum and learn outside of the scope or ahead of the course are encouraged to share their learning with the rest of the Section.
+
+## Exercise, Project Strategy
 
 ### Base, Comfortable, More Comfortable
 
@@ -12,9 +20,13 @@ To accommodate different learning speeds and prior experience, exercises and pro
 
 Everything in the Base section must be completed to minimally understand relevant concepts. When short on time, we can complete the Base section then move onto the next exercise or project.
 
+#### Comfortable
+
+The comfortable section usually involves core concepts in a challenging or new way. Students are encouraged to attempt the Comfortable sections, _once they are feeling comfortable._&#x20;
+
 #### More Comfortable
 
-The More Comfortable section is for students that wish to push their boundaries. Students can complete Coding Basics without touching More Comfortable.&#x20;
+The More Comfortable section is for students that wish to push their boundaries. Often times this section requires learning outside of concepts taught thus far. Students can complete Coding Basics without touching More Comfortable.&#x20;
 
 ## Project Presentations
 
@@ -66,9 +78,5 @@ Once both partners are done with #1-4, discuss what you saw.
 You'll be pair programming on one person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.**
 
 Once done with one person's code, send the code to your pair (it's their project) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code.
-
-{% hint style="info" %}
-Note: If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
-{% endhint %}
 
 If you both have working versions, implement a new feature in one of the projects together.

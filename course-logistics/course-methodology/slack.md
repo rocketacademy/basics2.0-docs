@@ -6,11 +6,23 @@ Slack is the app we use to communicate within sections and across Rocket. It pro
 
 ### Slack House Rules
 
-The following are a set of guidelines to follow when using Slack at Rocket. By setting strong culture of messaging on this platform for questions and discussion we hope to further enhance the Rocket Basics experience.
+The following are a set of guidelines to follow when using Slack at Rocket. By setting strong culture of messaging on this platform for questions and discussion we hope to further enhance the Coding Basics experience.
+
+### Use Threads
+
+If you are new to Slack, replying to a certain message may seem unintuitive. Replying to a message in Slack differs from common chat applications like WhatsApp / Telegram or Discord. This is deliberate, to keep the channel neat and organised, and for context to be retained for the duration of the conversation, even while other conversations are happening in the channel.
+
+Slack has the ability to nest contextual messages. When you want to reply to a message's topic, [use a thread](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-) so that messages stay contextual and others can continue to send messages without interrupting a discussion of a specific topic.
+
+![](<../../.gitbook/assets/Screenshot 2022-02-20 120845.png>)
 
 ### Ask Questions in the Channel
 
-During Rocket's courses you will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel (including about installing required software). _**Therefore, please refrain from DMing (direct messaging) instructors with questions about course material.**_
+During Rocket's courses you will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel (including about installing required software).&#x20;
+
+{% hint style="danger" %}
+**Please refrain from DMing (direct messaging) instructors with questions about course material.**
+{% endhint %}
 
 ### Provide Context for Questions
 
@@ -38,6 +50,3 @@ Click the lightning icon to get message options. Type ahead in the box to get th
 
 Make sure that your code will be formatted by selecting the JavaScript type. Note how in a snippet the line numbers are displayed. This makes it easier to discuss the code you put in Slack.
 
-### Use Threads
-
-Slack has the ability to nest contextual messages. When you want to reply to a message's topic, use a thread so that messages stay contextual and others can continue to send messages without interrupting a discussion of a specific topic.

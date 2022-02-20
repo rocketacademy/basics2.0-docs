@@ -22,6 +22,12 @@ If you'd like to learn more, this page contains a non-exhaustive, unordered list
 2. [Monkey Type](https://monkeytype.com)
 3. [TypeRacer](https://play.typeracer.com) - Race your section mates, maybe?
 
+## Coding / Computer Science
+
+1. [Brilliant.org : Computer Science Fundamentals](https://brilliant.org/courses/computer-science-essentials/)
+2. [Crash Course History: Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q\&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo\&index=1)
+3. [Lecture 0 of Harvard's CS50](https://cs50.harvard.edu/x/2022/weeks/0/)
+
 ## Web Browsers
 
 1. [BBC: How Does the Internet Work?](https://www.youtube.com/watch?v=eHp1l73ztB8) _\[5 minutes]_

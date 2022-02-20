@@ -148,7 +148,7 @@ We can also define CSS rules for IDs. In this case, the prefix is #. As IDs shou
 }
 ```
 
-```
+```html
 // This is the HTML File
 
 <div id="player-card-one">ace of spades</div>

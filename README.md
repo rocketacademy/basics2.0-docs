@@ -17,13 +17,13 @@
 3. Conditionals and Loops
 4. Variable Scope
 5. HTML and CSS
-6. Document Object Model (DOM)
+6. The Document Object Model (DOM)
 
 ## What will Basics not cover?
 
-Basics does not cover entry-level Computer Science. At Rocket Academy, you will be learning via a middle-out approach, and you will learn by doing. This course will not deep dive into _how or why_ a computer operates. Computer Science is to programming what organic chemistry is to cooking. If this was a cooking course, we will be teaching you how to cook an omelet, not why the egg fries at a certain temperature. You will also likely make a mess.
+Basics does not cover entry-level Computer Science. At Rocket Academy, you will be learning via a middle-out approach, and you will learn by doing. This course will not deep dive into _how or why_ a computer operates. [Computer Science is to programming what organic chemistry is to cooking](https://blog.codegiant.io/building-a-software-is-like-cooking-food-a64461a2e791?gi=ddfba8e218fc). If this was a cooking course, we will be teaching you how to cook an omelet, not why the egg fries at a certain temperature. You will also likely make a mess.
 
-![Pictured: All of us](<.gitbook/assets/30lJMDo (1).jpg>)
+![Pictured: All of us.](.gitbook/assets/30lJMDo.jpg)
 
 The following topics are covered in depth in Rocket's Software Engineering Bootcamp and not in Coding Basics:
 

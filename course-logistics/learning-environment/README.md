@@ -1,6 +1,6 @@
 # 📓 Learning Environment
 
-![With CodeSandbox, you can create web apps, experiment with code, test ideas, and share creations easily.](<../../.gitbook/assets/image (10) (1).png>)
+![With CodeSandbox, you can create web apps, experiment with code, test ideas, and share creations easily.](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 CodeSandbox is an online collaborative development environment with minimal set-up and zero cost. As long as you have a computer with an internet connection, you can write code and collaborate with anyone.
 

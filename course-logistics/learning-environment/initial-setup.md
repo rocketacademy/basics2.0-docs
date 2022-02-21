@@ -6,7 +6,7 @@ description: Get started!
 
 * [ ] Head over to [Rocket Academy's Basics Starter Code](https://githubbox.com/rocketacademy/basics-starter-code-2.0). Confirm that the template that you've been directed to has the following headers.
 
-![The Starter Repository template](<../../.gitbook/assets/image (9) (1).png>)
+![The Starter Repository template](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 * [ ] You should see a repository of multiple folders that detail the coursework over the Basics Programme. The entry point of the repository (which is rendered on the in-built browser panel on the right) is `index.html` as highlighted.
 
@@ -24,13 +24,13 @@ description: Get started!
 >
 > __[_CodeSandbox Documentation_](https://codesandbox.io/docs/importing#import-from-github)__
 
-![Complete the sign up to save your work](<../../.gitbook/assets/image (11) (1).png>)
+![Complete the sign up to save your work](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 * [ ] Complete the sign-up flow in order to save the forked sandbox! You can sign in with the Github account&#x20;
 
 Next, click on the name and enter Rocket Academy Course Materials and press enter
 
-![Changing the name of the sandbox](<../../.gitbook/assets/image (10) (1) (1).png>)
+![Changing the name of the sandbox](<../../.gitbook/assets/image (10) (1) (1) (1).png>)
 
 Following that, Click on the Cat Icon on the left sidebar and click on 'Sign in'
 
@@ -42,7 +42,7 @@ You should see a pop up and click on 'Authorize codesandbox' and the pop up shou
 
 Under 'Export to new GitHub repository' enter RocketAcademyBasics into the repository name and click 'Create new repository on GitHub'
 
-![Creating new repository on Github via CodeSandbox](<../../.gitbook/assets/image (11) (1) (1).png>)
+![Creating new repository on Github via CodeSandbox](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
 The last step would be to confirm that you have successfully created the repository. Check to see if you have your GitHub username as shown below
 

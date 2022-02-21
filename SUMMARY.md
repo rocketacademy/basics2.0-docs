@@ -15,6 +15,7 @@
   * [☝ Required Software Accounts](course-logistics/required-hardware-software-and-accounts/required-software-accounts.md)
 * [📓 Learning Environment](course-logistics/learning-environment/README.md)
   * [⏹ Initial Setup](course-logistics/learning-environment/initial-setup.md)
+  * [🔎 Accessing Different Lessons File](course-logistics/learning-environment/accessing-different-lessons-file.md)
   * [🧑🤝🧑 Pair Programming Instructions](course-logistics/learning-environment/pair-programming-instructions.md)
   * [📤 Committing Code Changes](course-logistics/learning-environment/committing-code-changes.md)
   * [🔍 Code Review](course-logistics/learning-environment/code-review.md)

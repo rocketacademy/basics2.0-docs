@@ -14,7 +14,7 @@ Version Control is a way of managing code changes across time, and using a Versi
 
 * [ ] After you've made changes to your files, remember to save them onto your sandbox. In the backend, CodeSandbox remembers the saved changes, and tracks these changes.
 
-![An unsaved/changed file will have a circle icon denoting its state - Ctrl + S (Windows) / Cmd + S (Mac) to save your changes!](<../../.gitbook/assets/image (10).png>)
+![An unsaved/changed file will have a circle icon denoting its state - Ctrl + S (Windows) / Cmd + S (Mac) to save your changes!](<../../.gitbook/assets/image (10) (1).png>)
 
 * [ ] You can see these changes being reflected on the `Changes` accordion under the GitHub tab.
 * [ ] Fill in the Summary and a short description of the changes that you would like to commit. Remember to encapsulate what the commit entails - is it to fix certain bugs, build certain features, or code commenting.
@@ -29,7 +29,7 @@ Version Control is a way of managing code changes across time, and using a Versi
   \
   When starting your project submissions, we would want students to create a new branch so that our SLs can review and feedback on the code before you merge your code into `main`. We will touch on code review later. We will be detailing the steps to achieve (2) below:
 
-![Opening the PR will direct you to the commit's GitHub page, where you can document feedback and discussions on code](<../../.gitbook/assets/image (14).png>)
+![Opening the PR will direct you to the commit's GitHub page, where you can document feedback and discussions on code](<../../.gitbook/assets/image (14) (1).png>)
 
 ### Code Review
 
@@ -41,11 +41,11 @@ Version Control is a way of managing code changes across time, and using a Versi
 
 * [ ] Code Review is a back-and-forth process of `Commit` > `Feedback` > `Review`. After your SL completes the feedback, you can make code changes again in CodeSandbox, and repeat the cycle until there are no bugs or incomplete code.
 
-![A typical code review process on GitHub](<../../.gitbook/assets/image (11).png>)
+![A typical code review process on GitHub](<../../.gitbook/assets/image (11) (1).png>)
 
 * [ ] Once you are satisfied with the commits, you can then merge the Pull Request into `main` (remember what we mentioned previously about merging with `main!`)
 
-![Include clear intent of what the merge request is for](<../../.gitbook/assets/image (15).png>)
+![Include clear intent of what the merge request is for](<../../.gitbook/assets/image (15) (1).png>)
 
 * [ ] After you have confirmed the merger, you can then safely delete the branch that was created for your code changes.
 

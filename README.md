@@ -8,7 +8,7 @@ In this course we will learn basic coding concepts through building simple progr
 
 ## What will Basics cover?
 
-This course aims to introduce the elements of constructing a program and thinking about how it should work. This happens in a "sandbox" environment meant to focus on the universal, fundamental concepts of programming, rather than being specific to the any one language. Basics aims to incrementally level-up students' coding knowledge through fun game-based mini projects.
+Basics aims to incrementally level-up students' coding knowledge through fun game-based mini projects. This happens in a "sandbox" environment meant to focus on the universal, fundamental concepts of programming, rather than being specific to the any one language.&#x20;
 
 Coding Basics consists of 6 Modules and 3 Projects.
 

@@ -18,7 +18,11 @@ Slack has the ability to nest contextual messages. When you want to reply to a m
 
 ### Ask Questions in the Channel
 
-During Rocket's courses you will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel (including about installing required software).&#x20;
+You will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel.
+
+If you are having trouble with a certain topic, it is _extremely unlikely_ that you are alone.
+
+**Also, our Section Leaders **_**love**_** receiving and answering questions** 💕. Don't be shy!
 
 {% hint style="danger" %}
 **Please refrain from DMing (direct messaging) instructors with questions about course material.**

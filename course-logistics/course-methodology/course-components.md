@@ -10,11 +10,7 @@ Coding Basics applies a flipped-classroom model that consists of 2 components: *
 
 The goal of self-learning is for students to learn concepts **before** class, such that class time can be spent discussing those concepts. Students who do not complete the the pre-class readings and exercises before the live class may affect the experience for the rest of the Section, especially when it comes to [pair programming](course-components.md#pair-programming).&#x20;
 
-It is recommended that you attempt to complete the pre-class work _at least_ a day before the scheduled live class, such that you can come to the live class prepared with questions.&#x20;
-
-It is also recommended that you ask questions early in Slack. If you are having trouble with a certain topic, it is _extremely unlikely_ that you are alone.
-
-**Also, our Section Leaders **_**love**_** receiving and answering questions** 💕. Don't be shy!
+It is recommended that you attempt to complete the pre-class work _at least_ a day before the scheduled live class, so that you can ask questions early in Slack.
 
 ### **Live Classes**
 

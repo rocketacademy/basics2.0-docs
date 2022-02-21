@@ -9,7 +9,7 @@
   * [💬 Slack](course-logistics/course-methodology/slack.md)
   * [🎲 Exercises and Projects](course-logistics/course-methodology/exercises-and-projects.md)
 * [🗓 Schedule](course-logistics/schedule-and-pairings/README.md)
-  * [📅 Batch xx Schedule](course-logistics/schedule-and-pairings/batch-13-schedule.md)
+  * [📅 Batch 14 Schedule](course-logistics/schedule-and-pairings/batch-13-schedule.md)
 * [💻 Required Hardware, Software and Accounts](course-logistics/required-hardware-software-and-accounts/README.md)
   * [☝ Required Software](course-logistics/required-hardware-software-and-accounts/required-software.md)
   * [☝ Required Software Accounts](course-logistics/required-hardware-software-and-accounts/required-software-accounts.md)

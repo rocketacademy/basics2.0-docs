@@ -4,8 +4,8 @@
 [4.1-intro-to-scope.md](4.1-intro-to-scope.md)
 {% endcontent-ref %}
 
-{% content-ref url="4.2-program-lifecycle-and-state.md" %}
-[4.2-program-lifecycle-and-state.md](4.2-program-lifecycle-and-state.md)
+{% content-ref url="4.2-global-variables.md" %}
+[4.2-global-variables.md](4.2-global-variables.md)
 {% endcontent-ref %}
 
 {% content-ref url="4.3-example-program-state-for-game-modes.md" %}

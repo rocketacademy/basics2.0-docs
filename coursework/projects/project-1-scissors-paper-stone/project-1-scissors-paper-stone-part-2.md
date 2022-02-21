@@ -6,7 +6,7 @@ description: ✂️📃💎🤩
 
 ## Introduction
 
-Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [global varaibles](../../../modules/4-scope/4.2-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game states](../../../modules/4-scope/4.3-example-program-state-for-game-modes.md#global-state-for-app-modes).
+Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [global varaibles](../../../modules/4-scope/4.2-global-variables.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game states](../../../modules/4-scope/4.3-example-program-state-for-game-modes.md#global-state-for-app-modes).
 
 If you completed the [Base features of SPS Part 1](project-1-scissors-paper-stone-part-1.md#base) but didn't finish the More Comfortable section, please complete Base for SPS Part 2 before going back to attempting More Comfortable for both parts.
 
@@ -23,7 +23,7 @@ Take a look at past projects by previous Basics students to visualise how the fu
 {% tab title="Win-Loss Record" %}
 ### Win-Loss Record
 
-Add [state](../../../modules/4-scope/4.2-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
+Add [state](../../../modules/4-scope/4.2-global-variables.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
 {% endtab %}
 
 {% tab title="User Name" %}

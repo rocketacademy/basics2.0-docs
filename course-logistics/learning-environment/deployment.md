@@ -22,21 +22,21 @@ You can choose to deploy with other services, but since we already have a GitHub
 Read more [here](https://docs.github.com/en/pages/quickstart).
 {% endhint %}
 
-4\. You should see a pop-up, click on 'Open Github Site'
+3\. You should see a pop-up, click on 'Open Github Site'
 
 ![Opening Github Site](../../.gitbook/assets/openGitHubSite.png)
 
-5\. You should see an error page, but do not worry. We are about to fix that.&#x20;
+4\. You should see an error page, but do not worry. We are about to fix that.&#x20;
 
 ![Expected Error Message](<../../.gitbook/assets/image (8) (2).png>)
 
-6\. Copy the current URL in the address bar. It should look something like:
+5\. Copy the current URL in the address bar. It should look something like:
 
 ```
 https://<YOUR_GITHUB_USERNAME>.github.io/<SOME_RANDOM_HASH>
 ```
 
-7\. Add the following endpoint to the rest of your URL. Assuming that the files were not renamed, this directs the user to the appropriate webpage in your directory.
+6 Add the following endpoint to the rest of your URL. Assuming that the files were not renamed, this directs the user to the appropriate webpage in your directory.
 
 > For Project 1: Scissors Paper Stone
 >

@@ -1,4 +1,4 @@
-# ☝ Required Software
+# 💽 Required Software
 
 ## Required GUI-Application Software
 
@@ -40,11 +40,13 @@ Chrome is the most popular web browser for software engineers because of its mat
 
 _Once you have been added to a section in Slack_, send your first message to your new section mates. Please include the following in your message:
 
-1. Where are you based?
-2. What do you do for work?
-3. Why do you want to learn coding?
-4. 4 emojis that describe you
-5. Anything else you would like to share 😁
+```
+Where are you based?
+What do you do for work?
+Why do you want to learn coding?
+4 emojis that describe you
+Anything else you would like to share 😁
+```
 
 ![Slack Message from Kai](<../../.gitbook/assets/Screenshot 2022-02-06 at 3.00.43 PM.png>)
 

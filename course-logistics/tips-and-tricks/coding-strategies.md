@@ -8,20 +8,20 @@ description: How to break a problem down and build up mental models
 
 {% embed url="https://www.youtube.com/watch?v=wO2CSWgf1Xw" %}
 
-One of the biggest challenges when beginning a project is to know where to start.
+One of the biggest challenges when beginning a project is knowing where to start.
 
 There are two main aspects to this process:
 
 ### 1) Understand your problem using language.
 
-* Do you understand the problem from a programatic perspective?
+* Do you understand the problem from a programmatic perspective?
 * Do you understand what its purpose is?
 * Do you understand the logic of the application itself?
 
-### 2) Strategize which part to concentrate on
+### 2) Strategize which part to concentrate on.
 
 * Start with the beginning of the program first.
-* Start with the "Minimum Viable Product"
+* Start with the "[Minimum Viable Product](https://www.productplan.com/glossary/minimum-viable-product/#:\~:text=A%20minimum%20viable%20product%2C%20or,iterate%20and%20improve%20the%20product.)"
 * Leave aside the features of the overall program that are not core to its purpose.
 * Strategize about how you can fake other parts of the program. (Can you fake a random dice roll by starting with a value that is always 4?)
 
@@ -47,7 +47,7 @@ A modern computer system is incredibly complex and it's impossible to understand
 
 _(See this description of_ [_what happens when you search on google)_](https://github.com/alex/what-happens-when).
 
-_**However**_ the task of writing a program is to build a contextually complete mental model of what is happening when the program runs.
+**However**_**,**_ the task of writing a program is to build a contextually complete mental model of what is happening when the program runs.
 
 This means understanding things about the code and how it behaves in the system.
 
@@ -59,7 +59,7 @@ Strategies around how to methodically build and test your mental models are an i
 
 **Run your code often.**
 
-Before you write any code strategize about what the next smallest bit you can write, _in order to run it as soon as possible._
+Before you write any code, strategize about the next smallest bit you can write, _in order to run it as soon as possible._
 
 **Write code with the purpose of testing your hypotheses.**
 
@@ -106,9 +106,9 @@ Optimize your programming and learning process by implementing some best practic
 
 Fluency at moving between the different dev tool applications means that you have a better chance of following a thought about the code all the way through.
 
-Your goal should be to build a fluid, distraction free coding environment. Learn keyboard shortcuts. Be able to turn off notifications. Don't attempt to watch a movie while coding.
+Your goal should be to build a fluid, distraction-free coding environment. Learn keyboard shortcuts. Be able to turn off notifications. Don't attempt to watch a movie while coding.
 
-If you need to look at a different variable in the console, be able to switch back to the editor, save the change and be looking at it in the browser in only a few keystrokes. It gives the best chance that you move ahead through the process.
+If you need to look at a different variable in the console, be able to switch back to the editor, save the change, and be looking at it in the browser in only a few keystrokes. It gives the best chance that you move ahead through the process.
 
 This also means that when you break something that you are not afraid you'll be able to put it back. Know how to use undo. Know how to use Git and GitHub to retrieve old versions in case you need to restore something.
 
@@ -126,7 +126,7 @@ Too few keywords and you won't find an exact match. Too many and there may not b
 
 **When to google an exact error message and when it's not helpful.**
 
-Similar to above, googling some types of error message will yield an exact solution. Some won't.
+Googling some types of error message will yield an exact solution. Some won't.
 
 **Which sites to look for in the results and which to discard.**
 
@@ -134,16 +134,16 @@ Some sites deal in specific documentation. Others are how-to-guides for beginner
 
 **Know exactly what level of detail you are looking for.**
 
-Google searches can quickly take you to the most verbose, complete technical documentation on a given subject. A lot of the times you need information that is more prescriptive than that.
+Google searches can quickly take you to the most verbose, complete technical documentation on a given subject. A lot of the time you need information that is more prescriptive than that.
 
 **Know when a solution that is not an exact match is adaptable or not.**
 
-Don't spend a lot of time on a result that is not relevant enough to your problem, but don't disregard a solution because it is not a perfect match to your problem.
+Don't spend a lot of time on a result that is not relevant enough to your problem, and do not disregard a solution because it is not a perfect match for your problem.
 
 ## Deliberate Practice
 
 Learning to code is less like learning things like English and history, and more like learning the piano. There is some theory involved but it also heavily involves practice.
 
-[Deliberate practice](https://en.wikipedia.org/wiki/Practice\_\(learning\_method\)#Deliberate\_practice) means quality of hours over quantity. (Although mastery also involves quantity of hours).
+[Deliberate practice](https://en.wikipedia.org/wiki/Practice\_\(learning\_method\)#Deliberate\_practice) means prioritising the quality of hours over quantity. (Although mastery also involves quantity of hours).
 
 Many of the principles stated above have to do with your meta-awareness of your own process. We believe that the more awareness you have of your own process the more effective your learning will be.

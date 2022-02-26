@@ -1,14 +1,16 @@
 # 🧑🤝🧑 Pair Programming Instructions
 
-For more information on What is Pair Programming, please refer to [Course Components](../course-methodology/course-components.md#pair-programming)&#x20;
+For more information on what pair programming is, please refer to [Course Components](../course-methodology/course-components.md#pair-programming).
 
-1. Open up [CodeSandbox](https://codesandbox.io/signin?continue=/dashboard/home) and login&#x20;
+### Objectives
+
+* [ ] Understand how to set up CodeSandbox for pair programming.
+
+## Instructions
+
+1. Open up [CodeSandbox](https://codesandbox.io/signin?continue=/dashboard/home) and log in.
 2. Select your Rocket Academy Course Material Sandbox
-3. Click the `Live` button (two-person icon) and copy the link as shown in the blue box&#x20;
-
-### Instructions
-
-1. Open up&#x20;
+3. Click the `Live` button (two-person icon) and copy the link as shown in the blue box
 
 ![Getting the link to share](../../.gitbook/assets/pp.png)
 

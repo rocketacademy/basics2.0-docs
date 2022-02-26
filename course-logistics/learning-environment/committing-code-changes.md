@@ -1,5 +1,13 @@
 # 📤 Committing Code Changes
 
+### Objectives
+
+* [ ] Understand the need for a Version Control System.
+* [ ] Explain the difference between committing to the `main` branch and a separate branch.
+* [ ] Be able to commit any changes to your Github account **through** CodeSandbox.
+
+## Instructions
+
 From time to time, you might have certain changes in your code you would want 'saved' in a safe storage space or repository. This allows for retrieval in the future, as well as version-controlling.
 
 Version Control is a way of managing code changes across time, and using a Version Control System (VCS) like Git enables a developer to avoid a problem like this:
@@ -23,13 +31,20 @@ Version Control is a way of managing code changes across time, and using a Versi
 
 * [ ] In order to commit a snapshot of the saved files (in this case, `script.js` and `index.html)`, there are two ways to achieve this:\
   \
-  1\. **Committing directly to the main branch** - this overrides the state of your original file directory. Since you are the owner of your own repository, you do have the right to merge any commits that you, or anyone interfacing with your repository, into the `main` branch. Do this if you are certain that your changes are final and your code is non-breaking!\
+  1\. **Committing directly to the main branch** - this overrides the state of your original file directory. Since you are the owner of your own repository, you do have the right to merge any commits that you, or anyone interfacing with your repository, into the `main` branch. Do this if you are certain that your changes are final and your code is non-breaking!
+* [ ] For your **day-to-day code changes and edits**, you may commit directly to the main branch.\
   \
-  2\. **Creating a branch (with a random hash) and initiating a Pull Request (PR)** - in a typical software development workflow, developers make changes on development branches and get their code approved via a PR. This ensures that code is peer-reviewed and tested before merging with `main` - typically the production branch.\
+  2\. **Creating a branch (with a random hash) and initiating a Pull Request (PR)** - in a typical software development workflow, developers make changes on development branches and get their code approved via a PR, or a **Pull Request**. This ensures that code is peer-reviewed and tested before merging with `main` - typically the production branch.\
   \
-  When starting your project submissions, we would want students to create a new branch so that our SLs can review and feedback on the code before you merge your code into `main`. We will touch on code review later. We will be detailing the steps to achieve (2) below:
+  When starting your **project submissions**, we would want students to create a new branch so that our SLs can review and feedback on the code before you merge your code into `main`. We will touch on code review later. We will be detailing the steps to achieve (2) below:
 
 ![Opening the PR will direct you to the commit's GitHub page, where you can document feedback and discussions on code](<../../.gitbook/assets/image (14) (1).png>)
+
+{% hint style="info" %}
+There is no need to fret about understanding in detail what branching is. The MCU multiversal timeline is a good starting analogy.\
+\
+The sacred timeline in the MCU ([Earth-199999](https://marvel.fandom.com/wiki/Earth-199999)) is what we call the `main`timeline. Every other branch or divergence from this `main` timeline is a basic branch (also a duplicate) of the main timeline, but with some additional changes. They operate in isolation, and conflicts only emerge when conflicting characters converge in the same place (as seen in Loki), and developers settling code conflicts might want to 'prune' these variances.
+{% endhint %}
 
 ### Code Review
 
@@ -53,7 +68,7 @@ Version Control is a way of managing code changes across time, and using a Versi
 
 * [ ] That's it! The whole development to production workflow is as simple as that. To recap:\
   \
-  1\. As a developer, you **develop features / fix bugs** within the code base (could be yours or a company/team)\
+  1\. As a developer, you **develop features / fix bugs** within the codebase (could be yours or a company/team)\
   \
   2\. Remember to **save your files** at regular time intervals\
   \

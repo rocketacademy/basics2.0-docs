@@ -4,6 +4,13 @@ description: Get started!
 
 # ⏹ Initial Setup
 
+### Objectives
+
+* [ ] To set-up and duplicate the template starter code.
+* [ ] To create and store the duplicate into your own Github account.
+
+## Instructions
+
 * [ ] Head over to [Rocket Academy's Basics Starter Code](https://githubbox.com/rocketacademy/basics-starter-code-2.0). Confirm that the template that you've been directed to has the following headers.
 
 ![The Starter Repository template](<../../.gitbook/assets/image (9) (1) (1).png>)
@@ -40,7 +47,7 @@ You should see a pop up and click on 'Authorize codesandbox' and the pop up shou
 
 ![Authorizing codesandbox](../../.gitbook/assets/authoriseCodeSandbox.png)
 
-Under 'Export to new GitHub repository' enter RocketAcademyBasics into the repository name and click 'Create new repository on GitHub'
+* [ ] Under 'Export to new GitHub repository' enter RocketAcademyBasics into the repository name and click '`Create new repository on GitHub`'
 
 ![Creating new repository on Github via CodeSandbox](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
 

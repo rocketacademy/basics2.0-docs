@@ -31,7 +31,7 @@ Coding Basics consists of 6 Modules and 3 Projects.
 
 ## What will Basics not cover?
 
-Coding Basics does not cover entry-level Computer Science. At Rocket Academy, you will be learning via a middle-out approach, and you will learn by doing. This course will not deep dive into _how or why_ a computer operates. [Computer Science is to programming what organic chemistry is to cooking](https://blog.codegiant.io/building-a-software-is-like-cooking-food-a64461a2e791?gi=ddfba8e218fc). If this was a cooking course, we will be teaching you how to cook an omelet, not why the egg fries at a certain temperature. You will also likely make a mess.
+Coding Basics does not cover entry-level Computer Science. At Rocket Academy, you will be learning via a middle-out approach, and you will learn by doing. This course will not deep dive into _how or why_ a computer operates. [Computer Science is to programming what organic chemistry is to cooking](https://blog.codegiant.io/building-a-software-is-like-cooking-food-a64461a2e791?gi=ddfba8e218fc). If this was a cooking course, we will be teaching you how to cook an omelette, not why the egg fries at a certain temperature. You will also likely make a mess.
 
 ![Pictured: All of us.](.gitbook/assets/30lJMDo.jpg)
 

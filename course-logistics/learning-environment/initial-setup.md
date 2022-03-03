@@ -9,6 +9,8 @@ description: Get started!
 * [ ] To set-up and duplicate the template starter code.
 * [ ] To create and store the duplicate into your own Github account.
 
+{% embed url="https://www.youtube.com/watch?v=gTGoCUy5stk" %}
+
 ## Instructions
 
 * [ ] Head over to [Rocket Academy's Basics Starter Code](https://githubbox.com/rocketacademy/basics-starter-code-2.0). Confirm that the template that you've been directed to has the following headers.

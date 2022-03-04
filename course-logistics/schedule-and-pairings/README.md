@@ -30,6 +30,8 @@
 
 ## Course Day 1 <a href="#course-day-1" id="course-day-1"></a>
 
+{% embed url="https://youtu.be/H1pFo4QfdUc" %}
+
 ### Pre Class
 
 **Module 1: Data Structures and Manipulation:**

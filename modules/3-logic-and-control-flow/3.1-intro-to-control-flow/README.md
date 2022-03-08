@@ -9,6 +9,8 @@ By the end of this lesson, you should be able to:
 * [ ] Identify statements and operators we can use to manipulate control flow.
 * [ ] Know how logic is used to make programs more complex.
 
+{% embed url="https://www.youtube.com/watch?v=5Oz3bV-m78s" %}
+
 ## Introduction
 
 ### What is Control Flow?

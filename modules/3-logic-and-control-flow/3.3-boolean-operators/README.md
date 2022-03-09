@@ -7,6 +7,8 @@ By the end of this lesson, you should be able to:
 * [ ] Understand that boolean operators expands on conditionals to add complexity to our programming logic.
 * [ ] Know that there are three types of boolean operators.
 
+{% embed url="https://youtu.be/QrUj-AK8zn8" %}
+
 ## Introduction
 
 ### What are Boolean operators?

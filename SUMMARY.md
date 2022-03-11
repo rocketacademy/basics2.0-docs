@@ -68,7 +68,7 @@
   * [3.7: Creating Objects with Loops](modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md)
   * [Additional Resources 3](modules/3-logic-and-control-flow/additional-resources-3.md)
 * [4: Scope](modules/4-scope/README.md)
-  * [4.1: Intro to Scope](modules/4-scope/4.1-intro-to-scope.md)
+  * [4.1: Intro to Scope and Access](modules/4-scope/4.1-intro-to-scope.md)
   * [4.2: Global Variables](modules/4-scope/4.2-global-variables.md)
   * [4.3: Program State for Game Modes](modules/4-scope/4.3-example-program-state-for-game-modes.md)
   * [Additional Resources 4](modules/4-scope/additional-resources-4.md)

@@ -82,6 +82,8 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ## Course Day 3 <a href="#course-day-3" id="course-day-3"></a>
 
+{% embed url="https://youtu.be/iTnQhEgy9_U" %}
+
 ### Pre Class
 
 **Module 4: Scope**

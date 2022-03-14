@@ -117,6 +117,8 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ## Course Day 5 <a href="#course-day-5" id="course-day-5"></a>
 
+{% embed url="https://youtu.be/l97od0kwqWs" %}
+
 ### Pre Class
 
 **Module 1: Data Structures and Manipulation**

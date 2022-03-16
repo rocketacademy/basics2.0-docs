@@ -23,7 +23,7 @@ Please feel free to record your video on whatever platform best suits you. Howev
 1. Login to Zoom and start a new meeting with yourself as host.
 2.  Optional: If you are using visual aids, share your screen ([how?](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)). Please ensure that your face can still be seen clearly, possibly either at the top left or right of the screen.
 
-    **Tip:** We recommend an IDE like VSCode as a visual aid, which is conducive for writing code as-you-speak, just like how your SLs did it during classes. That said, other mediums like PowerPoint slides are also accepted.
+    **Tip:** We recommend an [IDE ](https://en.wikipedia.org/wiki/Integrated\_development\_environment)like [VSCode ](https://code.visualstudio.com)as a visual aid, which is conducive for writing code as-you-speak, just like how your SLs did it during classes. That said, other mediums like PowerPoint slides are also accepted.
 3. Take a deep breath; You got this. When ready: Start recording ([how?](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording#h\_2b0b123c-d9e9-48bc-b0c6-3cd874ebc98a)).
 4. Once done, end the recording. Locate the recording ([how?](https://support.zoom.us/hc/en-us/articles/206277393-Finding-and-Viewing-Recordings)) and upload the video to YouTube.
 5. [Go to this link ](https://forms.gle/oHjJt5zEm7wW1xMGA)and submit the link to your application, including your YouTube video.

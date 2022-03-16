@@ -58,3 +58,9 @@ The last step would be to confirm that you have successfully created the reposit
 ![Check to see if you have your github username at the two circles](<../../.gitbook/assets/githubFinal (1).png>)
 
 Congrats, you are done with the setup. :tada::tada: see you in class! :relaxed:
+
+## Getting back to your work
+
+In case you close your browser, go back to the CodeSandbox site. You need to find your sandbox under `Drafts`, not Templates. In this video, we explain more.
+
+{% embed url="https://youtu.be/iJ6E5eIfMwQ" %}

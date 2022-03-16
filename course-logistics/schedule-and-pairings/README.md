@@ -32,6 +32,8 @@
 
 {% embed url="https://youtu.be/H1pFo4QfdUc" %}
 
+{% embed url="https://youtu.be/iJ6E5eIfMwQ" %}
+
 ### Pre Class
 
 **Module 1: Data Structures and Manipulation:**

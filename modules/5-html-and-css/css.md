@@ -1,5 +1,7 @@
 # 5.2: Cascading Style Sheets (CSS)
 
+{% embed url="https://youtu.be/JmtqHnpR6Fc" %}
+
 ## Learning Objectives
 
 By the end of this lesson, you should be able to:
@@ -32,6 +34,8 @@ CSS styling can be applied in three ways:
 1. In-line styling.
 2. Internal styling.
 3. External styling.
+
+{% embed url="https://youtu.be/FYsyHpiuE3M" %}
 
 ### In-line Styling
 
@@ -249,6 +253,8 @@ Look for the code from `<body>` onwards, and notice that some HTML elements have
 ```
 
 The code within `<script>` tags reference some of these HTML elements, and define the logic that has been associating the Submit button and input/output fields to the main function. We will soon take a closer look at the syntax and concepts that make this work.
+
+{% embed url="https://youtu.be/pEPxMUBZ1HE" %}
 
 ## Exercise
 

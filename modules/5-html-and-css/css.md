@@ -6,10 +6,10 @@
 
 By the end of this lesson, you should be able to:
 
-* [ ] Define CSS.&#x20;
-* [ ] Understand and use CSS Syntax&#x20;
-* [ ] Add styles to HTML with CSS.
-* [ ] Understand what the cascade does.
+* [ ] Define CSS
+* [ ] Understand and use CSS syntax&#x20;
+* [ ] Add styles to HTML with CSS
+* [ ] Understand the cascading property of CSS
 
 ### Intro To CSS
 

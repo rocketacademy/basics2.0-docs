@@ -2,7 +2,7 @@
 description: Project instructions for Blackjack
 ---
 
-# Project 3: Blackjack
+# 🃏 Project 3: Blackjack
 
 ## Introduction
 

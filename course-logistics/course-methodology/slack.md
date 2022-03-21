@@ -40,7 +40,7 @@ Contextual questions help the answerer by filling in the details needed to fully
 
 Try to answer the following when asking questions. What is the problem? Include any relevant error messages in text or screenshots. What is your hypothesis? [Include relevant code snippets, formatted as code in Slack.](./#slack-code-snippets) What have you tried? Include any relevant output or Google results. This will not only assist the person helping you, it will actually make you a better coder.
 
-### Format Code in Slack
+### Format Code in Slack <a href="#formatcodeinslack" id="formatcodeinslack"></a>
 
 When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates code blocks with monospaced text for easier reading. For single-line code like variables or files/folders in regular text, we can use a single backtick (\`) at the start and end of the code to format it.
 

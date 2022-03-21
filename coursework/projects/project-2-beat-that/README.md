@@ -1,4 +1,4 @@
-# Project 2: Beat That!
+# 🎲 Project 2: Beat That!
 
 ## Introduction
 

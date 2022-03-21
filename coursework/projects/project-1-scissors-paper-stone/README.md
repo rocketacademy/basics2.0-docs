@@ -2,7 +2,7 @@
 description: ✂️📃💎😜
 ---
 
-# Project 1: Scissors Paper Stone
+# ✂ Project 1: Scissors Paper Stone
 
 ## Introduction
 

@@ -70,22 +70,22 @@ selector {
 
 As a declarative language, CSS uses selectors and declarations to apply styling rules to HTML pages. The syntax for CSS starts with a selector: the HTML element(s) we want to define style rules for. Then a declaration code block is created using open and closing curly braces. Inside the declaration code block are the style rules, in a similar syntax as in-line styling. You can have as many rules as needed. It is conventional to put each rule on its own line in code.&#x20;
 
-All CSS rules are placed inside the `<head>` tag of the page and is wrapped inside the `<style>` tag. In this example, the selector of p is chosen to style all the paragraph tags on the page.
+All CSS rules are placed inside the `<head>` tag of the page and is wrapped inside the `<style>` tag. In this example, the selector of `p` is chosen to style all the paragraph tags on the page.
 
 ```html
 <html>
-   <head>
-      <title> Page Title </title>
-         <style>
-            p{			
-               color: white;
-            }
-         </style>
-   </head>
-   <body>
-	<p> This text is white </p>
-	<p> This text is also white! </p>
-   </body>
+  <head>
+    <title>Page Title</title>
+    <style>
+      p {
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <p>This text is white</p>
+    <p>This text is also white!</p>
+  </body>
 </html>
 ```
 
@@ -106,13 +106,17 @@ When defining styles in a `.css` file, it is not necessary to have opening and c
 
 `rel="stylesheet"` specifies the relationship of the file that we are linking, in this case the linked file defines the styles of the current HTML file, and it is known as the stylesheet. `href` stands for hyperlink reference, which defines the location of the file to be linked. If `styles.css` is in the same folder as the HTML file, we can simply provide the name of the file as the location.
 
-## CSS Selectors: Classes and IDs
+## CSS Selectors: HTML, Classes and IDs
+
+### HTML Selectors
+
+The Internal Styling example also illustrates the use of HTML selectors. Using HTML selectors targets all HTML elements with the specified HTML tag.
 
 {% embed url="https://youtu.be/6bWMxUBTeVw" %}
 
-{% embed url="https://youtu.be/Lxl4Uh9ltPI" %}
-
 ### Classes
+
+{% embed url="https://youtu.be/Lxl4Uh9ltPI" %}
 
 Previously, we used HTML elements as selectors when defining CSS rules, either internally or externally. This makes things neater and easier to manage, but does not provide a lot of flexibility. Perhaps we want to apply a certain styling to a group of elements in our web page, but not all `<p>` elements. This can be achieved by using CSS classes, and assigning the relevant HTML element that class as an attribute.&#x20;
 
@@ -259,6 +263,10 @@ Look for the code from `<body>` onwards, and notice that some HTML elements have
 ```
 
 The code within `<script>` tags reference some of these HTML elements, and define the logic that has been associating the Submit button and input/output fields to the main function. We will soon take a closer look at the syntax and concepts that make this work.
+
+### If you skipped to the end
+
+Here's the video that demonstrates a quick way to change the colors on your page.&#x20;
 
 {% embed url="https://youtu.be/pEPxMUBZ1HE" %}
 

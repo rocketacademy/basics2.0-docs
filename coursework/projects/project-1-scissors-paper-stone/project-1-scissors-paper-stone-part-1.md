@@ -10,11 +10,6 @@ For our first project we will make our own version of the classic [Scissors Pape
 
 Part 1 works with the technologies we have learned so far in Basics, and Part 2 adds additional technologies that we learn in subsequent course days.
 
-## Setup
-
-1. Create a `project` directory in your `basics` code folder to host your projects if you haven't already.
-2. Make a copy of the [basics starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) for your Scissors Paper Stone project.
-
 ## Base
 
 ### Basic Scissors Paper Stone

@@ -1,12 +1,6 @@
 # 🗓 Schedule
 
-## Upcoming Courses
-
-{% content-ref url="batch-14-schedule.md" %}
-[batch-14-schedule.md](batch-14-schedule.md)
-{% endcontent-ref %}
-
-## General Schedule
+## Basics 14 Schedule
 
 | Week |                         Monday                        |              Thursday             |
 | :--: | :---------------------------------------------------: | :-------------------------------: |
@@ -76,8 +70,14 @@ Please **do not** attempt in-class material before class for all course days, so
 **Module 3: Logic and Control Flow**
 
 * [3.1 Intro to Logic and Control Flow](../../modules/3-logic-and-control-flow/3.1-intro-to-control-flow/)
+  * [3.1.1 Control Flow Diagrams](../../modules/3-logic-and-control-flow/3.1-intro-to-control-flow/3.1.1-control-flow-diagrams.md)
 * [3.2 Conditionals](../../modules/3-logic-and-control-flow/3.2-conditionals/)
+  * [3.2.1 If, Else, Else If](../../modules/3-logic-and-control-flow/3.2-conditionals/3.2.1-if-else-else-if.md)
+  * [3.2.2 Equality and Inequality](../../modules/3-logic-and-control-flow/3.2-conditionals/3.2.2-equality-and-inequality.md)
+  * [3.2.3 Strict Equality](../../modules/3-logic-and-control-flow/3.2-conditionals/3.2.3-strict-equality.md)
 * [3.3 Boolean Operators](../../modules/3-logic-and-control-flow/3.3-boolean-operators/)
+  * [3.3.1 Boolean OR](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.1-boolean-or.md)
+  * [3.3.2 Boolean AND, NOT](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.3-boolean-and-not.md)
 
 ### In Class
 
@@ -86,8 +86,7 @@ Please **do not** attempt in-class material before class for all course days, so
 ### Project Start: Scissors Paper Stone&#x20;
 
 * [Coding Strategies: Getting Started](../tips-and-tricks/coding-strategies.md#getting-started-how-to-break-a-problem-down)
-* [Project Planning: Scissors Paper Stone](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
-* [Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
+* [Project 1: Scissors Paper Stone (Part 1)](../../coursework/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
 
 
 

@@ -143,7 +143,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### Project Start: Beat That!
 
-* [Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
+* [Project 2: Beat That!](../../coursework/projects/project-2-beat-that/)
 
 ## Course Day 6 <a href="#course-day-6" id="course-day-6"></a>
 
@@ -208,7 +208,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### Project Due : Blackjack (Base)
 
-[Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
+* [Project 3: Blackjack](../../coursework/projects/project-3-blackjack/)
 
 ### In Class
 
@@ -217,17 +217,17 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### &#x20;Project Continuation: Blackjack (More Comfortable)
 
-* [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
+* [Project 3: Blackjack](../../coursework/projects/project-3-blackjack/#more-comfortable)
 
 ## Course Day 10 <a href="#course-day-10" id="course-day-10"></a>
 
 ### Project Due : Blackjack (More Comfortable)
 
-* [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
+* [Project 3: Blackjack](../../coursework/projects/project-3-blackjack/#more-comfortable)
 
 ### In Class
 
-* [Project presentations](https://basics.rocketacademy.co/course-logistics/course-methodology#project-presentations)
+* Project presentations
 * Course Feedback and Reviews
 * LinkedIn certificate presentations
 * Class Photo 🥳

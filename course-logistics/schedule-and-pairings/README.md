@@ -92,8 +92,6 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ## Course Day 3 <a href="#course-day-3" id="course-day-3"></a>
 
-{% embed url="https://youtu.be/iTnQhEgy9_U" %}
-
 ### Pre Class
 
 **Module 4: Scope**
@@ -128,8 +126,6 @@ Please **do not** attempt in-class material before class for all course days, so
 * [Redux: Scissors Paper Stone](../../coursework/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md) (30min)
 
 ## Course Day 5 <a href="#course-day-5" id="course-day-5"></a>
-
-{% embed url="https://youtu.be/l97od0kwqWs" %}
 
 ### Pre Class
 

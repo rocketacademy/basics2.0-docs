@@ -1,7 +1,5 @@
 # 5.2: Cascading Style Sheets (CSS)
 
-{% embed url="https://youtu.be/JmtqHnpR6Fc" %}
-
 ## Learning Objectives
 
 By the end of this lesson, you should be able to:
@@ -34,8 +32,6 @@ CSS styling can be applied in three ways:
 1. In-line styling.
 2. Internal styling.
 3. External styling.
-
-{% embed url="https://youtu.be/FYsyHpiuE3M" %}
 
 ### In-line Styling
 
@@ -112,11 +108,7 @@ When defining styles in a `.css` file, it is not necessary to have opening and c
 
 The Internal Styling example also illustrates the use of HTML selectors. Using HTML selectors targets all HTML elements with the specified HTML tag.
 
-{% embed url="https://youtu.be/6bWMxUBTeVw" %}
-
 ### Classes
-
-{% embed url="https://youtu.be/Lxl4Uh9ltPI" %}
 
 Previously, we used HTML elements as selectors when defining CSS rules, either internally or externally. This makes things neater and easier to manage, but does not provide a lot of flexibility. Perhaps we want to apply a certain styling to a group of elements in our web page, but not all `<p>` elements. This can be achieved by using CSS classes, and assigning the relevant HTML element that class as an attribute.&#x20;
 
@@ -170,8 +162,6 @@ We can also define CSS rules for IDs. In this case, the prefix is #. As IDs shou
 When defining HTML elements in `index.html`, we can initially assign them an ID or a class. IDs are unique, and should not be applied to multiple elements (just like your ID number), but multiple HTML elements can share classes, and HTML elements can belong to multiple classes. Not all HTML elements need to have an ID or a class.
 
 ## Cascade
-
-{% embed url="https://www.youtube.com/watch?v=jfBPgEysQ28" %}
 
 Why _Cascading_ Style Sheets? With so many different ways to define CSS rules, it is not difficult to imagine a situation where there are conflicting rules applying to a single HTML element. The cascade is what determines which rules actually get applied to our HTML. There are 3 main factors in determining the cascade:
 
@@ -267,8 +257,6 @@ The code within `<script>` tags reference some of these HTML elements, and defin
 ### If you skipped to the end
 
 Here's the video that demonstrates a quick way to change the colors on your page.&#x20;
-
-{% embed url="https://youtu.be/pEPxMUBZ1HE" %}
 
 ## Exercise
 

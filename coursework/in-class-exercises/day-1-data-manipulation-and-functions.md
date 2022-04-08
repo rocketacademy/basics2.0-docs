@@ -10,8 +10,8 @@ We will now put to use what we have learned so far. Before you attempt a problem
    2. How it can be implemented.
 3. Write or type, in plain English, the instructions you and your partner want your program to follow.
 
-{% content-ref url="../../course-logistics/learning-environment/pair-programming-instructions.md" %}
-[pair-programming-instructions.md](../../course-logistics/learning-environment/pair-programming-instructions.md)
+{% content-ref url="../../logistics/learning-environment/pair-programming-instructions.md" %}
+[pair-programming-instructions.md](../../logistics/learning-environment/pair-programming-instructions.md)
 {% endcontent-ref %}
 
 For some problems, you may need to search the web for information. Remember that as pairs, you are also brainstorming together. **Please switch driver and navigator for each problem statement.**
@@ -24,17 +24,17 @@ If needed, use the **'ask Host for help'** function in Zoom. You may also find t
 
 Before you begin, check that you and your partner can answer the following:
 
-* [ ] Use mathematical operators _****_ to perform mathematical operations in the console of your browser.
-* [ ] Describe what a variable is and how to assign it a value or expression.
-* [ ] Use the `var` **keyword** to declare a new JavaScript variable.
-* [ ] Explain how to achieve _accurate representation_ of your program with suitable variable names.
-* [ ] Use the camelCase naming convention for your JavaScript variable names.
-* [ ] Understand what a function is and why we use functions.
-* [ ] Declare and define a function as a block of code.
-* [ ] Understand how to pass input to a function.
-* [ ] Understand how to store the output of a function.
-* [ ] Understand the purpose of the return keyword.
-* [ ] Execute a function.
+- [ ] Use mathematical operators _\*\*\*\*_ to perform mathematical operations in the console of your browser.
+- [ ] Describe what a variable is and how to assign it a value or expression.
+- [ ] Use the `var` **keyword** to declare a new JavaScript variable.
+- [ ] Explain how to achieve _accurate representation_ of your program with suitable variable names.
+- [ ] Use the camelCase naming convention for your JavaScript variable names.
+- [ ] Understand what a function is and why we use functions.
+- [ ] Declare and define a function as a block of code.
+- [ ] Understand how to pass input to a function.
+- [ ] Understand how to store the output of a function.
+- [ ] Understand the purpose of the return keyword.
+- [ ] Execute a function.
 
 ## **Base**
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will write functions to perform data transformations, similar to examples in [3.1: Functions](../../../modules/2-structuring-and-debugging-code/5.1-functions.md). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](../../../course-logistics/required-hardware-and-software/recommended-set-up.md#folder-structure-for-coding-basics). For some exercises you may need to google for information.
+Today we will write functions to perform data transformations, similar to examples in [3.1: Functions](../../../modules/2-structuring-and-debugging-code/5.1-functions.md). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](../../../logistics/required-hardware-and-software/recommended-set-up.md#folder-structure-for-coding-basics). For some exercises you may need to google for information.
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
@@ -10,17 +10,17 @@ Today we will write functions to perform data transformations, similar to exampl
 
 Before you begin, check that you and your partner can answer the following:
 
-* [ ] How do you define a function?
-* [ ] How do you execute a function?
-* [ ] Where can you execute a function?
-* [ ] How many times can you use a function?
-* [ ] What is the purpose of the `return` keyword? What happens if we omit the `return` keyword from a function?
+- [ ] How do you define a function?
+- [ ] How do you execute a function?
+- [ ] Where can you execute a function?
+- [ ] How many times can you use a function?
+- [ ] What is the purpose of the `return` keyword? What happens if we omit the `return` keyword from a function?
 
 ## Learning Outcomes
 
-* Practice **writing helper functions** _(and not just solve for the correct calculation)_
-* Executing multiple helper functions as part of the overall program.
-* Practice creating contextual, meaningful variables.
+- Practice **writing helper functions** _(and not just solve for the correct calculation)_
+- Executing multiple helper functions as part of the overall program.
+- Practice creating contextual, meaningful variables.
 
 ## Base
 
@@ -85,7 +85,7 @@ Output several values including:
 
 Sometimes when trying to add 2 numbers you may find that your numbers concatenate instead of add. For example, when adding '1' + 1 in your code, the result may be '11' instead of 2. This is because one of your numbers may be represented in JS as a string, most commonly when the number comes from the `input` variable in our programs.
 
-To resolve similar issues, try converting `input` to a number with [JS' built-in Number function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Number) before using it, e.g. `const loanAmt = Number(input)`.
+To resolve similar issues, try converting `input` to a number with [JS' built-in Number function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number) before using it, e.g. `const loanAmt = Number(input)`.
 
 The following is a more detailed breakdown of JS behaviour when concatenating strings and numbers.
 
@@ -96,7 +96,7 @@ The following is a more detailed breakdown of JS behaviour when concatenating st
    1. 2 + 2 will return 4
 3. Number + String
    1. 2 + '2' will return '22'
-{% endhint %}
+      {% endhint %}
 
 ## Reference Solution
 

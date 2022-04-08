@@ -8,23 +8,24 @@ See an example of all problems [**here**](https://rocketacademy.github.io/basics
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
-{% content-ref url="../../course-logistics/learning-environment/pair-programming-instructions.md" %}
-[pair-programming-instructions.md](../../course-logistics/learning-environment/pair-programming-instructions.md)
+{% content-ref url="../../logistics/learning-environment/pair-programming-instructions.md" %}
+[pair-programming-instructions.md](../../logistics/learning-environment/pair-programming-instructions.md)
 {% endcontent-ref %}
 
 ## Knowledge Check
 
 Before you begin, check that you and your partner can answer the following:
 
-* [ ] Why use global variables?
-* [ ] What is the difference between global and local variables?
-* [ ] Can a global variable be accessed or manipulated within a function?
-* [ ] Can a variable declared in `main` be accessed or manipulated in a different helper function?
+- [ ] Why use global variables?
+- [ ] What is the difference between global and local variables?
+- [ ] Can a global variable be accessed or manipulated within a function?
+- [ ] Can a variable declared in `main` be accessed or manipulated in a different helper function?
 
 ## Base
 
 {% tabs %}
 {% tab title="Secret Word" %}
+
 ### Secret Word
 
 Create a game where a player must correctly guess secret words to win.
@@ -59,9 +60,10 @@ Update Secret Word with the following additional rules.
 
 1. The player must guess correctly twice in a row to win
 2. Secret words cannot be repeated 2 guesses in a row. E.g. the secret word cannot be "banana" for 2 player guesses in a row. If the secret word for the 1st guess were "banana", the secret word for the 2nd guess would have to be either "chisel" or "faucet".
-{% endtab %}
+   {% endtab %}
 
 {% tab title="Dice" %}
+
 ### Dice Within
 
 Create a new version of our Coding Basics dice game (where the player guesses the dice roll) that randomly becomes easier or harder. At the beginning of the game and each time the player wins, the computer selects a random number from 1 to 3, which we call the "within number". If any of the player's guesses fall within the dice roll plus or minus the within number, the player wins.

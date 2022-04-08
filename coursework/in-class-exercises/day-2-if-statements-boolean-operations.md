@@ -8,19 +8,19 @@ See an example of all problems [**here**](https://rocketacademy.github.io/basics
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
-{% content-ref url="../../course-logistics/learning-environment/pair-programming-instructions.md" %}
-[pair-programming-instructions.md](../../course-logistics/learning-environment/pair-programming-instructions.md)
+{% content-ref url="../../logistics/learning-environment/pair-programming-instructions.md" %}
+[pair-programming-instructions.md](../../logistics/learning-environment/pair-programming-instructions.md)
 {% endcontent-ref %}
 
 ## Knowledge Check
 
 Before you begin, check that you and your partner can answer the following:
 
-* [ ] Why use logic in our programs?
-* [ ] What is an if statement?
-* [ ] What is a code block? What marks the start and end of a block of code?
-* [ ] What is a Boolean value? What is a Boolean variable?
-* [ ] What is a Boolean operator? What are the different kinds of Boolean operators?
+- [ ] Why use logic in our programs?
+- [ ] What is an if statement?
+- [ ] What is a code block? What marks the start and end of a block of code?
+- [ ] What is a Boolean value? What is a Boolean variable?
+- [ ] What is a Boolean operator? What are the different kinds of Boolean operators?
 
 ## Base
 
@@ -49,6 +49,7 @@ Please use the `||` operator.
 
 {% tabs %}
 {% tab title="4D" %}
+
 ### 4D with Single-Digit Comparison
 
 [4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. Rocket Academy does not endorse gambling.
@@ -63,6 +64,7 @@ Create a version of 4D where the player wins if they guess within 1000 (above or
 {% endtab %}
 
 {% tab title="Hawker Food" %}
+
 ### Hawker Food Randomness
 
 The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish to each customer. The dishes in his repertoire are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa". Customers that correctly guess Uncle's dish receive a free meal.
@@ -95,6 +97,7 @@ This will be followed by Bak Kut Teh, a simmered pork rib broth with fatty pork 
 
 Chilli sambal will be included.
 ```
+
 {% endtab %}
 {% endtabs %}
 

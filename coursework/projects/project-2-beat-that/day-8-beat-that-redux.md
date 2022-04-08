@@ -2,8 +2,8 @@
 
 ### Engage in Peer Code Review
 
-{% content-ref url="../../../course-logistics/learning-environment/code-review.md" %}
-[code-review.md](../../../course-logistics/learning-environment/code-review.md)
+{% content-ref url="../../../logistics/learning-environment/code-review.md" %}
+[code-review.md](../../../logistics/learning-environment/code-review.md)
 {% endcontent-ref %}
 
 ### Improve Project Together

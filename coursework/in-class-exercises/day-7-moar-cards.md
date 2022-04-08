@@ -6,6 +6,7 @@ Today we will practise JavaScript Objects. Choose one of the two exercises, _Moa
 
 {% tabs %}
 {% tab title="Moar Cards" %}
+
 ### Base
 
 Feel free to copy the card deck generation function from [9.2: Card Deck Generation](../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md#card-deck-generation-code) and the card shuffling functions from [9.1: JavaScript Objects](../../modules/1-data-types-structures-and-manipulations/1.4-objects.md#card-shuffling) into your `script.js` file.
@@ -66,13 +67,14 @@ Allow the player to wager points on each round. Add a new mode for the beginning
 Update the previous game logic such that if any player gets a pair in their hand, they win.
 
 ###
+
 {% endtab %}
 
 {% tab title="Chat Bot" %}
 This exercise involves more complex code logic with nested objects and arrays.
 
 {% hint style="info" %}
-**Please read** [**this**](https://bootcamp.rocketacademy.co/course-logistics/coding-tool-and-language-tips#objects) **primer on different ways to access elements in JavaScript Objects before starting.**
+**Please read** [**this**](https://bootcamp.rocketacademy.co/logistics/coding-tool-and-language-tips#objects) **primer on different ways to access elements in JavaScript Objects before starting.**
 {% endhint %}
 
 We will make a chat bot that asks questions when the submit button is clicked. The user can respond by typing and submitting input and the bot can respond further. Please read all exercises before beginning to see how the chat bot can become more complex.
@@ -96,8 +98,8 @@ We will use JavaScript Objects to encode the chat bot's potential responses.
 ```javascript
 var answersAndResponses = {
   yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
-  no: 'Oh ok, just normally happy ;)',
-  maybe: 'It seems the very thought of coding makes people happy!',
+  no: "Oh ok, just normally happy ;)",
+  maybe: "It seems the very thought of coding makes people happy!",
 };
 ```
 
@@ -125,11 +127,11 @@ Extend the capabilities of the chat bot by storing question and answer text in t
 ```javascript
 var questionAndAnswerSet = {
   question:
-    'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    "Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)",
   answers: {
     yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
-    no: 'Oh ok, just normally happy ;)',
-    maybe: 'It seems the very thought of coding makes people happy!',
+    no: "Oh ok, just normally happy ;)",
+    maybe: "It seems the very thought of coding makes people happy!",
   },
 };
 ```
@@ -142,19 +144,19 @@ To have our chat bot support more than 1 question, put the above `questionAndAns
 var questionAndAnswerSets = [
   {
     question:
-      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+      "Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)",
     answers: {
       yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
-      no: 'Oh ok, just normally happy ;)',
-      maybe: 'It seems the very thought of coding makes people happy!',
+      no: "Oh ok, just normally happy ;)",
+      maybe: "It seems the very thought of coding makes people happy!",
     },
   },
   {
     question:
-      'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+      "Do you enjoy coding most during the day, night, or both? (day/night/both)",
     answers: {
-      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
-      night: 'Under the calm and gentle moon, I also find my focus.',
+      day: "Ah yes, when the sun is high in the sky, I can feel its energy too.",
+      night: "Under the calm and gentle moon, I also find my focus.",
       both: "Indeed, I could code 24/7 if I didn't have to sleep!",
     },
   },
@@ -217,31 +219,31 @@ Update our chat bot answer set array to be an object whose keys are answer set I
 var questionAndAnswerSets = {
   hasBeenCoding: {
     question:
-      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+      "Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)",
     answers: {
       yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
-      no: 'Oh ok, just normally happy ;)',
-      maybe: 'It seems the very thought of coding makes people happy!',
+      no: "Oh ok, just normally happy ;)",
+      maybe: "It seems the very thought of coding makes people happy!",
     },
-    nextQuestionId: 'timeOfDay',
+    nextQuestionId: "timeOfDay",
   },
   timeOfDay: {
     question:
-      'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+      "Do you enjoy coding most during the day, night, or both? (day/night/both)",
     answers: {
-      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
-      night: 'Under the calm and gentle moon, I also find my focus.',
+      day: "Ah yes, when the sun is high in the sky, I can feel its energy too.",
+      night: "Under the calm and gentle moon, I also find my focus.",
       both: "Indeed, I could code 24/7 if I didn't have to sleep!",
     },
-    nextQuestionId: 'weather',
+    nextQuestionId: "weather",
   },
   weather: {
     question: "Are you most productive when it's sunny or raining? (sun/rain)",
     answers: {
-      sun: 'The sun warms my heart and powers me to code.',
-      rain: 'The rain washes away my distractions and allows me to focus.',
+      sun: "The sun warms my heart and powers me to code.",
+      rain: "The rain washes away my distractions and allows me to focus.",
     },
-    nextQuestionId: 'hasBeenCoding',
+    nextQuestionId: "hasBeenCoding",
   },
 };
 ```
@@ -256,44 +258,44 @@ Update our chat bot to choose a next question based on the answer that the user 
 var questionAndAnswerSets = {
   hasBeenCoding: {
     question:
-      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+      "Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)",
     answers: {
       yes: {
         response:
           "Wow! Me too! I've been working on the Blackjack project. Makes my day!",
-        nextQuestionId: 'timeOfDay',
+        nextQuestionId: "timeOfDay",
       },
       no: {
-        response: 'Oh ok, just normally happy ;)',
-        nextQuestionId: 'happiness',
+        response: "Oh ok, just normally happy ;)",
+        nextQuestionId: "happiness",
       },
     },
   },
   timeOfDay: {
     question:
-      'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+      "Do you enjoy coding most during the day, night, or both? (day/night/both)",
     answers: {
-      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
-      night: 'Under the calm and gentle moon, I also find my focus.',
+      day: "Ah yes, when the sun is high in the sky, I can feel its energy too.",
+      night: "Under the calm and gentle moon, I also find my focus.",
       both: "Indeed, I could code 24/7 if I didn't have to sleep!",
     },
-    nextQuestionId: 'weather',
+    nextQuestionId: "weather",
   },
   weather: {
     question: "Are you most productive when it's sunny or raining? (sun/rain)",
     answers: {
-      sun: 'The sun warms my heart and powers me to code.',
-      rain: 'The rain washes away my distractions and allows me to focus.',
+      sun: "The sun warms my heart and powers me to code.",
+      rain: "The rain washes away my distractions and allows me to focus.",
     },
-    nextQuestionId: 'hasBeenCoding',
+    nextQuestionId: "hasBeenCoding",
   },
   happiness: {
-    question: 'Do arrays or objects make you happier? (arrays/objects)',
+    question: "Do arrays or objects make you happier? (arrays/objects)",
     answers: {
-      arrays: 'I knew it, arrays are my favourite too.',
+      arrays: "I knew it, arrays are my favourite too.",
       objects: "You're good at coding- objects are hard!",
     },
-    nextQuestionId: 'timeOfDay',
+    nextQuestionId: "timeOfDay",
   },
 };
 ```
@@ -302,8 +304,7 @@ var questionAndAnswerSets = {
 
 Add questions to our chat bot that are purportedly for fortune telling, but where the bot always provides standard responses that anyone might believe are individualised. For example, the bot might ask "Let me tell your fortune. If you have a birthmark, where is it on your body?" and respond with "You have a great need for other people to like and admire you."
 
-Such statements that people might feel are individualised but can apply to everyone are known as Barnum statements. Read more about the Barnum effect and statements [here](https://en.wikipedia.org/wiki/Barnum\_effect#Early\_research).
-
+Such statements that people might feel are individualised but can apply to everyone are known as Barnum statements. Read more about the Barnum effect and statements [here](https://en.wikipedia.org/wiki/Barnum_effect#Early_research).
 
 {% endtab %}
 {% endtabs %}

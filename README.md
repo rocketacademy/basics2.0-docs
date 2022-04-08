@@ -19,13 +19,13 @@ Coding Basics consists of 6 Modules and 3 Projects.
 3. [Logic and Control Flow](modules/3-logic-and-control-flow/)
 4. [Program Scope](modules/4-scope/)
 5. [HTML and CSS](modules/5-html-and-css/)
-6. T[he Document Object Model (DOM)](modules/6-document-object-model/)
+6. [The Document Object Model (DOM)](modules/6-document-object-model/)
 {% endtab %}
 
 {% tab title="Projects" %}
 1. [Scissors Paper Stone](coursework/projects/project-1-scissors-paper-stone/)
 2. [Beat That!](coursework/projects/project-2-beat-that/)
-3. [BlackJack](coursework/projects/project-3-blackjack/)
+3. [Blackjack](coursework/projects/project-3-blackjack/)
 {% endtab %}
 {% endtabs %}
 

@@ -28,7 +28,7 @@
 * Opening Brief
 * Look ahead: Deliverables for Day 1**:**
   * ****[Required Hardware and Software](../required-hardware-software-and-accounts/)
-  * &#x20;[Pre-Class Material](./#pre-class)
+  * [Pre-Class Material](./#pre-class)
 * Section Introductions and Icebreakers
 
 ## Course Day 1 <a href="#course-day-1" id="course-day-1"></a>
@@ -206,7 +206,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [2.5: Advanced Debugger with Sources Tab](../../modules/2-structuring-and-debugging-code/2.5-advanced-debugger.md)
 
-### Project Due : Blackjack (Base)
+### Project Due: Blackjack (Base)
 
 * [Project 3: Blackjack](../../coursework/projects/project-3-blackjack/)
 
@@ -221,7 +221,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ## Course Day 10 <a href="#course-day-10" id="course-day-10"></a>
 
-### Project Due : Blackjack (More Comfortable)
+### Project Due: Blackjack (More Comfortable)
 
 * [Project 3: Blackjack](../../coursework/projects/project-3-blackjack/#more-comfortable)
 

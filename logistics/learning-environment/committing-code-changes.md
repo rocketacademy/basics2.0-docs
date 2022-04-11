@@ -27,7 +27,7 @@ Version Control is a way of managing code changes across time, and using a Versi
 * [ ] You can see these changes being reflected on the `Changes` accordion under the GitHub tab.
 * [ ] Fill in the Summary and a short description of the changes that you would like to commit. Remember to encapsulate what the commit entails - is it to fix certain bugs, build certain features, or code commenting.
 
-![After documenting the details of the changes, commit the changes to a new branch and start a Pull Request](<../../.gitbook/assets/image (12).png>)
+![After documenting the details of the changes, commit the changes to a new branch and start a Pull Request](<../../.gitbook/assets/image (9) (1).png>)
 
 * [ ] In order to commit a snapshot of the saved files (in this case, `script.js` and `index.html)`, there are two ways to achieve this:\
   \

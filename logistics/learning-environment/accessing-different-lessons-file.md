@@ -19,7 +19,7 @@ As the course will be run completely on CodeSandBox, all the necessary files tha
 
 * [ ] Should there be a pre-class and in-class section (Starting from Day 2), you can toggle between the different class modes.
 
-![Click on pre-class or in-class](<../../.gitbook/assets/image (10).png>)
+![Click on pre-class or in-class](<../../.gitbook/assets/image (9).png>)
 
 * [ ] Do ensure that you are in the correct folder. The course structure will always be the Course Day (e.g. `day02-if-statements...`) followed by the `pre-class` and the `in-class`. Click on the day that you are working on and choose the correct folder
 

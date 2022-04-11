@@ -8,8 +8,8 @@
 [2.3-functions](2.3-functions/)
 {% endcontent-ref %}
 
-{% content-ref url="4.2-our-first-program.md" %}
-[4.2-our-first-program.md](4.2-our-first-program.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="2.4-errors.md" %}

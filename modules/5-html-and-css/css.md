@@ -254,10 +254,6 @@ Look for the code from `<body>` onwards, and notice that some HTML elements have
 
 The code within `<script>` tags reference some of these HTML elements, and define the logic that has been associating the Submit button and input/output fields to the main function. We will soon take a closer look at the syntax and concepts that make this work.
 
-### If you skipped to the end
-
-Here's the video that demonstrates a quick way to change the colors on your page.&#x20;
-
 ## Exercise
 
 1. <mark style="color:red;background-color:yellow;">Be creative!</mark> <mark style="color:blue;">Explore!</mark> <mark style="color:blue;background-color:red;">Express yourself!</mark>

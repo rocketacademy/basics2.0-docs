@@ -16,17 +16,16 @@ See an example of all problems [**here**](https://rocketacademy.github.io/basics
 
 Before you begin, check that you and your partner can answer the following:
 
-- [ ] Why use global variables?
-- [ ] What is the difference between global and local variables?
-- [ ] Can a global variable be accessed or manipulated within a function?
-- [ ] Can a variable declared in `main` be accessed or manipulated in a different helper function?
+* [ ] Why use global variables?
+* [ ] What is the difference between global and local variables?
+* [ ] Can a global variable be accessed or manipulated within a function?
+* [ ] Can a variable declared in `main` be accessed or manipulated in a different helper function?
 
 ## Base
 
 {% tabs %}
 {% tab title="Secret Word" %}
-
-### Secret Word
+#### Secret Word
 
 Create a game where a player must correctly guess secret words to win.
 
@@ -36,13 +35,13 @@ To win the game the player must guess correctly **twice** in **total;** but is a
 
 For each guess, output all information such as the guessed word, the secret word, and how many correct guesses the player still needs until she wins.
 
-## Comfortable
+### Comfortable
 
-### Secret Word Twice in a Row
+#### Secret Word Twice in a Row
 
 Update Secret Word with an additional rule: The player must guess correctly twice _in a row_ to win.
 
-### Secret Word X in a Row
+#### Secret Word X in a Row
 
 Update Secret Word game such that the number of times the player needs to guess correctly in a row changes between rounds.
 
@@ -52,29 +51,28 @@ When the player wins, the computer updates the number of times the player needs 
 
 Consider using [input control ](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.3-boolean-and-not.md#code-control)to test your logic.
 
-## More Comfortable
+### More Comfortable
 
-### Secret Word Twice in a Row 2
+#### Secret Word Twice in a Row 2
 
 Update Secret Word with the following additional rules.
 
 1. The player must guess correctly twice in a row to win
 2. Secret words cannot be repeated 2 guesses in a row. E.g. the secret word cannot be "banana" for 2 player guesses in a row. If the secret word for the 1st guess were "banana", the secret word for the 2nd guess would have to be either "chisel" or "faucet".
-   {% endtab %}
+{% endtab %}
 
 {% tab title="Dice" %}
-
-### Dice Within
+#### Dice Within
 
 Create a new version of our Coding Basics dice game (where the player guesses the dice roll) that randomly becomes easier or harder. At the beginning of the game and each time the player wins, the computer selects a random number from 1 to 3, which we call the "within number". If any of the player's guesses fall within the dice roll plus or minus the within number, the player wins.
 
 For example: the app randomly chooses 3 as the within number. The player can guess within 3 of the dice roll to win the game. The player guesses 2 and the dice roll is 5. The guess is within 3 of the dice roll so the player wins the game. At this point, the computer adjusts the difficulty of the game by choosing a new within number.
 
-### Dice Within with 2 Dice
+#### Dice Within with 2 Dice
 
 Update our dice game to include an additional dice. With each player guess, the computer rolls 2 dice. If the player guess is within either of the 2 dice rolls plus or minus the within number, the player wins.
 
-### Dice 4D
+#### Dice 4D
 
 Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control ](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.3-boolean-and-not.md#code-control)to verify our 4D game logic, that it is possible to win this 4D game.
 {% endtab %}

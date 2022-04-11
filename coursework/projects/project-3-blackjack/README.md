@@ -26,34 +26,31 @@ Take a look at some past project as references, and student-voted most-creative 
 
 {% tabs %}
 {% tab title="General" %}
-
-- [Base](https://rocketacademy.github.io/basics-blackjack/)
-- [Comfortable 1](https://awongh.github.io/basics-blackjack/index.html)
-- [Comfortable 2](https://eggcodes.github.io/basics-blackjack/)
-- [Super Comfortable](https://lim-jiahao.github.io/basics-blackjack/)
-  {% endtab %}
+* [Base](https://rocketacademy.github.io/basics-blackjack/)
+* [Comfortable 1](https://awongh.github.io/basics-blackjack/index.html)
+* [Comfortable 2](https://eggcodes.github.io/basics-blackjack/)
+* [Super Comfortable](https://lim-jiahao.github.io/basics-blackjack/)
+{% endtab %}
 
 {% tab title="Basics 11" %}
-
-- [Wall St. Casino](https://supershazwi.github.io/basics-blackjack/)
-- [MCU BlackJack](https://aqifsariman.github.io/basics-blackjack/)
-- [BlackJack 99](https://liztanyl.github.io/basics-blackjack/)
-- [Kawaii BlackJack](https://yingdan7.github.io/basics-blackjack/)
-- [Real Cards™ BlackJack](https://waynerbee.github.io/basics-blackjack/)
-- [SouthPark Casino](https://ahshawngoh.github.io/basics-blackjack/)
-- [Edwin's Casino](https://edwinyxt.github.io/basics-blackjack/)
-- [Cheok's Lounge](https://cheoklate.github.io/basics-blackjack/)
-- ### [来玩·万辣](https://sherman168.github.io/basics-blackjack/)
-  {% endtab %}
+* [Wall St. Casino](https://supershazwi.github.io/basics-blackjack/)
+* [MCU BlackJack](https://aqifsariman.github.io/basics-blackjack/)
+* [BlackJack 99](https://liztanyl.github.io/basics-blackjack/)
+* [Kawaii BlackJack](https://yingdan7.github.io/basics-blackjack/)
+* [Real Cards™ BlackJack](https://waynerbee.github.io/basics-blackjack/)
+* [SouthPark Casino](https://ahshawngoh.github.io/basics-blackjack/)
+* [Edwin's Casino](https://edwinyxt.github.io/basics-blackjack/)
+* [Cheok's Lounge](https://cheoklate.github.io/basics-blackjack/)
+* #### [来玩·万辣](https://sherman168.github.io/basics-blackjack/)
+{% endtab %}
 
 {% tab title="Basics 10" %}
-
-- [SouthPark Casino](https://averygan.github.io/basics-blackjack/)
-- [Cat-sino](https://thereselyr.github.io/basics-blackjack/)
-- [Simple and Green](https://liangtcode.github.io/basics-blackjack/)
-- [90's Night](https://yap83.github.io/basics-blackjack/)
-  {% endtab %}
-  {% endtabs %}
+* [SouthPark Casino](https://averygan.github.io/basics-blackjack/)
+* [Cat-sino](https://thereselyr.github.io/basics-blackjack/)
+* [Simple and Green](https://liangtcode.github.io/basics-blackjack/)
+* [90's Night](https://yap83.github.io/basics-blackjack/)
+{% endtab %}
+{% endtabs %}
 
 ## Base
 
@@ -88,64 +85,57 @@ If you already have an effective strategy for creating your game, you can skip a
 
 {% tabs %}
 {% tab title="First Version" %}
-
-#### First Version: Compare Initial Hands to Determine Winner
+**First Version: Compare Initial Hands to Determine Winner**
 
 1. Aim for a playable game. The essence of blackjack requires:
    1. Two players - a player and a dealer _(computer)._
    2. A deck of cards.
    3. A starting hand of 2 cards for each player.
    4. Comparing both hands and determining a winner. The possible scenarios are:
-      - A tie. When both the player and dealer have the same total hand values - or if both draw Blackjack
-      - A Blackjack win. When either player or dealer draw Blackjack.
-      - A normal win. When neither draw Blackjack, the winner is decided by whomever has the higher hand total.
-2. Return appropriate messages. For example:
+      * A tie. When both the player and dealer have the same total hand values - or if both draw Blackjack
+      * A Blackjack win. When either player or dealer draw Blackjack.
+      * A normal win. When neither draw Blackjack, the winner is decided by whomever has the higher hand total.
+2.  Return appropriate messages. For example:
 
-   ```markdown
-   Player hand: Ace of Hearts, King of Spades
-   Dealer hand: 8 of Clubs, 8 of Spades
-   Player wins by black jack!
-   ```
-
+    ```markdown
+    Player hand: Ace of Hearts, King of Spades
+    Dealer hand: 8 of Clubs, 8 of Spades
+    Player wins by black jack!
+    ```
 3. Test your code.
-   {% endtab %}
+{% endtab %}
 
 {% tab title="Second Version" %}
-
-#### Second Version: Add Player Hit or Stand
+**Second Version: Add Player Hit or Stand**
 
 1. The player hitting or standing is different from the dealer hitting or standing. The rules state that the dealer hits or stands after all players are done, so let's work on the players hitting or standing first.
 2. The player hitting or standing is a new mode in the game that allows the player to enter their choice. Add the logic for when the player busts _(has a total score of >21)_.
 3. Refactor your logic to wait until the player is done to evaluate the game-winning condition.
-   - The player should not immediately lose if he busts - there is a possibility he will tie with the dealer if the dealer also busts.
+   * The player should not immediately lose if he busts - there is a possibility he will tie with the dealer if the dealer also busts.
 4. Test your code.
-   {% endtab %}
+{% endtab %}
 
 {% tab title="Third Version" %}
-
-#### Third Version: Add Dealer Hit or Stand
+**Third Version: Add Dealer Hit or Stand**
 
 1. The rules state that the dealer hits after the player is done. After the player confirms they are done, add the logic for the dealer adding cards to their hand. This should happen before the winning condition.
 2. Test your code.
-   {% endtab %}
+{% endtab %}
 
 {% tab title="Fourth Version" %}
-
-#### Fourth Version: Add Variable Ace Values
+**Fourth Version: Add Variable Ace Values**
 
 1. Add logic to determine whether Aces should have value of 1 or 11 for a given hand.
+   *   For example, if a player draws cards in the following order:
 
-   - For example, if a player draws cards in the following order:
+       1. "Ace" and "2" _(total 13)_
+       2. "4" _(total 17)_
+       3. "Ace". _(total 18)_
 
-     1. "Ace" and "2" _(total 13)_
-     2. "4" _(total 17)_
-     3. "Ace". _(total 18)_
-
-     The total hand value should be 18, as only ONE of the aces will be counted as 11.
-
+       The total hand value should be 18, as only ONE of the aces will be counted as 11.
 2. Test your code.
-   {% endtab %}
-   {% endtabs %}
+{% endtab %}
+{% endtabs %}
 
 ## Walkthrough
 
@@ -165,8 +155,7 @@ Improve the look and feel of your game - if you did not attempt the Comfortable 
 
 {% tabs %}
 {% tab title="Starting Instructions" %}
-
-#### Starting Instructions
+**Starting Instructions**
 
 Add instructions on how to start the game by editing the `index.html`.\
 \
@@ -178,36 +167,31 @@ Simply add your instructions into [line 134](https://github.com/rocketacademy/ba
 </div>
 ```
 
-####
 
 {% endtab %}
 
 {% tab title="User Instructions" %}
-
-#### User Instructions
+**User Instructions**
 
 Make the game intuitive and fun to use by adding explicit instructions for each step of the game. "_Wow, you're at 14 right now! Do you want to hit or stand? Type h for hit or s for stand._"
 {% endtab %}
 
 {% tab title="Emoji" %}
-
-#### Emoji
+**Emoji**
 
 Use emoji for the card suits ♣️♠️♦️♥️and for the card names 2️⃣. Use more emoji in your game instructions and results. Get creative!
 {% endtab %}
 
 {% tab title="Colors" %}
+**Colors**
 
-#### Colors
-
-Set your own custom colors in the CSS. Find the color values in `index.html` and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
+Set your own custom colors in the CSS. Find the color values in `index.html` and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors\_picker.asp](https://www.w3schools.com/colors/colors\_picker.asp)
 
 Find matching color sets using this design tool: [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
 {% endtab %}
 
 {% tab title="Images" %}
-
-#### Images
+**Images**
 
 You can add images to your game by including an HTML image tag in `myOutputValue`.
 
@@ -222,7 +206,7 @@ Image variable template: Fill in the `COPIED_URL_OF_IMAGE` with any image URL yo
 var myImage = '<img src="COPIED_URL_OF_IMAGE"/>';
 ```
 
-#### Using images
+**Using images**
 
 1. Go to a site like [tenor.com](https://tenor.com) for gifs (although _any_ website with images will work)
 2. Right-click on an image and copy the url by selecting "Copy Image Address".
@@ -230,7 +214,7 @@ var myImage = '<img src="COPIED_URL_OF_IMAGE"/>';
 
 ![How to Copy a website Image Address](../../../.gitbook/assets/gif-url-copy.png)
 
-#### Using your own images
+**Using your own images**
 
 Place an image file in your Git repository. Commit the image file and push your image to your GitHub repository.
 
@@ -247,15 +231,13 @@ Image variable template: Fill in the `COPIED_RELATIVE_IMAGE_PATH` with the image
 var myImage = '<img src="/COPIED_RELATIVE_IMAGE_PATH"/>';
 ```
 
-####
 
 {% endtab %}
 
 {% tab title="Fonts" %}
+**Fonts**
 
-#### Fonts
-
-Set your own custom fonts: [https://www.w3schools.com/css/css_font_google.asp](https://www.w3schools.com/css/css_font_google.asp)
+Set your own custom fonts: [https://www.w3schools.com/css/css\_font\_google.asp](https://www.w3schools.com/css/css\_font\_google.asp)
 {% endtab %}
 {% endtabs %}
 
@@ -263,42 +245,39 @@ Set your own custom fonts: [https://www.w3schools.com/css/css_font_google.asp](h
 
 {% tabs %}
 {% tab title="Hide First Card" %}
-
-### Hide Dealer's First Card
+#### Hide Dealer's First Card
 
 In most casinos, all cards are face-up except the dealer's first card. This injects a dimension of strategy into the game, as the player does not have perfect information to begin with. Edit your game logic such that the player is only told one of the dealer's first two cards.
 {% endtab %}
 
 {% tab title="Game Logic" %}
-
-### Additional Game Logic
+#### Additional Game Logic
 
 Try adding one or more additional game features _(you can also have different versions with different features if implementing all features in one version is too complicated)_:
 
-#### Betting
+**Betting**
 
 The player starts with 100 points. Each round the player wagers a number of points before their hand is dealt. Keep track of the player's points throughout the game.
 
-#### Multiplayer
+**Multiplayer**
 
 Enable multiple players to play against the dealer, where players can take turns. The game hides and shows relevant hand according to the turn.
 
-#### Splits
+**Splits**
 
-Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](<https://en.wikipedia.org/wiki/Aces_and_eights_(blackjack)#Splitting>). Dealer is not allowed to split.
+Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces\_and\_eights\_\(blackjack\)#Splitting). Dealer is not allowed to split.
 {% endtab %}
 
 {% tab title="HTML Elements" %}
-
-### Additional HTML Elements
+#### Additional HTML Elements
 
 Add additional buttons via editing the HTML, and use [DOM manipulation](../../../modules/6-document-object-model/6.2-dom-manipulation.md) to link your program logic to the buttons. You can consider:
 
-- a 'Hit' button
-- a 'Stand' button
-- Making elements appear / disappear based on the game state.
-  {% endtab %}
-  {% endtabs %}
+* a 'Hit' button
+* a 'Stand' button
+* Making elements appear / disappear based on the game state.
+{% endtab %}
+{% endtabs %}
 
 ## Submit
 

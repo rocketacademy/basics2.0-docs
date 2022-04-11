@@ -47,7 +47,7 @@
 **Module 2: Structuring and Debugging Code:**
 
 * [2.1 Pseudo Coding](../../modules/2-structuring-and-debugging-code/2.1-pseudo-coding.md)
-* [2.2 Our First Program](../../modules/2-structuring-and-debugging-code/4.2-our-first-program.md)
+* [2.2 Our First Program](broken-reference)
 * [2.3.1 Functions I](../../modules/2-structuring-and-debugging-code/2.3-functions/2.3.1-functions.md)
 
 ### In Class

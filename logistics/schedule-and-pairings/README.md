@@ -123,7 +123,7 @@ Please **do not** attempt in-class material before class for all course days, so
 ### In Class
 
 * [Loops](../../coursework/in-class-exercises/day-4-loops.md)
-* [Redux: Scissors Paper Stone](../../coursework/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md) (30min)
+* [Redux: Scissors Paper Stone ](../../coursework/projects/project-1-scissors-paper-stone/day-5-scissors-paper-stone-redux.md)(30min)
 
 ## Course Day 5 <a href="#course-day-5" id="course-day-5"></a>
 

@@ -26,16 +26,12 @@
 ### In Class
 
 * Opening Brief
-* Look ahead: Deliverables for Day 1**:**
-  * ****[Required Hardware and Software](../required-hardware-software-and-accounts/)
+* Look ahead: **Deliverables for Day 1**
+  * [Required Hardware and Software](../required-hardware-software-and-accounts/)
   * [Pre-Class Material](./#pre-class)
 * Section Introductions and Icebreakers
 
 ## Course Day 1 <a href="#course-day-1" id="course-day-1"></a>
-
-{% embed url="https://youtu.be/H1pFo4QfdUc" %}
-
-{% embed url="https://youtu.be/iJ6E5eIfMwQ" %}
 
 ### Pre Class
 
@@ -47,7 +43,7 @@
 **Module 2: Structuring and Debugging Code:**
 
 * [2.1 Pseudo Coding](../../modules/2-structuring-and-debugging-code/2.1-pseudo-coding.md)
-* [2.2 Our First Program](broken-reference)
+* [2.2 Our First Program](broken-reference/)
 * [2.3.1 Functions I](../../modules/2-structuring-and-debugging-code/2.3-functions/2.3.1-functions.md)
 
 ### In Class
@@ -69,13 +65,13 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 3: Logic and Control Flow**
 
-* [3.1 Intro to Logic and Control Flow](../../modules/3-logic-and-control-flow/3.1-intro-to-control-flow/)
+* [3.1 Intro to Logic and Control Flow](../../modules/3-logic-and-control-flow/3.1-intro-to-control-flow)
   * [3.1.1 Control Flow Diagrams](../../modules/3-logic-and-control-flow/3.1-intro-to-control-flow/3.1.1-control-flow-diagrams.md)
-* [3.2 Conditionals](../../modules/3-logic-and-control-flow/3.2-conditionals/)
+* [3.2 Conditionals](../../modules/3-logic-and-control-flow/3.2-conditionals)
   * [3.2.1 If, Else, Else If](../../modules/3-logic-and-control-flow/3.2-conditionals/3.2.1-if-else-else-if.md)
   * [3.2.2 Equality and Inequality](../../modules/3-logic-and-control-flow/3.2-conditionals/3.2.2-equality-and-inequality.md)
   * [3.2.3 Strict Equality](../../modules/3-logic-and-control-flow/3.2-conditionals/3.2.3-strict-equality.md)
-* [3.3 Boolean Operators](../../modules/3-logic-and-control-flow/3.3-boolean-operators/)
+* [3.3 Boolean Operators](../../modules/3-logic-and-control-flow/3.3-boolean-operators)
   * [3.3.1 Boolean OR](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.1-boolean-or.md)
   * [3.3.2 Boolean AND, NOT](../../modules/3-logic-and-control-flow/3.3-boolean-operators/3.3.3-boolean-and-not.md)
 
@@ -83,12 +79,10 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [If Statements, Boolean Operators](../../coursework/in-class-exercises/day-2-if-statements-boolean-operations.md)
 
-### Project Start: Scissors Paper Stone&#x20;
+### Project Start: Scissors Paper Stone
 
 * [Coding Strategies: Getting Started](../tips-and-tricks/coding-strategies.md#getting-started-how-to-break-a-problem-down)
 * [Project 1: Scissors Paper Stone (Part 1)](../../coursework/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
-
-
 
 ## Course Day 3 <a href="#course-day-3" id="course-day-3"></a>
 
@@ -104,7 +98,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Program State](../../coursework/in-class-exercises/day-3-boolean-and-program-state.md)
 
-### Project Continuation: Scissors Paper Stone&#x20;
+### Project Continuation: Scissors Paper Stone
 
 * [Project 1: Scissors Paper Stone (Part 2)](../../coursework/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
@@ -114,7 +108,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 3: Control Flow**
 
-* [3.4 Loops](../../modules/3-logic-and-control-flow/3.4-loops/)
+* [3.4 Loops](../../modules/3-logic-and-control-flow/3.4-loops)
   * [3.4.1 While-loops](../../modules/3-logic-and-control-flow/3.4-loops/3.4.1-while-loops.md)
   * [3.4.2 For-loops](../../modules/3-logic-and-control-flow/3.4-loops/3.4.2-for-loops.md)
 
@@ -160,7 +154,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ### In Class
 
-* [Pairwork: _Beat That!_](../../coursework/projects/project-2-beat-that/)__
+* [Pairwork: _Beat That!_](../../coursework/projects/project-2-beat-that/)\_\_
 
 ## Course Day 7 <a href="#course-day-7" id="course-day-7"></a>
 
@@ -215,7 +209,7 @@ Please **do not** attempt in-class material before class for all course days, so
 * [Redux: Blackjack](../../coursework/projects/project-3-blackjack/)
 * [Pairwork: Blackjack (More Comfortable)](../../coursework/projects/project-3-blackjack/#more-comfortable)
 
-### &#x20;Project Continuation: Blackjack (More Comfortable)
+### Project Continuation: Blackjack (More Comfortable)
 
 * [Project 3: Blackjack](../../coursework/projects/project-3-blackjack/#more-comfortable)
 

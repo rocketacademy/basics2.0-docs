@@ -47,7 +47,7 @@ Sometimes the user types something other than "scissors", "paper", or "stone" du
 
 {% tabs %}
 {% tab title="Formatting" %}
-### Formatting
+#### Formatting
 
 Make the output of your game look nice. You can use string `'<br>'` to create [new lines](https://www.w3schools.com/TAGS/tag\_br.asp) in the output. Your output might look something like this:
 
@@ -62,11 +62,11 @@ Now you can type "scissors" "paper" or "stone" to play another round!
 {% endtab %}
 
 {% tab title="Reverse Game" %}
-### Reverse Game
+#### Reverse Game
 
-You decide to prank your friends and create an SPS game where the rules are reversed: `scissors beat stone, stone beats paper, and paper beats scissors.`&#x20;
+You decide to prank your friends and create an SPS game where the rules are reversed: `scissors beat stone, stone beats paper, and paper beats scissors.`
 
-Create a version where the rules are reversed. The user can choose to try their luck at reversed mode by adding the word "reversed" to their choice.&#x20;
+Create a version where the rules are reversed. The user can choose to try their luck at reversed mode by adding the word "reversed" to their choice.
 
 For example: "reversed stone".
 {% endtab %}

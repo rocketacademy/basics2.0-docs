@@ -6,7 +6,7 @@ Today we will practise JavaScript Objects. Choose one of the two exercises, _Moa
 
 {% tabs %}
 {% tab title="Moar Cards" %}
-#### Base
+**Base**
 
 Feel free to copy the card deck generation function from [9.2: Card Deck Generation](../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md#card-deck-generation-code) and the card shuffling functions from [9.1: JavaScript Objects](../../modules/1-data-types-structures-and-manipulations/1.4-objects.md#card-shuffling) into your `script.js` file.
 
@@ -43,7 +43,7 @@ Player 2 drew:
 Player 2 wins!
 ```
 
-#### More Comfortable
+**More Comfortable**
 
 **Low Card with Wild Card**
 
@@ -65,7 +65,7 @@ Allow the player to wager points on each round. Add a new mode for the beginning
 
 Update the previous game logic such that if any player gets a pair in their hand, they win.
 
-####
+
 {% endtab %}
 
 {% tab title="Chat Bot" %}
@@ -110,7 +110,7 @@ We can retrieve the relevant chat bot response by using user input to access the
 var responseText = answersAndResponses[input];
 ```
 
-#### Base
+**Base**
 
 **Single Chat Bot Answer Set**
 
@@ -205,7 +205,7 @@ User: 63
 Bot: What a wise age, Kai! Hey, wow you seem happy today! Have you been coding? (yes/no/maybe).
 ```
 
-#### More Comfortable
+**More Comfortable**
 
 **Chat Bot Named Answer Sets**
 

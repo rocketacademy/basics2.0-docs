@@ -21,19 +21,19 @@ Take a look at past projects by previous Basics students to visualise how the fu
 
 {% tabs %}
 {% tab title="Win-Loss Record" %}
-### Win-Loss Record
+#### Win-Loss Record
 
 Add [state](../../../modules/4-scope/4.2-global-variables.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
 {% endtab %}
 
 {% tab title="User Name" %}
-### User Name
+#### User Name
 
 To make this game more personal, add a feature to collect the user's name as the first input after the page loads. We can prompt the user to enter their name first by adding to the page's HTML. Once the user submits their name, the program can return output to prompt the user to start playing Scissors Paper Stone by entering one of the 3 objects. Use the user's name to personalise win-loss record and other relevant output.
 {% endtab %}
 
 {% tab title="Formatting" %}
-### Formatting
+#### Formatting
 
 Make the output of your game look nice. You can use the string `'<br>'` to create [new lines](https://www.w3schools.com/TAGS/tag\_br.asp) in the output. Add the user name and the win/loss record. Format a message depending on how well the player is doing:
 
@@ -54,13 +54,13 @@ There is no need to implement all the different features sequentially in one ver
 
 {% tabs %}
 {% tab title="Reverse Game Mode" %}
-### Reverse Game Mode
+#### Reverse Game Mode
 
 You decide to prank your friends and create an SPS game mode where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create _**a game mode**_ where if a user types in "reverse", it reverses the SPS rules.
 {% endtab %}
 
 {% tab title="Muk-jji-ppa" %}
-### Korean Scissors Paper Stone
+#### Korean Scissors Paper Stone
 
 The following is adapted from [Wikipedia](https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Adapted\_rules):
 
@@ -70,19 +70,19 @@ Update your program state such that it can keep track of the most recent winner,
 {% endtab %}
 
 {% tab title="Select Versions" %}
-### Versions
+#### Versions
 
 Allow the player to select if they want to play normal or Korean versions of the game.
 {% endtab %}
 
 {% tab title="AI vs AI" %}
-### Computer vs. Computer
+#### Computer vs. Computer
 
 Add a mode that lets the computer choose for you on each turn.
 {% endtab %}
 
 {% tab title="Further" %}
-### Further Variations
+#### Further Variations
 
 Implement other variations to the game as described [here](https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Variations). The user can select which variation they would like to play.
 {% endtab %}

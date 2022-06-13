@@ -2,7 +2,7 @@
 description: To partake in RA's courses, we will need the following hardware and software.
 ---
 
-# 💻 Required Hardware, Software and Accounts
+# 💻 Required Software and Setup
 
 ## Required Hardware
 
@@ -12,10 +12,6 @@ description: To partake in RA's courses, we will need the following hardware and
 
 {% content-ref url="required-software.md" %}
 [required-software.md](required-software.md)
-{% endcontent-ref %}
-
-{% content-ref url="required-software-accounts.md" %}
-[required-software-accounts.md](required-software-accounts.md)
 {% endcontent-ref %}
 
 {% content-ref url="../learning-environment/initial-setup.md" %}

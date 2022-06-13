@@ -8,8 +8,8 @@ See an example of all problems [**here**](https://rocketacademy.github.io/basics
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
-{% content-ref url="../../logistics/learning-environment/pair-programming-instructions.md" %}
-[pair-programming-instructions.md](../../logistics/learning-environment/pair-programming-instructions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Knowledge Check
@@ -49,7 +49,7 @@ Please use the `||` operator.
 
 {% tabs %}
 {% tab title="4D" %}
-#### 4D with Single-Digit Comparison
+**4D with Single-Digit Comparison**
 
 [4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. Rocket Academy does not endorse gambling.
 
@@ -57,19 +57,19 @@ Create a version of 4D where the player wins if their guess matches **any** of t
 
 In addition to the win/loss result, output the player guess and all randomly-generated digits so the player can see how close they were.
 
-#### 4D with Winning Range
+**4D with Winning Range**
 
 Create a version of 4D where the player wins if they guess within 1000 (above or below) of the winning 4-digit number. Consider using comparison operators such as less than (`<`) and greater than (`>`).
 {% endtab %}
 
 {% tab title="Hawker Food" %}
-#### Hawker Food Randomness
+**Hawker Food Randomness**
 
 The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish to each customer. The dishes in his repertoire are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa". Customers that correctly guess Uncle's dish receive a free meal.
 
 Create an app that uses random numbers to help Uncle decide which dish to cook. The customer can only input dish names. If the customer correctly guesses Uncle's dish, let her know that she gets a free meal!
 
-#### Hawker Food Omakase
+**Hawker Food Omakase**
 
 {% hint style="danger" %}
 Hawker Food Omakase is hard! It took Kai about 45 minutes to create the reference solution.

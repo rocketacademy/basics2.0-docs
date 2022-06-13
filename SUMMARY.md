@@ -17,7 +17,6 @@
 * [📓 Learning Environment](logistics/learning-environment/README.md)
   * [⏹ Initial Setup](logistics/learning-environment/initial-setup.md)
   * [🔎 Accessing Different Lessons File](logistics/learning-environment/accessing-different-lessons-file.md)
-  * [🧑🤝🧑 🧑🤝🧑 🧑🤝🧑 Pair Programming Instructions](logistics/learning-environment/pair-programming-instructions.md)
   * [📤 Committing Code Changes](logistics/learning-environment/committing-code-changes.md)
   * [🔍 Code Review](logistics/learning-environment/code-review.md)
   * [💼 Submitting Your Work](logistics/learning-environment/submitting-your-work.md)

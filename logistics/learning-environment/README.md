@@ -10,10 +10,10 @@ We use [CodeSandbox](https://codesandbox.io) in our Basics course for three reas
 
 > Pair programming consists of two programmers sharing a single workstation (one screen, keyboard and mouse among the pair). The programmer at the keyboard is usually called the “driver”, the other, also actively involved in the programming task but focusing more on overall direction is the “navigator”; it is expected that the programmers swap roles every few minutes or so.
 >
-> __[_AgileAlliance_](https://www.agilealliance.org/glossary/pairing/#q=\~\(infinite\~false\~filters\~\(postType\~\(\~'page\~'post\~'aa\_book\~'aa\_event\_session\~'aa\_experience\_report\~'aa\_glossary\~'aa\_research\_paper\~'aa\_video\)\~tags\~\(\~'pair\*20programming\)\)\~searchTerm\~'\~sort\~false\~sortDirection\~'asc\~page\~1\))__
+> [_**AgileAlliance**_](https://www.agilealliance.org/glossary/pairing/#q=\~\(infinite\~false\~filters\~\(postType\~\(\~'page\~'post\~'aa\_book\~'aa\_event\_session\~'aa\_experience\_report\~'aa\_glossary\~'aa\_research\_paper\~'aa\_video\)\~tags\~\(\~'pair\*20programming\)\)\~searchTerm\~'\~sort\~false\~sortDirection\~'asc\~page\~1\))
 
-{% content-ref url="pair-programming-instructions.md" %}
-[pair-programming-instructions.md](pair-programming-instructions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 2\. **Allows for Code Review** - Our Section Leaders (SL) will review your code commits on Github and give you feedback on your code quality and organisation of thought. Using CodeSandbox abstracts away the complexity of committing and pushing code onto GitHub via a Command-line Interface (CLI), thus reducing friction to learn!

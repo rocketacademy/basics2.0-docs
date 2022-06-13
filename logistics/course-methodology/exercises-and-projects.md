@@ -4,7 +4,7 @@
 
 Coding Basics is conceptually designed to have a **"low floor, high ceiling".** The intent is to keep the course accessible to most students, while students with a stronger background, aptitude or spare time are able and allowed to stretch their wings.
 
-Exercises and projects are designed with this in mind, and the core curriculum is seeded with links to auxiliary reading or material that will be covered later in the course. Every module is also accompanied by a list of Additional Resources.&#x20;
+Exercises and projects are designed with this in mind, and the core curriculum is seeded with links to auxiliary reading or material that will be covered later in the course. Every module is also accompanied by a list of Additional Resources.
 
 Students are not expected to read every resource, complete every exercise, or perfect every project in Coding Basics.
 
@@ -22,11 +22,11 @@ Everything in the Base section must be completed to minimally understand relevan
 
 #### Comfortable
 
-The comfortable section usually involves core concepts in a challenging or new way. Students are encouraged to attempt the Comfortable sections, _once they are feeling comfortable._&#x20;
+The comfortable section usually involves core concepts in a challenging or new way. Students are encouraged to attempt the Comfortable sections, _once they are feeling comfortable._
 
 #### More Comfortable
 
-The More Comfortable section is for students that wish to push their boundaries. Often times this section requires learning outside of concepts taught thus far. Students can complete Coding Basics without touching More Comfortable.&#x20;
+The More Comfortable section is for students that wish to push their boundaries. Often times this section requires learning outside of concepts taught thus far. Students can complete Coding Basics without touching More Comfortable.
 
 ## Project Presentations
 
@@ -48,8 +48,8 @@ On days when projects are due, we will review each others' code in groups of 2 o
 
 You may follow the instructions here:
 
-{% content-ref url="../learning-environment/pair-programming-instructions.md" %}
-[pair-programming-instructions.md](../learning-environment/pair-programming-instructions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 #### 2) Run Partner's Code

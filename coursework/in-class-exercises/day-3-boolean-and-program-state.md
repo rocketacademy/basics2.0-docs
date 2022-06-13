@@ -8,8 +8,8 @@ See an example of all problems [**here**](https://rocketacademy.github.io/basics
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
-{% content-ref url="../../logistics/learning-environment/pair-programming-instructions.md" %}
-[pair-programming-instructions.md](../../logistics/learning-environment/pair-programming-instructions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Knowledge Check

@@ -10,8 +10,8 @@ We will now put to use what we have learned so far. Before you attempt a problem
    2. How it can be implemented.
 3. Write or type, in plain English, the instructions you and your partner want your program to follow.
 
-{% content-ref url="../../logistics/learning-environment/pair-programming-instructions.md" %}
-[pair-programming-instructions.md](../../logistics/learning-environment/pair-programming-instructions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 For some problems, you may need to search the web for information. Remember that as pairs, you are also brainstorming together. **Please switch driver and navigator for each problem statement.**
@@ -24,17 +24,17 @@ If needed, use the **'ask Host for help'** function in Zoom. You may also find t
 
 Before you begin, check that you and your partner can answer the following:
 
-- [ ] Use mathematical operators _\*\*\*\*_ to perform mathematical operations in the console of your browser.
-- [ ] Describe what a variable is and how to assign it a value or expression.
-- [ ] Use the `var` **keyword** to declare a new JavaScript variable.
-- [ ] Explain how to achieve _accurate representation_ of your program with suitable variable names.
-- [ ] Use the camelCase naming convention for your JavaScript variable names.
-- [ ] Understand what a function is and why we use functions.
-- [ ] Declare and define a function as a block of code.
-- [ ] Understand how to pass input to a function.
-- [ ] Understand how to store the output of a function.
-- [ ] Understand the purpose of the return keyword.
-- [ ] Execute a function.
+* [ ] Use mathematical operators _\*\*\*\*_ to perform mathematical operations in the console of your browser.
+* [ ] Describe what a variable is and how to assign it a value or expression.
+* [ ] Use the `var` **keyword** to declare a new JavaScript variable.
+* [ ] Explain how to achieve _accurate representation_ of your program with suitable variable names.
+* [ ] Use the camelCase naming convention for your JavaScript variable names.
+* [ ] Understand what a function is and why we use functions.
+* [ ] Declare and define a function as a block of code.
+* [ ] Understand how to pass input to a function.
+* [ ] Understand how to store the output of a function.
+* [ ] Understand the purpose of the return keyword.
+* [ ] Execute a function.
 
 ## **Base**
 
@@ -54,7 +54,7 @@ The user will enter the length (**in km**) of a planned road trip in his brand n
 
 A new Ferrari is able to travel 9 miles/litre of fuel. Fuel costs $2.20/litre. Use the approach below to solve the problem.
 
-**Approach:**&#x20;
+**Approach:**
 
 1. Create a function that accepts distance (in km) as an input parameter and returns distance (in miles). Use the function in the `main` function to test if it works. (The answer is provided below)
 
@@ -87,7 +87,7 @@ var roadTripCostBaseMain = function (input) {
 
 ### **Road Trip Cost (Comfortable)**
 
-The user enjoyed his road trip so much that he decided to do another road trip again but he wishes to compare the cost of travelling via train against the cost of travelling via his Ferrari.&#x20;
+The user enjoyed his road trip so much that he decided to do another road trip again but he wishes to compare the cost of travelling via train against the cost of travelling via his Ferrari.
 
 The user will enter the length (**in km**) of the road trip. Write a program that outputs the savings in fuel cost (**in $**) of the road trip if he were to travel via train compared to using his Ferrari.
 
@@ -95,7 +95,7 @@ The Ferrari and train are both able to travel 9 miles/litre of fuel. Fuel for th
 
 **Approach:**
 
-1. Make a copy of the `calculateTotalFuelCost` function in the **Road Trip Cost (Base)** section and rename it `calculateTotalFuelCostForComfortable` to use it for **Road Trip Cost (Comfortable)**.&#x20;
+1. Make a copy of the `calculateTotalFuelCost` function in the **Road Trip Cost (Base)** section and rename it `calculateTotalFuelCostForComfortable` to use it for **Road Trip Cost (Comfortable)**.
 2. Change the logic in the `calculateTotalFuelCostForComfortable` function to accept cost per litre of fuel as a [2nd input parameter](../../modules/2-structuring-and-debugging-code/2.3-functions/2.3.2-functions-ii.md#introduction). Together with the `convertKmToMiles` function in **Road Trip Cost (Base),** write a program that outputs the total fuel cost of travelling **via train** if the user inputs length (**in km**) of the road trip. Use the format below:
 
 ```

@@ -8,13 +8,13 @@ Coding Basics applies a flipped-classroom model that consists of 2 components: *
 
 ### Self-Learning
 
-The goal of self-learning is for students to learn concepts **before** class, such that class time can be spent discussing those concepts. Students who do not complete the the pre-class readings and exercises before the live class may affect the experience for the rest of the Section, especially when it comes to [pair programming](course-components.md#pair-programming).&#x20;
+The goal of self-learning is for students to learn concepts **before** class, such that class time can be spent discussing those concepts. Students who do not complete the the pre-class readings and exercises before the live class may affect the experience for the rest of the Section, especially when it comes to [pair programming](course-components.md#pair-programming).
 
 It is recommended that you attempt to complete the pre-class work _at least_ a day before the scheduled live class, so that you can ask questions early in Slack.
 
 ### **Live Classes**
 
-The objective of live classes is to enable students to gain a better understanding of the concepts learnt during self-learning through instructor facilitated discussion and pair-programming exercises.&#x20;
+The objective of live classes is to enable students to gain a better understanding of the concepts learnt during self-learning through instructor facilitated discussion and pair-programming exercises.
 
 They will be held over Zoom.
 
@@ -37,4 +37,4 @@ Pair programming is commonly used for the following purposes:
 
 During Coding Basics, we will use pair programming to solidify our understanding of concepts by coding and explaining in front of each other. The majority of class time will be spent pair programming in designated pairs. Pairings change throughout the course, and are planned by Section Leaders.
 
-You can refer to [Pair Programming Instructions](../learning-environment/pair-programming-instructions.md) to see how this will be done virtually.
+You can refer to [Pair Programming Instructions](broken-reference) to see how this will be done virtually.

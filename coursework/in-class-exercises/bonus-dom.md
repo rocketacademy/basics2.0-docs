@@ -1,9 +1,9 @@
-# DOM
+# Bonus: DOM
 
 ## Setup
 
 1. Clone the [DOM starter code](https://github.com/rocketacademy/basics-next-steps-dom).
-2. Please refer to [10.2: Browser Applications with DOM](../../../modules/6-document-object-model/6.1-the-document-object-model.md) if you need a refresher.
+2. Please refer to [Module 6: Document Object Model](../../modules/6-document-object-model/) if you need a refresher.
 
 ## Base
 

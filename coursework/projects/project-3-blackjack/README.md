@@ -41,7 +41,7 @@ Take a look at some past project as references, and student-voted most-creative 
 * [SouthPark Casino](https://ahshawngoh.github.io/basics-blackjack/)
 * [Edwin's Casino](https://edwinyxt.github.io/basics-blackjack/)
 * [Cheok's Lounge](https://cheoklate.github.io/basics-blackjack/)
-* #### [来玩·万辣](https://sherman168.github.io/basics-blackjack/)
+* [**来玩·万辣**](https://sherman168.github.io/basics-blackjack/)
 {% endtab %}
 
 {% tab title="Basics 10" %}
@@ -139,7 +139,7 @@ If you already have an effective strategy for creating your game, you can skip a
 
 ## Walkthrough
 
-If you are still unsure how to start, or find yourself stuck for too long, Bryan can walk you through how to get to the Base solution. Please try to attempt the project once yourself before referencing the walkthrough, and do note that the video uses template code straight from [10.2: Card Deck Generation](../../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md). If you would like to follow along exactly, you can start with the [base code](https://github.com/rocketacademy/basics-blackjack/tree/walkthrough-base) used in the walkthrough.
+If you are still unsure how to start, or find yourself stuck for too long, Bryan can walk you through how to get to the Base solution. Please try to attempt the project once yourself before referencing the walkthrough, and do note that the video uses template code straight from [10.2: Card Deck Generation](../../../modules/3-logic-and-control-flow/3.7-creating-objects-with-loops.md). If you would like to follow along exactly, you can start with the [base code](https://github.com/rocketacademy/basics-blackjack/tree/walkthrough-base) used in the walkthrough.
 
 {% embed url="https://www.youtube.com/watch?v=SccCe9_qU2Q" %}
 Blackjack Base Walkthrough
@@ -166,8 +166,6 @@ Simply add your instructions into [line 134](https://github.com/rocketacademy/ba
   Welcome to Kai's Cards! Click the submit button to get started!
 </div>
 ```
-
-
 {% endtab %}
 
 {% tab title="User Instructions" %}
@@ -230,8 +228,6 @@ Image variable template: Fill in the `COPIED_RELATIVE_IMAGE_PATH` with the image
 ```javascript
 var myImage = '<img src="/COPIED_RELATIVE_IMAGE_PATH"/>';
 ```
-
-
 {% endtab %}
 
 {% tab title="Fonts" %}
@@ -245,13 +241,13 @@ Set your own custom fonts: [https://www.w3schools.com/css/css\_font\_google.asp]
 
 {% tabs %}
 {% tab title="Hide First Card" %}
-#### Hide Dealer's First Card
+**Hide Dealer's First Card**
 
 In most casinos, all cards are face-up except the dealer's first card. This injects a dimension of strategy into the game, as the player does not have perfect information to begin with. Edit your game logic such that the player is only told one of the dealer's first two cards.
 {% endtab %}
 
 {% tab title="Game Logic" %}
-#### Additional Game Logic
+**Additional Game Logic**
 
 Try adding one or more additional game features _(you can also have different versions with different features if implementing all features in one version is too complicated)_:
 
@@ -269,7 +265,7 @@ Add hand-splitting functionality to the game. If the player has two of the same 
 {% endtab %}
 
 {% tab title="HTML Elements" %}
-#### Additional HTML Elements
+**Additional HTML Elements**
 
 Add additional buttons via editing the HTML, and use [DOM manipulation](../../../modules/6-document-object-model/6.2-dom-manipulation.md) to link your program logic to the buttons. You can consider:
 

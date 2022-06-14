@@ -4,10 +4,6 @@
 
 ## Logistics
 
-* [🏫 Course Methodology](logistics/course-methodology/README.md)
-  * [🧩 Course Components](logistics/course-methodology/course-components.md)
-  * [💬 Slack](logistics/course-methodology/slack.md)
-  * [🎲 Exercises and Projects](logistics/course-methodology/exercises-and-projects.md)
 * [🗓 Schedule](logistics/schedule-and-pairings/README.md)
   * [📅 Batch 14 Schedule](logistics/schedule-and-pairings/batch-14-schedule.md)
 * [💻 Required Software and Setup](logistics/required-software-and-setup/README.md)
@@ -27,6 +23,10 @@
   * [🎓 LinkedIn Certificates](logistics/post-course/linkedin-certificates.md)
   * [🚂 Bootcamp Admission Criteria](logistics/post-course/bootcamp-admission-criteria.md)
   * [📹 Bootcamp Video Application](logistics/post-course/bootcamp-video-application.md)
+* [🏫 Course Methodology](logistics/course-methodology/README.md)
+  * [🧩 Course Components](logistics/course-methodology/course-components.md)
+  * [💬 Slack](logistics/course-methodology/slack.md)
+  * [🎲 Exercises and Projects](logistics/course-methodology/exercises-and-projects.md)
 
 ## Modules
 
@@ -63,8 +63,8 @@
     * [3.4.1: While-loops](modules/3-logic-and-control-flow/3.4-loops/3.4.1-while-loops.md)
     * [3.4.2: For-loops](modules/3-logic-and-control-flow/3.4-loops/3.4.2-for-loops.md)
   * [3.5: Looping over an Array](modules/3-logic-and-control-flow/3.5-looping-over-an-array.md)
-  * [3.6: Input Validation](modules/3-logic-and-control-flow/3.7-input-validation.md)
-  * [3.7: Creating Objects with Loops](modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md)
+  * [3.6: Input Validation](modules/3-logic-and-control-flow/3.6-input-validation.md)
+  * [3.7: Creating Objects with Loops](modules/3-logic-and-control-flow/3.7-creating-objects-with-loops.md)
   * [Additional Resources 3](modules/3-logic-and-control-flow/additional-resources-3.md)
 * [4: Scope](modules/4-scope/README.md)
   * [4.1: Intro to Scope and Access](modules/4-scope/4.1-intro-to-scope.md)

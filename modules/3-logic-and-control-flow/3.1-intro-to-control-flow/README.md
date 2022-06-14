@@ -9,23 +9,21 @@ By the end of this lesson, you should be able to:
 * [ ] Identify statements and operators we can use to manipulate control flow.
 * [ ] Know how logic is used to make programs more complex.
 
-{% embed url="https://www.youtube.com/watch?v=5Oz3bV-m78s" %}
-
 ## Introduction
 
 ### What is Control Flow?
 
 In programming, "[control flow](https://en.wikipedia.org/wiki/Control\_flow)" refers to the order functions and statements are executed in a computer program.
 
-Code is usually run sequentially from the first line in the file to the last line. However, certain structures such as [functions](../../2-structuring-and-debugging-code/2.3-functions/2.3.1-functions.md), [conditionals](../3.2-conditionals/) and [loops](../3.4-loops/3.4.1-while-loops.md) may alter this sequential flow, affecting the order of execution.
+Code is usually run sequentially from the first line in the file to the last line. However, certain structures such as [functions](../../2-structuring-and-debugging-code/2.3-functions/2.3.1-functions.md), [conditionals](../3.2-conditionals) and [loops](../3.4-loops/3.4.1-while-loops.md) may alter this sequential flow, affecting the order of execution.
 
 ### What is Logic?
 
 So far our apps have always performed the _same operations_, no matter the input. The next level of complexity is to create programs that perform _different_ operations, depending on the input.
 
-Programming logic is the ability of the computer to **make decisions** based on input data. \
+Programming logic is the ability of the computer to **make decisions** based on input data.\
 \
-We'll be using the JavaScript logic syntax, the `if, else if, else` conditions. \
+We'll be using the JavaScript logic syntax, the `if, else if, else` conditions.\
 This allows us selectively run different blocks of logic under different conditions.
 
 This can be used to test values that the users are typing in. Depending on what the user types, we can program different outputs to be displayed in the grey box.
@@ -97,4 +95,4 @@ var main = function (input) {
 };
 ```
 
-### ****
+### \*\*\*\*

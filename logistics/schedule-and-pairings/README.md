@@ -145,7 +145,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 3: Logic and Control Flow**
 
-* [3.6: Input Validation](../../modules/3-logic-and-control-flow/3.7-input-validation.md)
+* [3.6: Input Validation](../../modules/3-logic-and-control-flow/3.6-input-validation.md)
 
 **Module 5: HTML & CSS**
 
@@ -166,7 +166,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 **Module 3: Logic and Control Flow**
 
-* [3.7: Creating Objects with Loops](../../modules/3-logic-and-control-flow/3.6-creating-objects-with-loops.md)
+* [3.7: Creating Objects with Loops](../../modules/3-logic-and-control-flow/3.7-creating-objects-with-loops.md)
 
 ### Project Due: Beat That!
 

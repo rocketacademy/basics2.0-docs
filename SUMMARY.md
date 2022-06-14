@@ -10,7 +10,6 @@
   * [🎲 Exercises and Projects](logistics/course-methodology/exercises-and-projects.md)
 * [🗓 Schedule](logistics/schedule-and-pairings/README.md)
   * [📅 Batch 14 Schedule](logistics/schedule-and-pairings/batch-14-schedule.md)
-  * [📅 Batch 16 Schedule](logistics/schedule-and-pairings/batch-14-schedule-1.md)
 * [💻 Required Software and Setup](logistics/required-software-and-setup/README.md)
   * [👨🏫 Required Software - Coding](logistics/required-software-and-setup/required-software-accounts.md)
   * [💽 Required Software - Classroom](logistics/required-software-and-setup/required-software.md)

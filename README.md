@@ -1,10 +1,23 @@
 # 🚀 Course Overview
 
-## Welcome to Rocket Basics!
+## Welcome to Rocket Elements!
 
-[Coding Basics](https://rocketacademy.co/courses/basics) is Rocket Academy's introduction to programming and computational thinking.
+Rocket Elements is Rocket Academy's introductory course into software programming. You will delve the process of creating a fundamental block of the internet - a web page. Web development is... the quintessential blah blah...
 
-Basics will enable you to understand the logic of the fundamental syntax of any computing language through considering Web Development, the larger concept taught thoroughly by Rocket's [Software Engineering Bootcamp](https://rocketacademy.co/courses/bootcamp).
+You will
+
+Why are you here? Why write code? Writing code is not bound to one specific reason...
+
+* Work as a developer for a company
+  * Able to do what you love for a living and technology isn't going anywhere in the near future for sure; job security
+* Freelance or run your own business
+* Build your own product or SaaS (Software as a Service)
+  * &#x20;possibilities are endless... but of course a lot of work and marketing to create successful products
+* Create educational content
+* Code as a hobby
+  * Totally fine to build stuff for yourself and you end
+
+Through Basics will enable you to understand the logic of the fundamental syntax of any computing language through considering Web Development, the larger concept taught thoroughly by Rocket's [Software Engineering Bootcamp](https://rocketacademy.co/courses/bootcamp).
 
 There are many paths of software engineering of which Web Development is a simpler one to understand because everyone interacts with the World Wide Web, our internet, on a daily basis.
 

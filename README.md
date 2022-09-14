@@ -2,20 +2,49 @@
 
 ## Welcome to Rocket Elements!
 
-Rocket Elements is Rocket Academy's introductory course into software programming. You will delve the process of creating a fundamental block of the internet - a web page. Web development is... the quintessential blah blah...
+### "What"... is coding?
 
-You will
+Rocket Elements is Rocket Academy's introductory course into software programming. You will delve the process of creating a fundamental block of the internet - a web page.&#x20;
 
-Why are you here? Why write code? Writing code is not bound to one specific reason...
+What so special about designing your own web page? Each web page is the fundamental of the Internet (World Wide Web)! As you well know, the internet is deeply woven into the tapestry of our daily communal lives, connecting us in a profound way that was not available to us before 1991 (when the internet was made public).&#x20;
 
-* Work as a developer for a company
-  * Able to do what you love for a living and technology isn't going anywhere in the near future for sure; job security
-* Freelance or run your own business
-* Build your own product or SaaS (Software as a Service)
-  * &#x20;possibilities are endless... but of course a lot of work and marketing to create successful products
-* Create educational content
-* Code as a hobby
-  * Totally fine to build stuff for yourself and you end
+Interested? We have detailed the context of the internet in our optional ["Introduction" module ](modules/0-introduction/)that we hope you can take your time reading and internalizing.
+
+### "Why"... coding?
+
+Why are you here? Why is programming important? The reasons to write code are myriad and should not be bound to any one particular reason.
+
+#### 1. Code as a hobby.
+
+It is absolutely fine to learn how to code and not use it to earn a living! In fact, many developers within the industry will confess to having coded as a hobby earlier before starting to consider it as a formal job later on.
+
+Chances are, as you build small programs to help automate and ease certain tasks for your daily life, that someone else would find that your program would benefit them as well and you may realize that your code can impact a large portion of society by meeting a societal need. And that leads us to the rest of the points below.
+
+#### 2. Work as a developer for a company.
+
+The modern adage of "doing what you love as a job". Naturally those who found themselves proficient and enjoying the art of programming turn to this option. Nevertheless, "coding as a career" is never going to be the same as "coding as a hobby". Yet many still choose to do so knowing that it is what they still enjoy doing and their knowledge is sufficient for them to make ends meet.
+
+To top that, technology, with much certainty, will not disappear in the near future. If anything, new technologies will be developed and the world's needs for programmers will only increase: there is great job security within the industry as you continue to learn and upskill yourself.
+
+As a company's developer you will most likely have much lesser freedom when it comes to implementing the various parts of a project and will have to always consult your superior in terms of both the functionality and design.
+
+#### 3. Freelance or entrepreneurship.
+
+For greater autonomy, while not for everyone, people also choose to "be their own boss", running their own business - building the software they want to build while not being tied to an organization's needs and concerns.
+
+Of course, with this option, comes the need for great self-discipline and a much bigger array of skills and knowledge in running a profitable business.
+
+In this realm code can be used in one of two major ways:
+
+(1) as a support structure to automate the company's administrative and logistical needs while pushing other types of products (i.e. dropshipping / blogs / POS systems / CRMs) - knowing how to code enables you to create in-house systems tailored for your specific needs!
+
+(2) as the main product itself
+
+#### 4. Build your own products or SaaS (Software as a Service).
+
+#### 5. Creating educational content.
+
+
 
 Through Basics will enable you to understand the logic of the fundamental syntax of any computing language through considering Web Development, the larger concept taught thoroughly by Rocket's [Software Engineering Bootcamp](https://rocketacademy.co/courses/bootcamp).
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🚀 Course Overview](README.md)
+* [🚀 Welcome to Rocket's Dev Fundamentals!](README.md)
 
 ## Logistics
 

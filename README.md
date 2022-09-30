@@ -1,6 +1,12 @@
-# 🚀 Course Overview
+# 🚀 Welcome to Rocket's Dev Fundamentals!
 
-## Welcome to Rocket Elements!
+## Overview
+
+Welcome! Developer Fundamentals is Rocket Academy's certification course that enables graduates to either:\
+(1) Enter the industry: be well prepared for our [Coding Bootcamp](https://bc.rocketacademy.co/) that will springboard you into the tech industry as a full-fledged Software Engineer\
+(2) Future-proofing and relevant: be adequately equipped and certified to interact with and understand coding professionals across various industries
+
+
 
 ### "What"... is coding?
 

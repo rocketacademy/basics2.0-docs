@@ -1,5 +1,7 @@
 ---
-description: To partake in RA's courses, we will need the following hardware and software.
+description: >-
+  To partake in Rocket's courses, we will need the following hardware and
+  software.
 ---
 
 # 💻 Required Software and Setup

@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
+---
+
 # 🚀 Welcome to Rocket's Dev Fundamentals!
 
 ## Overview
@@ -6,13 +20,11 @@ Welcome! Developer Fundamentals is Rocket Academy's certification course that en
 (1) Enter the industry: be well prepared for our [Coding Bootcamp](https://bc.rocketacademy.co/) that will springboard you into the tech industry as a full-fledged Software Engineer\
 (2) Future-proofing and relevant: be adequately equipped and certified to interact with and understand coding professionals across various industries
 
-
-
 ### "What"... is coding?
 
-Rocket Elements is Rocket Academy's introductory course into software programming. You will delve the process of creating a fundamental block of the internet - a web page.&#x20;
+Rocket Elements is Rocket Academy's introductory course into software programming. You will delve the process of creating a fundamental block of the internet - a web page.
 
-What so special about designing your own web page? Each web page is the fundamental of the Internet (World Wide Web)! As you well know, the internet is deeply woven into the tapestry of our daily communal lives, connecting us in a profound way that was not available to us before 1991 (when the internet was made public).&#x20;
+What so special about designing your own web page? Each web page is the fundamental of the Internet (World Wide Web)! As you well know, the internet is deeply woven into the tapestry of our daily communal lives, connecting us in a profound way that was not available to us before 1991 (when the internet was made public).
 
 Interested? We have detailed the context of the internet in our optional ["Introduction" module ](modules/0-introduction/)that we hope you can take your time reading and internalizing.
 
@@ -49,8 +61,6 @@ In this realm code can be used in one of two major ways:
 #### 4. Build your own products or SaaS (Software as a Service).
 
 #### 5. Creating educational content.
-
-
 
 Through Basics will enable you to understand the logic of the fundamental syntax of any computing language through considering Web Development, the larger concept taught thoroughly by Rocket's [Software Engineering Bootcamp](https://rocketacademy.co/courses/bootcamp).
 

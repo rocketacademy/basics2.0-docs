@@ -2,7 +2,7 @@
 layout:
   title:
     visible: false
-  description:
+  description: For the hungry
     visible: false
   tableOfContents:
     visible: false
